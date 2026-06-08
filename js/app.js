@@ -14,7 +14,7 @@ import { zamanlayiciBaslat } from './game/timer-manager.js';
 import { modalAc, modalKapat, disaTiklaKapat, onayGoster, onayKapat } from './ui/modal.js';
 import { toastGoster } from './ui/toast.js';
 import { klavyeDurumunuGuncelle } from './ui/keyboard.js';
-import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet, cihazIdGetir, profilleriGetir, aktifProfiliGetir, firebaseProfilGuncelle, migrasyonYap, profilleriFirebaseIleEslestir, tumProfillereSilmeDinleyicisiBaslat, bakimModuVeDuyuruKontrol, duyurulariGoster, profilSilOnay, yeniProfilEkle, kopyala, genelSifirlaBaslat, aktifProfilUiGuncelle, yedekKoduGoster, profilGeriYukle } from './services/firebase.js';
+import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet, cihazIdGetir, profilleriGetir, aktifProfiliGetir, firebaseProfilGuncelle, migrasyonYap, profilleriFirebaseIleEslestir, profilSilOnay, aktifProfilUiGuncelle, tumProfillereSilmeDinleyicisiBaslat, duyurulariGoster, yedekKoduGoster, profilGeriYukle, genelSifirlaBaslat, kopyala } from './services/firebase.js';
 import { genelSkorTablosunuDinle } from './services/leaderboard.js';
 import { hataBildir, gecmisHataBildir, gecmisDetayGoster, sonucFavoriToggle, gecmisSekmeGec, favoriToggle, favoriKaldir } from './services/feedback.js';
 
@@ -57,16 +57,16 @@ signInAnonymously(kimlikDogrulama).catch(console.error);
 
   console.log("1");
 
-migrasyonYap().catch(console.warn);
+  migrasyonYap().catch(console.warn);
 
-console.log("2");
+  console.log("2");
 
-// bakimModuVeDuyuruKontrol();
-// genelSkorTablosunuDinle();
+  // bakimModuVeDuyuruKontrol();
+  // genelSkorTablosunuDinle();
 
-console.log("3");
+  console.log("3");
 
-ekraniGoster('baslangicEkrani');
+  ekraniGoster('baslangicEkrani');
 
   let sonDokunma = 0;
   document.addEventListener('touchend', (e) => {
@@ -287,7 +287,7 @@ window.adminSoruYukle = async function() {
         ${veri.cevap ? `<div style="font-size:12px;color:#a5d6a7;">Cevap: ${veri.cevap}</div>` : ''}
         ${veri.alternatifler ? `<div style="font-size:12px;color:#a5d6a7;">Alternatif: ${veri.alternatifler}</div>` : ''}
         <div style="font-size:11px;color:var(--metin-soluk);">${veri.profilAdi} — ${new Date(veri.tarih).toLocaleDateString('tr-TR')}</div>
-        <button onclick="adminOneriReddet('${key}')" style="background:rgba(255,65,65,0.2);border:1px solid rgba(255,65,65,0.4);color:#ff4141;border-radius:8px;padding:4px 12px;font-size:12px;cursor:pointer;">Sil</button>
+        <button onclick="adminOneriReddet('${key}')" style="background:rgba(255,65,65,0.2);border:1px solid rgba(255,65,65,0.4);color:#ff4141;border-radius:8px;padding:4px 12px;font-size:12px;cursor:pointer;">✕ Reddet</button>
       `;
       liste.appendChild(el);
     });
@@ -306,7 +306,7 @@ window.adminOneriReddet = async function(key) {
 
 // Tüm window atamaları
 window.profilOlustur = profilOlustur;
-window.yeniProfilEkle = yeniProfilEkle;
+window.yeniProfilEkle = profilListesiniGuncelle;
 window.cevapVer = cevapVer;
 window.pasCek = pasCek;
 window.erkenBitir = () => oyunuBitir(true);
