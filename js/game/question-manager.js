@@ -9,7 +9,10 @@ export async function sorulariYukle() {
     const dosyaAdi = HARF_DOSYA_ESLEME[harf];
     try {
       const yanit = await fetch(`./questions/${dosyaAdi}_questions.json`);
-      if (!yanit.ok) throw new Error(`${harf} yüklenemedi`);
+
+console.log("DOSYA:", dosyaAdi, yanit.status);
+
+if (!yanit.ok) throw new Error(`${harf} yüklenemedi`);
       const sorular = await yanit.json();
       const numaraliSorular = sorular.map((s, idx) => {
         s.id = s.id || idx + 1;
