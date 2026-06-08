@@ -549,3 +549,37 @@ export function aktifProfilUiGuncelle() {
       : `Şu an aktif profil • Silmek için basılı tut`;
   }
 }
+
+// DÜZELTME: skorkaydet buraya eklendi — score-manager.js bu fonksiyona ihtiyaç duyuyor
+export async function skorkaydet(puan, dogru, yanlis, pas, detay) {
+  const profil = aktifProfiliGetir();
+  if (!profil) return;
+
+  const skorVerisi = {
+    isim: profil.ad,
+    puan,
+    dogru,
+    yanlis,
+    pas,
+    detay: detay || [],
+    tarih: new Date().toISOString(),
+    cihazId: cihazIdGetir()
+  };
+
+  try {
+    await push(ref(veritabani, 'skorlar'), skorVerisi);
+  } catch(e) {
+    console.warn('Skor kaydedilemedi:', e);
+  }
+
+  // Kişisel skorlar
+  const profiller = profilleriGetir();
+  const indeks = profiller.findIndex(p => p.id === profil.id);
+  if (indeks !== -1) {
+    profiller[indeks].skorlar = profiller[indeks].skorlar || [];
+    profiller[indeks].skorlar.unshift({ puan, dogru, yanlis, pas, tarih: skorVerisi.tarih });
+    profiller[indeks].skorlar = profiller[indeks].skorlar.slice(0, 50);
+    profilleriKaydet(profiller);
+    firebaseProfilGuncelle(profiller[indeks]);
+  }
+}

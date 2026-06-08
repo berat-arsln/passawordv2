@@ -1,5 +1,9 @@
-import { ref, onValue, get, remove, set, push, query, orderByChild, limitToLast } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-database.js";
-import { veritabani } from './firebase.js'; // Assuming veritabani is exported from firebase.js
+import { ref, onValue, get } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-database.js";
+// DÜZELTME: veritabani firebase.js'den export edilmiyordu, getDatabase ile alıyoruz
+import { getDatabase } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-database.js";
+import { aktifProfiliGetir } from './firebase.js';
+
+const veritabani = getDatabase();
 
 export function genelSkorTablosunuDinle() {
   const skorRef = ref(veritabani, 'skorlar');
@@ -38,12 +42,11 @@ export function genelSkorTablosunuDinle() {
           <span style="color:var(--pas-renk);">~ ${p}</span>
         </div>
       `;
-
       satir.style.cursor = 'pointer';
       satir.addEventListener('click', (e) => {
         if (e.target.tagName === 'BUTTON') return;
         if (skor.detay && skor.detay.length > 0) {
-          import('./feedback.js').then(m => m.gecmisDetayGoster(skor, 0));
+          import('../ui/feedback.js').then(m => m.gecmisDetayGoster(skor, 0));
         } else {
           import('../ui/toast.js').then(m => m.toastGoster('Bu oyunun detayı yok.'));
         }
@@ -54,6 +57,33 @@ export function genelSkorTablosunuDinle() {
 }
 
 export function kisiselSkorTablosunuGuncelle() {
-  const profil = import('./firebase.js').then(m => m.aktifProfiliGetir());
-  // We need to await, but here is simplified
+  const profil = aktifProfiliGetir();
+  const liste = document.getElementById('kisiselSkorListe');
+  if (!liste) return;
+  liste.innerHTML = '';
+  if (!profil || !profil.skorlar || profil.skorlar.length === 0) {
+    liste.innerHTML = `<div style="text-align:center;color:var(--metin-soluk);padding:24px;font-size:14px;">Henüz kişisel skor yok.</div>`;
+    return;
+  }
+  const madalyalar = ['🥇', '🥈', '🥉'];
+  [...profil.skorlar]
+    .sort((a, b) => b.puan - a.puan)
+    .slice(0, 20)
+    .forEach((skor, i) => {
+      const satir = document.createElement('div');
+      satir.className = 'skor-satir';
+      satir.innerHTML = `
+        <div class="skor-satir-ust">
+          <div class="skor-sira">${madalyalar[i] || i + 1}</div>
+          <div class="skor-isim">${new Date(skor.tarih).toLocaleDateString('tr-TR')}</div>
+          <div class="skor-puan">${skor.puan} puan</div>
+        </div>
+        <div class="skor-satir-alt">
+          <span style="color:var(--dogru-renk);">✓ ${skor.dogru || 0}</span>
+          <span style="color:var(--yanlis-renk);">✗ ${skor.yanlis || 0}</span>
+          <span style="color:var(--pas-renk);">~ ${skor.pas || 0}</span>
+        </div>
+      `;
+      liste.appendChild(satir);
+    });
 }
