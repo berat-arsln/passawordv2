@@ -23,8 +23,3 @@ export function bilgisayarModunuAyarla() {
     document.querySelector('.giris-klavye-alani').style.display = 'none';
   }
 }
-
-// Satır 6'yı değiştir:
-import { canliIstatistikGuncelle } from './game/score-manager.js';
-// screens.js importuna canliIstatistikGuncelle'yi kaldır
-}
