@@ -16,7 +16,7 @@ import { toastGoster } from './ui/toast.js';
 import { klavyeDurumunuGuncelle } from './ui/keyboard.js';
 import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet, cihazIdGetir, profilleriGetir, aktifProfiliGetir, firebaseProfilGuncelle, migrasyonYap, profilleriFirebaseIleEslestir, tumProfillereSilmeDinleyicisiBaslat, bakimModuVeDuyuruKontrol, duyurulariGoster, profilSilOnay, yeniProfilEkle, kopyala, genelSifirlaBaslat, aktifProfilUiGuncelle, yedekKoduGoster, profilGeriYukle } from './services/firebase.js';
 import { genelSkorTablosunuDinle } from './services/leaderboard.js';
-import { hataBildir, gecmisHataBildir, gecmisDetayGoster, sonucFavoriToggle, gecmisSekmeGec, favoriToggle, favoriKaldir } from './ui/feedback.js';
+import { hataBildir, gecmisHataBildir, gecmisDetayGoster, sonucFavoriToggle, gecmisSekmeGec, favoriToggle, favoriKaldir } from './services/feedback.js';
 
 const firebaseYapılandırma = {
   apiKey: "AIzaSyBGELLtIOdSbNbBasEOjI53wTMcY9GlD6Y",
