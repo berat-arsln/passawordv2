@@ -2,6 +2,10 @@ import { app } from "./firebase-config.js";
 
 import { getDatabase, ref, push, onValue, query, orderByChild, limitToLast, set, remove, get } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-database.js";
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-auth.js";
+import { toastGoster } from '../ui/toast.js';
+import { modalAc, modalKapat } from '../ui/modal.js';
+import { onayGoster } from '../ui/modal.js';
+import { ekraniGoster } from '../ui/screens.js';
 
 const veritabani = getDatabase(app);
 const kimlikDogrulama = getAuth(app);
@@ -225,7 +229,7 @@ export function profilOlustur() {
   yedekKoduOlustur(yeniProfil).then(() => {
     localStorage.setItem('pw_aktif_profil', yeniProfil.id);
     aktifProfilUiGuncelle();
-    document.getElementById('hosgeldinIsim').textContent = ad;
+    document.getElementById('hosgeldinIsim').textContent = isim;
     document.getElementById('profilOlusturKutu').style.display = 'none';
     hazir.style.display = 'flex';
     hazir.style.flexDirection = 'column';
@@ -289,7 +293,7 @@ export function profilListesiniGuncelle() {
     const satir = document.createElement('div');
     satir.className = `profil-satir${profil.id === aktifProfil?.id ? ' aktif-profil' : ''}`;
     const enIyiSkor = profil.skorlar?.length > 0 ? Math.max(...profil.skorlar.map(s => s.puan)) : 0;
-    satir.innerHTML = `<div class="profil-adi">${profil.ad}${profil.yedekKod ? `<span style="font-size:10px;color:var(--metin-soluk);font-weight:600;margin-left:6px;letter-spacing:1px;">${profil.yedekKod}</span>` : ''}</div><div class="profil-skor">${enIyiSkor > 0 ? enIyiSkor + ' puan' : 'Yeni'}</div>${profil.id === aktifProfil?.id ? '<span class="rozet-aktif">AKTİF</span>' : ''}`;
+    satir.innerHTML = `<div class="profil-adi">${profil.ad}${profil.yedekKod ? `<span style="font-size:10px;color:var(--metin-soluk);font-weight:600;margin-left:6px;letter-spacing:1px;">${profil.yedekKod}</span>` : ''}</div><div class="profil-puan">Skor: ${enIyiSkor}</div>`;
 
     satir.addEventListener('click', () => {
       localStorage.setItem('pw_aktif_profil', profil.id);
