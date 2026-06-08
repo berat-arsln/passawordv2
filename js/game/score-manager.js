@@ -1,7 +1,7 @@
 import { oyunDurumu } from '../core/state.js';
 import { HARFLER } from '../core/constants.js';
 import { gecmiseKaydet } from '../services/firebase.js';
-import { skorkaydet } from './firebase.js'; // This import is circular; we'll handle in implementation
+import { skorkaydet } from './services/firebase.js'; // This import is circular; we'll handle in implementation
 
 // We'll use import { set } from firebase-database to update scores
 
