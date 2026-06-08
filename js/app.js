@@ -23,6 +23,7 @@ const kimlikDogrulama = getAuth(app);
 signInAnonymously(kimlikDogrulama).catch(console.error);
 
 window.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('yuklemeMesaj').textContent = 'DOMContentLoaded çalıştı';
   const aktifProfilSatir = document.getElementById('aktifProfilSatir');
   let uzunBasmaZamanlayi;
   aktifProfilSatir.addEventListener('touchstart', () => {
