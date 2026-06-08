@@ -302,7 +302,7 @@ window.adminOneriReddet = async function(key) {
     toastGoster('Silindi');
     window.adminSoruYukle();
   } catch(e) { toastGoster('Hata!'); }
-})();
+};
 
 // Tüm window atamaları
 window.profilOlustur = profilOlustur;
