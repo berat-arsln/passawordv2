@@ -1,8 +1,10 @@
+import { app } from "./firebase-config.js";
+
 import { getDatabase, ref, push, onValue, query, orderByChild, limitToLast, set, remove, get } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-database.js";
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-auth.js";
 
-const veritabani = getDatabase(); // assumes app already initialized
-const kimlikDogrulama = getAuth();
+const veritabani = getDatabase(app);
+const kimlikDogrulama = getAuth(app);
 
 export function cihazIdGetir() {
   let cihazId = localStorage.getItem('pw_cihaz_id');
