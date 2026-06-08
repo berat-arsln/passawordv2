@@ -1,1 +1,106 @@
+@media (min-width: 1025px) {
+  .giris-klavye-alani {
+    display: none !important;
+  }
+  #bilgisayarCevapAlani {
+    display: block !important;
+  }
 
+  /* BİLGİSAYAR İÇİN ÖZEL DÜZELTMELER */
+  .header {
+    padding: 16px 40px;
+  }
+  .header-baslik {
+    font-size: 28px;
+  }
+  .header-buton {
+    width: 44px;
+    height: 44px;
+    font-size: 20px;
+  }
+
+  /* Oyun Alanı (Daire ve Butonun bulunduğu orta kısım) */
+  .oyun-alani {
+    gap: 24px; /* Daire ile buton arasına net boşluk */
+    justify-content: center;
+    padding-top: 20px; /* Üstten kesilmesini engeller */
+    position: relative;
+  }
+
+  /* CANLI İSTATİSTİKLER (Sağ Üst Köşeye Sabitlendi) */
+  .canli-istatistik.normal {
+    position: absolute;
+    right: 40px;
+    top: 0;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 16px;
+    font-size: 18px;
+    width: auto;
+    padding: 0;
+  }
+  .ist-sag {
+    flex-direction: column;
+    gap: 12px;
+    align-items: flex-end;
+  }
+
+  /* ERKEN BİTİR BUTONU */
+  .erken-bitir-buton {
+    margin-top: 0;
+    padding: 10px 30px;
+    font-size: 14px;
+    margin-bottom: 20px; /* Input ile arasına mesafe koyar */
+  }
+
+  /* ALT CEVAP ALANI - Siyahlık kalktı ve EN ALTA sabitlendi */
+  #bilgisayarCevapAlani {
+    background: transparent;
+    backdrop-filter: none;
+    border-top: none;
+    padding: 0 0 40px 0; /* Sayfanın en altından 40px boşluk bırakır */
+    margin-top: auto; /* Kutuyu kesin olarak sayfanın en altına iter */
+  }
+  .bilgisayar-cevap-satiri {
+    display: flex;
+    gap: 16px;
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  #bilgisayarCevapGiris {
+    flex: 1;
+    max-width: 550px;
+    background: #111827;
+    border: 1.5px solid rgba(255, 255, 255, 0.12);
+    border-radius: 12px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0 20px;
+    height: 60px;
+    outline: none;
+  }
+  #bilgisayarCevapGiris:focus {
+    border-color: rgba(79, 195, 247, 0.5);
+  }
+  #bilgisayarPasButon {
+    background: linear-gradient(145deg, #ffd740, #f5a623);
+    border: none;
+    border-radius: 12px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 900;
+    width: 120px;
+    height: 60px;
+    cursor: pointer;
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .klavye-tusu {
+      height: 42px;
+      max-width: 40px;
+    }
+  }
+}

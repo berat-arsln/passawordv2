@@ -1,1 +1,255 @@
+/* ========================================================================= */
+/* CSS TASARIM KODLARI (BAŞLANGIÇ)                                           */
+/* ========================================================================= */
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:root {
+  --arka-plan-ana: #0a0e1a;
+  --arka-plan-ikincil: #0d1530;
+  --yesil-top-ac: #7ecf3a;
+  --yesil-top-orta: #4a9e1a;
+  --yesil-top-koyu: #2d6b0a;
+  --dogru-renk: #00e676;
+  --yanlis-renk: #ff1744;
+  --pas-renk: #ffd600;
+  --zamanlayici-renk: #ff3b3b;
+  --metin-beyaz: #ffffff;
+  --metin-soluk: #8899bb;
+  --baslik-renk: #4fc3f7;
+}
+
+html,
+body {
+  width: 100%;
+  /* vh yerine dvh (dynamic viewport height) kullanıyoruz. 
+Böylece klavye açıldığında ekran kendini buna göre daraltır */
+  height: 100dvh;
+  background: var(--arka-plan-ana);
+  color: var(--metin-beyaz);
+  font-family: "Segoe UI", Arial, sans-serif;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.ekran {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  height: 100dvh;
+}
+
+.gizli {
+  display: none !important;
+}
+
+/* --------- YÜKLEME EKRANI --------- */
+#yuklemEkrani {
+  background: radial-gradient(
+    ellipse at 50% 30%,
+    #0d2050 0%,
+    #0a0e1a 70%
+  );
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  z-index: 999;
+}
+.yukleme-logo {
+  font-size: clamp(24px, 7vw, 36px);
+  font-weight: 900;
+  letter-spacing: 4px;
+  background: linear-gradient(
+    135deg,
+    #fff 20%,
+    #a8d4ff 60%,
+    #4fc3f7 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 16px #4fc3f766);
+}
+.yukleme-cember {
+  width: 48px;
+  height: 48px;
+  border: 4px solid rgba(255, 255, 255, 0.1);
+  border-top-color: #4fc3f7;
+  border-radius: 50%;
+  animation: donYukleme 0.8s linear infinite;
+}
+@keyframes donYukleme {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.yukleme-metin {
+  color: var(--metin-soluk);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+/* --------- YATAY UYARI --------- */
+#yatayUyari {
+  background: var(--arka-plan-ana);
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  z-index: 998;
+  text-align: center;
+  padding: 32px;
+}
+.yatay-ikon {
+  font-size: 64px;
+  animation: donYatay 2s ease-in-out infinite;
+}
+@keyframes donYatay {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-90deg);
+  }
+}
+.yatay-metin {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+.yatay-alt {
+  font-size: 14px;
+  color: var(--metin-soluk);
+}
+
+/* --------- BAŞLANGIÇ EKRANI --------- */
+#baslangicEkrani {
+background: radial-gradient(
+  ellipse at 50% 30%,
+  #0d2050 0%,
+  #0a0e1a 70%
+);
+justify-content: center;
+gap: 32px;
+padding-top: 70px;
+}
+.baslangic-logo {
+  text-align: center;
+}
+.baslangic-logo h1 {
+  font-size: clamp(28px, 8vw, 42px);
+  font-weight: 900;
+  letter-spacing: 4px;
+  background: linear-gradient(
+    135deg,
+    #fff 20%,
+    #a8d4ff 60%,
+    #4fc3f7 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 16px #4fc3f766);
+}
+.baslangic-logo p {
+  color: var(--metin-soluk);
+  font-size: 14px;
+  margin-top: 8px;
+  letter-spacing: 1px;
+}
+.profil-kutusu {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 24px 20px;
+  width: 88%;
+  max-width: 360px;
+  text-align: center;
+}
+.profil-kutusu h3 {
+  font-size: 17px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.profil-kutusu p {
+  font-size: 13px;
+  color: var(--metin-soluk);
+  margin-bottom: 20px;
+}
+.giris-alani {
+  width: 100%;
+  background: #111827;
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 13px 16px;
+  outline: none;
+  margin-bottom: 14px;
+  text-align: center;
+  transition: border-color 0.2s;
+}
+.giris-alani:focus {
+  border-color: #4fc3f7;
+}
+.ana-buton {
+  background: linear-gradient(145deg, #1976d2, #0d47a1);
+  border: none;
+  border-radius: 14px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 14px 32px;
+  cursor: pointer;
+  width: 100%;
+  box-shadow: 0 4px 20px rgba(25, 118, 210, 0.4);
+  transition: transform 0.1s, opacity 0.1s;
+}
+.ana-buton:active {
+  transform: scale(0.96);
+  opacity: 0.9;
+}
+#hazirEkrani {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  width: 88%;
+  max-width: 360px;
+}
+.hosgeldin-metin {
+  color: var(--metin-soluk);
+  font-size: 15px;
+  text-align: center;
+}
+.hosgeldin-metin span {
+  color: #fff;
+  font-weight: 700;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 2px;
+}
+
+/* ========================================================================= */
+/* CSS TASARIM KODLARI (BİTİŞ)                                               */
+/* ========================================================================= */
