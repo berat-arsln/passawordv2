@@ -3,17 +3,20 @@ import { getDatabase, ref, push, onValue, query, orderByChild, limitToLast, set,
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-auth.js";
 import { HARFLER, HARF_DOSYA_ESLEME, EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, EMAILJS_PUBLIC_KEY, OYUN_SURESI } from './core/constants.js';
 import { oyunDurumu, resetState } from './core/state.js';
+// DÜZELTME: canliIstatistikGuncelle screens.js'den değil score-manager.js'den alınıyor
 import { yatayModKontrol, bilgisayarModunuAyarla, ekraniGoster } from './ui/screens.js';
 import { canliIstatistikGuncelle } from './game/score-manager.js';
-import { cevapVer, pasCek, daireOlustur, harfiAktifYap, sonrakiSoruya } from './game/game-engine.js';
+import { cevapVer, pasCek, sonrakiSoruya } from './game/game-engine.js';
+import { daireOlustur, harfiAktifYap } from './game/question-manager.js';
 import { sorulariYukle, sorulariSec } from './game/question-manager.js';
 import { skorkaydet, oyunuBitir } from './game/score-manager.js';
 import { zamanlayiciBaslat } from './game/timer-manager.js';
 import { modalAc, modalKapat, disaTiklaKapat, onayGoster, onayKapat } from './ui/modal.js';
 import { toastGoster } from './ui/toast.js';
 import { klavyeDurumunuGuncelle } from './ui/keyboard.js';
-import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet, cihazIdGetir, profilleriGetir, profilleriKaydet, aktifProfiliGetir, firebaseProfilGuncelle, migrasyonYap, profilleriFirebaseIleEslestir, tumProfillereSilmeDinleyicisiBaslat, bakimModuVeDuyuruKontrol, duyurulariGoster } from './services/firebase.js';
+import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet, cihazIdGetir, profilleriGetir, aktifProfiliGetir, firebaseProfilGuncelle, migrasyonYap, profilleriFirebaseIleEslestir, tumProfillereSilmeDinleyicisiBaslat, bakimModuVeDuyuruKontrol, duyurulariGoster, profilSilOnay, yeniProfilEkle, kopyala, genelSifirlaBaslat, aktifProfilUiGuncelle, yedekKoduGoster, profilGeriYukle } from './services/firebase.js';
 import { genelSkorTablosunuDinle } from './services/leaderboard.js';
+import { hataBildir, gecmisHataBildir, gecmisDetayGoster, sonucFavoriToggle, gecmisSekmeGec, favoriToggle, favoriKaldir } from './ui/feedback.js';
 
 const firebaseYapılandırma = {
   apiKey: "AIzaSyBGELLtIOdSbNbBasEOjI53wTMcY9GlD6Y",
@@ -77,14 +80,11 @@ window.addEventListener('DOMContentLoaded', () => {
 window.oyunuBaslat = async function () {
   await sorulariYukle();
   sorulariSec();
-
   resetState();
-
   ekraniGoster('oyunEkrani');
   tumProfillereSilmeDinleyicisiBaslat();
   get(ref(veritabani, 'ayarlar/duyurular')).then(snap => duyurulariGoster(snap));
   canliIstatistikGuncelle();
-
   setTimeout(() => {
     klavyeDurumunuGuncelle();
     daireOlustur();
@@ -109,57 +109,6 @@ window.anaSayfayaGit = function () {
   }
 };
 
-window.profilOlustur = profilOlustur;
-window.cevapVer = cevapVer;
-window.pasCek = pasCek;
-window.erkenBitir = () => oyunuBitir(true);
-window.modalAc = modalAc;
-window.modalKapat = modalKapat;
-window.disaTiklaKapat = disaTiklaKapat;
-window.onayKapat = onayKapat;
-window.toastGoster = toastGoster;
-window.hataBildir = hataBildir;
-window.gecmisHataBildir = gecmisHataBildir;
-window.anaSayfayaGit = anaSayfayaGit;
-window.passaWordMenuAc = passawordMenuAc;
-window.passaWordPanelSec = passawordPanelSec;
-window.adminGirisKontrol = adminGirisKontrol;
-window.profilleriFirebaseIleEslestir = profilleriFirebaseIleEslestir;
-window.profilListesiniGuncelle = profilListesiniGuncelle;
-window.yedekKoduOlustur = yedekKoduOlustur;
-window.yedekKoduGoster = yedekKoduGoster;
-window.profilGeriYukle = profilGeriYukle;
-window.genelSifirlaBaslat = genelSifirlaBaslat;
-window.kopyala = kopyala;
-window.adminGiris = adminGiris;
-window.adminJsonKopyala = adminJsonKopyala;
-window.adminOneriReddet = adminOneriReddet;
-window.hataOneriReddet = hataOneriReddet;
-window.pwSkorSil = pwSkorSil;
-window.pwSkorEkle = pwSkorEkle;
-window.pwSkorTablosuSifirlaOnay = pwSkorTablosuSifirlaOnay;
-window.pwSiralamayiGor = pwSiralamayiGor;
-window.pwOyuncuAra = pwOyuncuAra;
-window.pwOyuncuSil = pwOyuncuSil;
-window.pwDuyuruEkle = pwDuyuruEkle;
-window.pwDuyuruSil = pwDuyuruSil;
-window.pwBakimToggle = pwBakimToggle;
-window.adminSoruYukle = adminSoruYukle;
-window.adminSoruDuzenleAc = adminSoruDuzenleAc;
-window.adminSoruDuzenleIptal = adminSoruDuzenleIptal;
-window.adminSoruKaydet = adminSoruKaydet;
-window.adminSoruSilOnay = adminSoruSilOnay;
-window.adminSoruSil = adminSoruSil;
-window.adminSoruEkle = adminSoruEkle;
-window.adminSorulariDuzelt = adminSorulariDuzelt;
-window.adminDuzenleSekmeGec = adminDuzenleSekmeGec;
-window.gecmisSekmeGec = gecmisSekmeGec;
-window.favoriToggle = favoriToggle;
-window.favoriKaldir = favoriKaldir;
-window.gecmisDetayGoster = gecmisDetayGoster;
-window.sonucFavoriToggle = sonucFavoriToggle;
-window.onayKapat = onayKapat;
-
 // Klavye ve layout eventleri
 let maxEkranBoyutu = window.visualViewport ? window.visualViewport.height : window.innerHeight;
 window.addEventListener('orientationchange', () => {
@@ -168,6 +117,14 @@ window.addEventListener('orientationchange', () => {
     ekraniYenile();
   }, 300);
 });
+
+function ekraniYenile() {
+  import('./game/question-manager.js').then(m => {
+    if (!document.getElementById('oyunEkrani').classList.contains('gizli')) {
+      m.daireOlustur();
+    }
+  });
+}
 
 if (window.visualViewport) {
   let klavyeZamanlayici;
@@ -197,73 +154,14 @@ document.addEventListener('keydown', (e) => {
   if (document.querySelector('.modal-arkaplan.acik')) return;
   const bilgisayarMi = !window._dokunmatik && window.innerWidth >= 1025;
   if (bilgisayarMi) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      cevapVer();
-    }
+    if (e.key === 'Enter') { e.preventDefault(); cevapVer(); }
     if (e.key === ' ' && document.activeElement !== document.getElementById('bilgisayarCevapGiris')) {
-      e.preventDefault();
-      pasCek();
+      e.preventDefault(); pasCek();
     }
   } else {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      cevapVer();
-      return;
-    }
+    if (e.key === 'Enter') { e.preventDefault(); cevapVer(); return; }
   }
 });
-
-// Active profile UI update function
-function aktifProfilUiGuncelle() {
-  const profil = aktifProfiliGetir();
-  const adiEl = document.getElementById('aktifProfilAdi');
-  const altEl = document.getElementById('aktifProfilAlt');
-  if (!profil) {
-    if (adiEl) adiEl.textContent = '—';
-    if (altEl) altEl.innerHTML = 'Henüz profil yok';
-    return;
-  }
-  if (adiEl) adiEl.textContent = profil.ad;
-  if (altEl) {
-    altEl.innerHTML = profil.yedekKod
-      ? `Şu an aktif profil • Silmek için basılı tut<br><span style="font-size:10px;color:#4fc3f7;letter-spacing:1px;">${profil.yedekKod}</span>`
-      : `Şu an aktif profil • Silmek için basılı tut`;
-  }
-}
-
-// Additional utility functions merged from original (like passawordMenuAc, sekmeGec, etc.)
-window.passawordMenuAc = function() {
-  const menu = document.getElementById('passaWordMenu');
-  if (!menu) return;
-  const acikMi = !menu.classList.contains('gizli');
-  if (acikMi) {
-    menu.classList.add('gizli');
-  } else {
-    menu.classList.remove('gizli');
-    setTimeout(() => {
-      document.addEventListener('click', function kapat(e) {
-        if (!menu.contains(e.target)) {
-          menu.classList.add('gizli');
-          document.removeEventListener('click', kapat);
-        }
-      });
-    }, 0);
-  }
-};
-
-window.passawordPanelSec = function(e, panel) {
-  if (e && e.stopPropagation) e.stopPropagation();
-  const menu = document.getElementById('passaWordMenu');
-  if (menu) menu.classList.add('gizli');
-  ['skor','oyuncu','ayarlar'].forEach(p => {
-    const el = document.getElementById('pwNav' + p.charAt(0).toUpperCase() + p.slice(1));
-    if (el) el.style.background = p === panel ? 'rgba(79,195,247,0.15)' : 'transparent';
-  });
-  if (panel === 'skor') modalAc('skorModal');
-  else if (panel === 'oyuncu') modalAc('profilSecModal');
-  else if (panel === 'ayarlar') modalAc('ayarlarModal');
-};
 
 window.sekmeGec = function (sekme) {
   document.getElementById('sekmeGenel').classList.toggle('aktif', sekme === 'genel');
@@ -309,25 +207,127 @@ window.geriBildirimGonder = async function () {
   const profilAdi = profil ? profil.ad : 'Anonim';
   const cevap = document.getElementById('geriBildirimCevap').value.trim();
   const alternatif = document.getElementById('geriBildirimAlternatif').value.trim();
-
   try {
-    const geriBildirimRef = ref(veritabani, 'geribildirimler');
-    await push(geriBildirimRef, {
-      profilAdi,
-      kategori,
-      altTur,
-      mesaj,
-      cevap: cevap || '',
-      alternatifler: alternatif || '',
+    await push(ref(veritabani, 'geribildirimler'), {
+      profilAdi, kategori, altTur, mesaj,
+      cevap: cevap || '', alternatifler: alternatif || '',
       tarih: new Date().toISOString()
     });
     toastGoster('Geri bildiriminiz gönderildi! Teşekkürler 🙏');
     document.getElementById('geriBildirimMesaj').value = '';
     modalKapat('geriBildirimModal');
-  } catch (hata) {
-    console.warn(hata);
+  } catch (hata) { console.warn(hata); }
+};
+
+window.passaWordMenuAc = function() {
+  const menu = document.getElementById('passaWordMenu');
+  if (!menu) return;
+  const acikMi = !menu.classList.contains('gizli');
+  if (acikMi) {
+    menu.classList.add('gizli');
+  } else {
+    menu.classList.remove('gizli');
+    setTimeout(() => {
+      document.addEventListener('click', function kapat(e) {
+        if (!menu.contains(e.target)) {
+          menu.classList.add('gizli');
+          document.removeEventListener('click', kapat);
+        }
+      });
+    }, 0);
   }
 };
 
-// Fonksiyonların window'a atanması devam eder... (some missing due to length, but they will be imported and attached).
-// The full list of window assignments to be continued in the actual file.
+window.passaWordPanelSec = function(e, panel) {
+  if (e && e.stopPropagation) e.stopPropagation();
+  const menu = document.getElementById('passaWordMenu');
+  if (menu) menu.classList.add('gizli');
+  ['skor','oyuncu','ayarlar'].forEach(p => {
+    const el = document.getElementById('pwNav' + p.charAt(0).toUpperCase() + p.slice(1));
+    if (el) el.style.background = p === panel ? 'rgba(79,195,247,0.15)' : 'transparent';
+  });
+  if (panel === 'skor') modalAc('skorModal');
+  else if (panel === 'oyuncu') modalAc('profilSecModal');
+  else if (panel === 'ayarlar') modalAc('ayarlarModal');
+};
+
+function adminGirisKontrol() {
+  const sifre = document.getElementById('adminSifreGiris')?.value;
+  return sifre === 'pw2025admin';
+}
+
+window.adminGiris = function() {
+  if (adminGirisKontrol()) {
+    localStorage.setItem('pw_admin_giris', 'true');
+    document.getElementById('adminSifreEkrani').classList.add('gizli');
+    document.getElementById('adminIcerik').classList.remove('gizli');
+    adminSoruYukle();
+  } else {
+    toastGoster('Yanlış şifre!');
+  }
+};
+
+window.adminSoruYukle = async function() {
+  const liste = document.getElementById('adminOneriListe');
+  if (!liste) return;
+  liste.innerHTML = '<div style="text-align:center;color:var(--metin-soluk);padding:24px;">Yükleniyor...</div>';
+  try {
+    const snap = await get(ref(veritabani, 'geribildirimler'));
+    if (!snap.exists()) {
+      liste.innerHTML = '<div style="text-align:center;color:var(--metin-soluk);padding:24px;">Bekleyen öneri yok.</div>';
+      return;
+    }
+    liste.innerHTML = '';
+    Object.entries(snap.val()).forEach(([key, veri]) => {
+      const el = document.createElement('div');
+      el.className = 'skor-satir';
+      el.style.cssText = 'flex-direction:column;align-items:flex-start;gap:6px;padding:12px 16px;';
+      el.innerHTML = `
+        <div style="font-weight:700;color:#4fc3f7;">${veri.kategori} — ${veri.altTur}</div>
+        <div style="font-size:13px;color:#fff;">${veri.mesaj}</div>
+        ${veri.cevap ? `<div style="font-size:12px;color:#a5d6a7;">Cevap: ${veri.cevap}</div>` : ''}
+        ${veri.alternatifler ? `<div style="font-size:12px;color:#a5d6a7;">Alternatif: ${veri.alternatifler}</div>` : ''}
+        <div style="font-size:11px;color:var(--metin-soluk);">${veri.profilAdi} — ${new Date(veri.tarih).toLocaleDateString('tr-TR')}</div>
+        <button onclick="adminOneriReddet('${key}')" style="background:rgba(255,65,65,0.2);border:1px solid rgba(255,65,65,0.4);color:#ff4141;border-radius:8px;padding:4px 12px;font-size:12px;cursor:pointer;">Sil</button>
+      `;
+      liste.appendChild(el);
+    });
+  } catch(e) {
+    liste.innerHTML = '<div style="text-align:center;color:#ff4141;padding:24px;">Yükleme hatası.</div>';
+  }
+};
+
+window.adminOneriReddet = async function(key) {
+  try {
+    await remove(ref(veritabani, `geribildirimler/${key}`));
+    toastGoster('Silindi');
+    window.adminSoruYukle();
+  } catch(e) { toastGoster('Hata!'); }
+};
+
+// Tüm window atamaları
+window.profilOlustur = profilOlustur;
+window.yeniProfilEkle = yeniProfilEkle;
+window.cevapVer = cevapVer;
+window.pasCek = pasCek;
+window.erkenBitir = () => oyunuBitir(true);
+window.modalAc = modalAc;
+window.modalKapat = modalKapat;
+window.disaTiklaKapat = disaTiklaKapat;
+window.onayKapat = onayKapat;
+window.toastGoster = toastGoster;
+window.hataBildir = hataBildir;
+window.gecmisHataBildir = gecmisHataBildir;
+window.gecmisDetayGoster = gecmisDetayGoster;
+window.sonucFavoriToggle = sonucFavoriToggle;
+window.gecmisSekmeGec = gecmisSekmeGec;
+window.favoriToggle = favoriToggle;
+window.favoriKaldir = favoriKaldir;
+window.profilleriFirebaseIleEslestir = profilleriFirebaseIleEslestir;
+window.profilListesiniGuncelle = profilListesiniGuncelle;
+window.yedekKoduOlustur = yedekKoduOlustur;
+window.yedekKoduGoster = yedekKoduGoster;
+window.profilGeriYukle = profilGeriYukle;
+window.genelSifirlaBaslat = genelSifirlaBaslat;
+window.kopyala = kopyala;
+window.adminGirisKontrol = adminGirisKontrol;
