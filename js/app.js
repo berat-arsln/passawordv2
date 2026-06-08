@@ -54,9 +54,18 @@ window.addEventListener('DOMContentLoaded', () => {
     ekraniGoster('baslangicEkrani');
   }
 
-  migrasyonYap().catch(console.warn);
-  bakimModuVeDuyuruKontrol();
-  genelSkorTablosunuDinle();
+  console.log("1");
+
+migrasyonYap().catch(console.warn);
+
+console.log("2");
+
+// bakimModuVeDuyuruKontrol();
+// genelSkorTablosunuDinle();
+
+console.log("3");
+
+ekraniGoster('baslangicEkrani');
 
   let sonDokunma = 0;
   document.addEventListener('touchend', (e) => {
