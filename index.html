@@ -783,14 +783,15 @@ color:#fff;font-size:15px;font-weight:700;
     <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BAŞLANGIÇ)                         -->
     <!-- ========================================================================= -->
     <script type="module">
-  window.addEventListener('error', e => {
-    document.getElementById('yuklemeMesaj').textContent = e.message + ' — ' + e.filename;
-  });
-  window.addEventListener('unhandledrejection', e => {
-    const r = e.reason;
-document.getElementById('yuklemeMesaj').textContent = String(r) + ' :: ' + (r?.stack || '');
-  });
-  import('./js/app.js');
+document.getElementById('yuklemeMesaj').textContent = 'app.js yükleniyor';
+
+try {
+  await import('./js/app.js');
+  document.getElementById('yuklemeMesaj').textContent = 'app.js yüklendi';
+} catch (e) {
+  document.getElementById('yuklemeMesaj').textContent =
+    e.message + ' | ' + (e.stack || '');
+}
     </script>
     <!-- ========================================================================= -->
     <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BİTİŞ)                               -->
