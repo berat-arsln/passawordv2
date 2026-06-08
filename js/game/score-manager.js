@@ -1,9 +1,7 @@
 import { oyunDurumu } from '../core/state.js';
 import { HARFLER } from '../core/constants.js';
-import { gecmiseKaydet } from '../services/firebase.js';
-import { skorkaydet } from './services/firebase.js'; // This import is circular; we'll handle in implementation
-
-// We'll use import { set } from firebase-database to update scores
+// DÜZELTME: './firebase.js' yerine '../services/firebase.js' — yol hatası giderildi
+import { gecmiseKaydet, skorkaydet } from '../services/firebase.js';
 
 export function oyunuBitir(erkenBitirildi = false) {
   clearInterval(oyunDurumu.zamanlayici);
@@ -20,19 +18,21 @@ export function oyunuBitir(erkenBitirildi = false) {
     oyunDurumu.puan += komboBonus;
   }
 
+  const detay = HARFLER.map(harf => ({
+    harf,
+    durum: oyunDurumu.harfDurumlari[harf] || 'pas',
+    soru: oyunDurumu.secilenSorular[harf]?.soru || '',
+    dogruCevap: oyunDurumu.secilenSorular[harf]?.cevap || '',
+    verilenCevap: oyunDurumu.harfCevaplari[harf]?.verilen || '—'
+  }));
+
   gecmiseKaydet({
     tarih: new Date().toISOString(),
     puan: oyunDurumu.puan,
     dogruSayisi: oyunDurumu.dogruSayisi,
     yanlisSayisi: oyunDurumu.yanlisSayisi,
     pasSayisi: oyunDurumu.pasSayisi,
-    detay: HARFLER.map(harf => ({
-      harf,
-      durum: oyunDurumu.harfDurumlari[harf] || 'pas',
-      soru: oyunDurumu.secilenSorular[harf]?.soru || '',
-      dogruCevap: oyunDurumu.secilenSorular[harf]?.cevap || '',
-      verilenCevap: oyunDurumu.harfCevaplari[harf]?.verilen || '—'
-    }))
+    detay
   });
 
   skorkaydet(
@@ -40,14 +40,9 @@ export function oyunuBitir(erkenBitirildi = false) {
     oyunDurumu.dogruSayisi,
     oyunDurumu.yanlisSayisi,
     oyunDurumu.pasSayisi,
-    HARFLER.map(harf => ({
-      harf,
-      durum: oyunDurumu.harfDurumlari[harf] || 'pas',
-      soru: oyunDurumu.secilenSorular[harf]?.soru || '',
-      dogruCevap: oyunDurumu.secilenSorular[harf]?.cevap || '',
-      verilenCevap: oyunDurumu.harfCevaplari[harf]?.verilen || '—'
-    }))
+    detay
   );
+
   sonucEkraniniOlustur(sureBonus, komboBonus);
   import('../ui/screens.js').then(m => m.ekraniGoster('sonucEkrani'));
 }
@@ -64,7 +59,6 @@ function sonucEkraniniOlustur(sureBonus, komboBonus) {
       soru: oyunDurumu.secilenSorular[harf]?.soru || ''
     };
     const sinif = durum === 'dogru' ? 's-dogru' : durum === 'yanlis' ? 's-yanlis' : 's-pas';
-
     const kalem = document.createElement('div');
     kalem.className = `sonuc-kalem ${sinif}`;
     kalem.innerHTML = `
@@ -93,8 +87,7 @@ function sonucEkraniniOlustur(sureBonus, komboBonus) {
     komboCipi.classList.add('gizli');
   }
 
-  const profil = import('../services/firebase.js').then(m => m.aktifProfiliGetir());
-  // This is simplified; we need to properly handle favorite button update.
+  import('../ui/feedback.js').then(m => m.sonucFavoriButonGuncelle(false));
 }
 
 export function canliIstatistikGuncelle() {
