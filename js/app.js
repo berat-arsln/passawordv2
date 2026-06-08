@@ -18,9 +18,16 @@ import { profilOlustur, profilListesiniGuncelle, yedekKoduOlustur, gecmiseKaydet
 import { genelSkorTablosunuDinle } from './services/leaderboard.js';
 import { hataBildir, gecmisHataBildir, gecmisDetayGoster, sonucFavoriToggle, gecmisSekmeGec, favoriToggle, favoriKaldir } from './services/feedback.js';
 
+document.getElementById('yuklemeMesaj').textContent = 'A';
+
 const veritabani = getDatabase(app);
+
+document.getElementById('yuklemeMesaj').textContent = 'B';
+
 const kimlikDogrulama = getAuth(app);
 signInAnonymously(kimlikDogrulama).catch(console.error);
+
+document.getElementById('yuklemeMesaj').textContent = 'C';
 
 (() => {
   document.getElementById('yuklemeMesaj').textContent = 'DOMContentLoaded çalıştı';
