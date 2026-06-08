@@ -1,1 +1,790 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta charset="UTF-8" />
+    <!-- ========================================================================= -->
+    <!-- EKRAN GÖRÜNÜMÜ AYARLARI (Klavye sorunlarını çözmek için dvh kullanıyoruz) -->
+    <!-- ========================================================================= -->
+    <meta
+      name="viewport"
+      content="width=device-width, 
+      initial-scale=1.0, 
+      maximum-scale=1.0, 
+      user-scalable=no, 
+      interactive-widget=resizes-content"
+    />
+    <meta name="theme-color" content="#0a0e1a" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>PassaWord -v2.5.0</title>
 
+    
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/game.css">
+    <link rel="stylesheet" href="css/modal.css">
+    <link rel="stylesheet" href="css/responsive.css">
+  </head>
+  <body>
+    <!-- ========================================================================= -->
+    <!-- HTML İSKELETİ (BAŞLANGIÇ)                                               -->
+    <!-- ========================================================================= -->
+
+    <!-- Yükleme Ekranı -->
+    <div class="ekran" id="yuklemEkrani">
+      <div class="yukleme-logo">PassaWord</div>
+      <div class="yukleme-cember"></div>
+      <div class="yukleme-metin" id="yuklemeMesaj">Sorular yükleniyor...</div>
+    </div>
+
+    <!-- Telefon Yatay Mod Uyarısı -->
+    <div class="ekran gizli" id="yatayUyari">
+      <div class="yatay-ikon">📱</div>
+      <div class="yatay-metin">Lütfen telefonu dik tutun</div>
+      <div class="yatay-alt">Oyun dikey modda oynanmak üzere tasarlandı</div>
+    </div>
+
+<!-- Bakım Ekranı -->
+    <div class="ekran gizli" id="bakimEkrani" style="background:radial-gradient(ellipse at 50% 30%,#1a0d05 0%,#0a0e1a 70%);justify-content:center;align-items:center;flex-direction:column;gap:20px;text-align:center;padding:32px;">
+      <div class="header" style="position:absolute;top:0;left:0;right:0;">
+        <button class="header-buton" onclick="modalAc('ayarlarModal')" aria-label="Ayarlar">⚙️</button>
+        <span class="header-baslik" style="visibility:hidden;">PassaWord</span>
+        <div class="header-sag">
+          <button class="header-buton" onclick="modalAc('skorModal')" aria-label="Skor Tablosu">🏆</button>
+          <button class="header-buton" onclick="modalAc('bilgiModal')" aria-label="Nasıl Oynanır">ℹ️</button>
+        </div>
+      </div>
+      <div style="font-size:64px;">🔧</div>
+      <div style="font-size:22px;font-weight:900;color:#fff;letter-spacing:2px;">BAKIM MODU</div>
+      <div style="font-size:15px;color:var(--metin-soluk);max-width:280px;line-height:1.6;">Oyun şu an bakımda. Kısa süre içinde geri döneceğiz!</div>
+    </div>
+
+    <!-- Başlangıç Ekranı -->
+    <div class="ekran gizli" id="baslangicEkrani">
+      <div class="header" style="position: absolute; top: 0; left: 0; right: 0">
+        <button
+          class="header-buton"
+          onclick="modalAc('ayarlarModal')"
+          aria-label="Ayarlar"
+        >
+          ⚙️
+        </button>
+        <span class="header-baslik" style="visibility: hidden">PassaWord</span>
+        <div class="header-sag">
+          <button
+            class="header-buton"
+            onclick="modalAc('skorModal')"
+            aria-label="Skor Tablosu"
+          >
+            🏆
+          </button>
+          <button
+            class="header-buton"
+            onclick="modalAc('bilgiModal')"
+            aria-label="Nasıl Oynanır"
+          >
+            ℹ️
+          </button>
+        </div>
+      </div>
+      
+      <div id="duyuruBandi" class="gizli" style="width:calc(100% - 28px);background:linear-gradient(90deg,rgba(255,214,0,0.18),rgba(255,214,0,0.10));border:1px solid rgba(255,214,0,0.35);border-radius:12px;padding:10px 14px;display:flex;align-items:center;gap:10px;box-sizing:border-box;overflow:hidden;">
+  <div style="font-size:18px;flex-shrink:0;">📢</div>
+  <div style="flex:1;overflow:hidden;">
+    <div id="duyuruMetni" style="font-size:13px;font-weight:700;color:#ffd600;letter-spacing:0.3px;white-space:nowrap;display:inline-block;animation:duyuruKay 15s linear infinite;"></div>
+  </div>
+</div>
+      
+
+      <div class="baslangic-logo">
+        <h1>PassaWord</h1>
+        <p>Türkçe Alfabe Bilgi Yarışması</p>
+      </div>
+      <div class="profil-kutusu" id="profilOlusturKutu">
+        <h3>👤 Profil Oluştur</h3>
+        <p>Skor tablonuzda görünecek isminizi girin</p>
+        <input
+          type="text"
+          class="giris-alani"
+          id="profilIsimGiris"
+          placeholder="Adınız"
+          maxlength="20"
+          autocomplete="off"
+        />
+        <button class="ana-buton" onclick="profilOlustur()">Devam Et →</button>
+      </div>
+      <div id="hazirEkrani" style="display: none">
+        <div class="hosgeldin-metin">
+          Hoş geldin, <span id="hosgeldinIsim"></span>!
+        </div>
+        <button
+          class="ana-buton"
+          onclick="oyunuBaslat()"
+          style="margin-top: 8px"
+        >
+          ▶ OYNA
+        </button>
+      </div>
+    </div>
+
+    <!-- Ana Oyun Ekranı -->
+    <div class="ekran gizli" id="oyunEkrani">
+      <div class="header">
+        <button
+          class="header-buton"
+          onclick="modalAc('ayarlarModal')"
+          aria-label="Ayarlar"
+        >
+          ⚙️
+        </button>
+        <span class="header-baslik" onclick="passaWordMenuAc()" style="cursor:pointer;user-select:none;position:relative;">PassaWord
+  <div id="passaWordMenu" class="gizli" style="position:absolute;top:34px;left:50%;transform:translateX(-50%);background:#0d1530;border:1px solid rgba(79,195,247,0.25);border-radius:12px;padding:6px;z-index:200;min-width:200px;box-shadow:0 8px 32px rgba(0,0,0,0.6);">
+    <div onclick="passaWordPanelSec(event,'skor')" id="pwNavSkor" style="display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:8px;cursor:pointer;color:#fff;font-size:14px;font-weight:700;-webkit-text-fill-color:#fff;">🏆 Genel Skor</div>
+    <div onclick="passaWordPanelSec(event,'oyuncu')" id="pwNavOyuncu" style="display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:8px;cursor:pointer;color:#fff;font-size:14px;font-weight:700;-webkit-text-fill-color:#fff;">👤 Oyuncu</div>
+    <div onclick="passaWordPanelSec(event,'ayarlar')" id="pwNavAyarlar" style="display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:8px;cursor:pointer;color:#fff;font-size:14px;font-weight:700;-webkit-text-fill-color:#fff;">⚙️ Oyun Ayarları</div>
+  </div>
+</span>
+        <div class="header-sag">
+  <button
+    class="header-buton"
+    onclick="modalAc('skorModal')"
+    aria-label="Skor Tablosu"
+  >
+    🏆
+  </button>
+  <button
+    class="header-buton"
+    onclick="modalAc('bilgiModal')"
+    aria-label="Nasıl Oynanır"
+  >
+    ℹ️
+  </button>
+</div>
+      </div>
+      <div id="duyuruBandiOyun" class="gizli" style="width:calc(100% - 28px);margin:0 14px;background:linear-gradient(90deg,rgba(255,214,0,0.18),rgba(255,214,0,0.10));border:1px solid rgba(255,214,0,0.35);border-radius:12px;padding:10px 14px;display:flex;align-items:center;gap:10px;box-sizing:border-box;overflow:hidden;flex-shrink:0;">
+  <div style="font-size:18px;flex-shrink:0;">📢</div>
+  <div style="flex:1;overflow:hidden;">
+    <div id="duyuruMetniOyun" style="font-size:13px;font-weight:700;color:#ffd600;letter-spacing:0.3px;white-space:nowrap;display:inline-block;animation:duyuruKay 15s linear infinite;"></div>
+  </div>
+</div>
+
+      <div class="oyun-alani">
+        <!-- ========================================== -->
+        <!-- OYUN İÇİ CANLI İSTATİSTİKLER (BAŞLANGIÇ)   -->
+        <!-- (Bu div, klavye açılınca Javascript ile aşağıya taşınır) -->
+        <!-- ========================================== -->
+        <div id="canliIstatistik" class="canli-istatistik normal">
+  <div class="ist-sol">🏆 <span id="canliPuan">0</span></div>
+  <div class="ist-sag" style="display:flex;gap:14px;align-items:center;">
+    <span class="ist-dogru">✅ <span id="canliDogru">0</span></span>
+    <span class="ist-yanlis">❌ <span id="canliYanlis">0</span></span>
+    <span class="ist-pas">⏭️ <span id="canliPas">0</span></span>
+  </div>
+</div>
+        <!-- ========================================== -->
+        <!-- OYUN İÇİ CANLI İSTATİSTİKLER (BİTİŞ)       -->
+        <!-- ========================================== -->
+
+        <div id="daireKonteyneri">
+          <!-- Harf topları buraya gelir -->
+          <div class="merkez-gosterge">
+            <div id="surGosterge">06:00</div>
+            <div id="soruMetni">
+              <span id="soruHarfi">A</span>: Yükleniyor...
+            </div>
+          </div>
+        </div>
+        <button class="erken-bitir-buton" onclick="erkenBitir()">
+          ■ OYUNU BİTİR
+        </button>
+      </div>
+      <!-- Bu div oyun-alani div'inin kapanışıdır -->
+
+      <!-- Mobil/Tablet Giriş ve Klavye -->
+      <div class="giris-klavye-alani" id="klavyeAlaniDiv">
+        <div class="cevap-satiri">
+          <input
+            type="text"
+            id="cevapGiris"
+            placeholder="Cevabınızı yazın..."
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="none"
+            spellcheck="false"
+            inputmode="text"
+          />
+          <button
+            id="pasButon"
+            onmousedown="event.preventDefault()"
+            onclick="pasCek()"
+          >
+            PAS
+          </button>
+        </div>
+      </div>
+
+      <!-- Bilgisayar Cevap Alanı -->
+      <div id="bilgisayarCevapAlani">
+        <div class="bilgisayar-cevap-satiri">
+          <input
+            type="text"
+            id="bilgisayarCevapGiris"
+            placeholder="Cevabınızı yazın... (Enter: Cevapla, Boşluk: Pas)"
+            autocomplete="off"
+          />
+          <button id="bilgisayarPasButon" onclick="pasCek()">PAS</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sonuç Ekranı -->
+    <div class="ekran gizli" id="sonucEkrani">
+      <!-- SONUÇ EKRANINA EKLENEN HEADER BAŞLANGIÇ -->
+      <div class="header">
+        <button
+          class="header-buton"
+          onclick="modalAc('ayarlarModal')"
+          aria-label="Ayarlar"
+        >
+          ⚙️
+        </button>
+        <span class="header-baslik">PassaWord</span>
+        <div class="header-sag">
+          <button
+            class="header-buton"
+            onclick="modalAc('skorModal')"
+            aria-label="Skor Tablosu"
+          >
+            🏆
+          </button>
+          <button
+            class="header-buton"
+            onclick="modalAc('bilgiModal')"
+            aria-label="Nasıl Oynanır"
+          >
+            ℹ️
+          </button>
+        </div>
+      </div>
+      
+      <div id="duyuruBandiSonuc" class="gizli" style="width:calc(100% - 28px);margin:8px 14px 0;background:linear-gradient(90deg,rgba(255,214,0,0.18),rgba(255,214,0,0.10));border:1px solid rgba(255,214,0,0.35);border-radius:12px;padding:10px 14px;display:flex;align-items:center;gap:10px;box-sizing:border-box;overflow:hidden;flex-shrink:0;">
+  <div style="font-size:18px;flex-shrink:0;">📢</div>
+  <div style="flex:1;overflow:hidden;">
+    <div id="duyuruMetniSonuc" style="font-size:13px;font-weight:700;color:#ffd600;letter-spacing:0.3px;white-space:nowrap;display:inline-block;animation:duyuruKay 15s linear infinite;"></div>
+  </div>
+</div>
+      
+      <!-- SONUÇ EKRANINA EKLENEN HEADER BİTİŞ -->
+      <div class="sonuc-header">
+        <h2>🎉 OYUN BİTTİ</h2>
+        <div class="sonuc-puan" id="finalPuan">0</div>
+        <div class="sonuc-puan-etiket">puan</div>
+        <div class="sonuc-istatistik">
+          <div class="istat-cipi dogru" id="istatDogru">✓ 0 Doğru</div>
+          <div class="istat-cipi yanlis" id="istatYanlis">✗ 0 Yanlış</div>
+          <div class="istat-cipi pas" id="istatPas">~ 0 Pas</div>
+          <div class="istat-cipi bonus" id="istatBonus">⏱ +0 Bonus</div>
+          <div
+            class="istat-cipi bonus gizli"
+            id="istatKombo"
+            style="border-color: #ba68c8; color: #ba68c8"
+          >
+            🔥 +0 Kombo
+          </div>
+        </div>
+      </div>
+      
+      
+<div class="sonuc-butonlar" style="padding: 16px 14px 0;">
+        <button id="tekrarOynaButon2" onclick="oyunuBaslat()" style="background:linear-gradient(145deg,#1976d2,#0d47a1);color:#fff;box-shadow:0 4px 16px rgba(25,118,210,0.35);">🔄 Tekrar Oyna</button>
+        <button id="anaSayfaButon2" onclick="anaSayfayaGit()" style="background:rgba(255,65,255,0.47);border:1px solid rgba(255,255,255,0.12);color:#fff;">🏠 Ana Sayfa</button>
+      </div>
+      <div style="padding:4px 14px 8px;width:100%;">
+        <button id="favoriEkleButon2" onclick="sonucFavoriToggle()"
+          style="width:100%;height:46px;border-radius:13px;border:1px solid rgba(255,255,255,0.12);
+          background:rgba(255,255,255,0.07);color:#fff;font-size:15px;font-weight:700;
+          cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;">
+          <span id="favoriButonIkon2"></span>
+          <span id="favoriButonYazi2">Favoriye Ekle</span>
+        </button>
+      </div>
+      <div class="sonuc-liste" id="sonucListe"></div>
+      <div style="padding:8px 14px 0;width:100%;">
+        <button onclick="sonucFavoriToggle()"
+          style="width:100%;height:46px;border-radius:13px;border:1px solid rgba(255,255,255,0.12);
+          background:rgba(255,255,255,0.08);
+color:#fff;font-size:15px;font-weight:700;
+          cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;">
+          <span id="favoriButonIkon"></span>
+          <span id="favoriButonYazi">Favoriye Ekle</span>
+        </button>
+      </div>
+      
+      <div class="sonuc-butonlar">
+        <button id="tekrarOynaButon" onclick="oyunuBaslat()">
+          🔄 Tekrar Oyna
+        </button>
+        <button id="anaSayfaButon" onclick="anaSayfayaGit()">
+          🏠 Ana Sayfa
+        </button>
+      </div>
+    </div>
+
+    <!-- Ayarlar Modali -->
+    <div
+      class="modal-arkaplan"
+      id="ayarlarModal"
+      onclick="disaTiklaKapat(event,'ayarlarModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('ayarlarModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">⚙️ AYARLAR</div>
+        <div class="ayar-bolum">
+          <div class="ayar-etiket">Aktif Profil</div>
+          <div class="ayar-kart">
+            <div class="ayar-satir" id="aktifProfilSatir">
+              <div class="ayar-ikon">👤</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik" id="aktifProfilAdi">—</div>
+                <div class="ayar-alt" id="aktifProfilAlt">
+                  Şu an aktif profil • Silmek için basılı tut
+                </div>
+              </div>
+              <span class="rozet-aktif">AKTİF</span>
+            </div>
+          </div>
+        </div>
+        <div class="ayar-bolum">
+          <div class="ayar-etiket">Profil Yönetimi</div>
+          <div class="ayar-kart">
+            <div class="ayar-satir" onclick="modalAc('profilEkleModal')">
+              <div class="ayar-ikon">➕</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Yeni Profil Ekle</div>
+                <div class="ayar-alt">Farklı kullanıcı için profil oluştur</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+            <div class="ayar-satir" onclick="modalAc('profilSecModal')">
+              <div class="ayar-ikon">🔄</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Profil Değiştir</div>
+                <div class="ayar-alt">Kayıtlı profiller arasında geç</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+            <div class="ayar-satir" onclick="yedekKoduGoster()">
+              <div class="ayar-ikon">🔑</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Yedekleme Kodu</div>
+                <div class="ayar-alt">Profili başka cihaza aktar</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+            <div class="ayar-satir" onclick="modalAc('profilYukleModal')">
+              <div class="ayar-ikon">📥</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Profil Geri Yükle</div>
+                <div class="ayar-alt">Yedekleme kodu ile profil yükle</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+          </div>
+        </div>
+        <div class="ayar-bolum">
+          <div class="ayar-etiket">Oyun Geçmişi</div>
+          <div class="ayar-kart">
+            <div class="ayar-satir" onclick="modalAc('gecmisModal')">
+              <div class="ayar-ikon">📋</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Geçmiş & Favoriler</div>
+                <div class="ayar-alt">Son 20 oyun ve favorilerin</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+          </div>
+        </div>
+        <div class="ayar-bolum">
+          <div class="ayar-etiket">Destek</div>
+          <div class="ayar-kart">
+            <div class="ayar-satir" onclick="modalAc('geriBildirimModal')">
+              <div class="ayar-ikon">💬</div>
+              <div class="ayar-icerik">
+                <div class="ayar-baslik">Geri Bildirim</div>
+                <div class="ayar-alt">Öneri ve şikayetleriniz için</div>
+              </div>
+              <span class="ayar-ok">›</span>
+            </div>
+          </div>
+        </div>
+        <div class="versiyon-metin">PassaWord v2.5.0</div>
+      </div>
+    </div>
+
+    <!-- Skor Tablosu Modali -->
+    <div
+      class="modal-arkaplan"
+      id="skorModal"
+      onclick="disaTiklaKapat(event,'skorModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('skorModal')">✕</button>
+        <div class="modal-baslik">🏆 SKOR TABLOSU</div>
+        <div class="sekmeler">
+          <button
+            class="sekme aktif"
+            id="sekmeGenel"
+            onclick="sekmeGec('genel')"
+          >
+            Genel (Top 20)
+          </button>
+          <button class="sekme" id="sekmeKisisel" onclick="sekmeGec('kisisel')">
+            Kişisel
+          </button>
+        </div>
+        <div class="skor-liste" id="genelSkorListe">
+          <div
+            style="
+              text-align: center;
+              color: var(--metin-soluk);
+              padding: 24px;
+              font-size: 14px;
+            "
+          >
+            Yükleniyor...
+          </div>
+        </div>
+        <div class="skor-liste gizli" id="kisiselSkorListe"></div>
+      </div>
+    </div>
+
+    <!-- Nasıl Oynanır Modali (Yeni Puanlama ile Güncellendi) -->
+    <div
+      class="modal-arkaplan"
+      id="bilgiModal"
+      onclick="disaTiklaKapat(event,'bilgiModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('bilgiModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">ℹ️ NASIL OYNANIR?</div>
+        <div class="bilgi-icerik">
+          <div class="bilgi-blok">
+            <div class="bilgi-ikon">🔤</div>
+            <div class="bilgi-metin">
+              <h3>Cevap Harfi</h3>
+              <p>
+                Her soru için cevap, o harfle başlamak zorunda. A harfindeyken
+                cevap A ile, B harfindeyken B ile başlamalı.
+              </p>
+            </div>
+          </div>
+          <div class="bilgi-blok">
+            <div class="bilgi-ikon">⏱️</div>
+            <div class="bilgi-metin">
+              <h3>Süre</h3>
+              <p>
+                Toplam 6 dakikan var. Süre bitmeden tüm harfleri cevaplamaya
+                çalış!
+              </p>
+            </div>
+          </div>
+          <div class="bilgi-blok">
+            <div class="bilgi-ikon">🎯</div>
+            <div class="bilgi-metin">
+              <h3>Yeni Puanlama Sistemi</h3>
+              <p>
+                Doğru cevap: <b style="color: #00e676">+10 Puan</b><br />
+                Yanlış cevap: <b style="color: #ff1744">-5 Puan</b> (Puanın
+                eksiye düşmez)<br />
+                Kalan süre: Her 10 saniye için
+                <b style="color: #4fc3f7">+1 Puan Bonus</b><br />
+                🔥 Kombo: Toplamda 15 ve üzeri doğru yaparsan, yaptığın doğru
+                sayısı kadar
+                <b style="color: #ba68c8">Ekstra Kombo Puanı</b> kazanırsın!
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Geri Bildirim Modali -->
+    <div
+      class="modal-arkaplan"
+      id="geriBildirimModal"
+      onclick="disaTiklaKapat(event,'geriBildirimModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('geriBildirimModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">💬 GERİ BİLDİRİM</div>
+        <div class="alt-modal">
+          <div class="form-grup">
+            <span class="form-etiket">Kategori</span>
+            <div class="secim-grubu" id="kategoriGrubu">
+              <div
+                class="secim-cipi secili"
+                onclick="cipSec(this,'kategoriGrubu'); altTurGuncelle('oneri')"
+              >
+                💡 Öneri
+              </div>
+              <div
+                class="secim-cipi"
+                onclick="cipSec(this,'kategoriGrubu'); altTurGuncelle('sikayet')"
+              >
+                ⚠️ Şikayet
+              </div>
+            </div>
+          </div>
+          <div class="form-grup">
+            <span class="form-etiket">Alt Tür</span>
+            <div class="secim-grubu" id="altTurGrubu"></div>
+          </div>
+          <div class="form-grup">
+            <span class="form-etiket">Mesajınız</span
+            ><textarea
+              class="giris-alani"
+              id="geriBildirimMesaj"
+              placeholder="Mesajınızı buraya yazın..."
+            ></textarea>
+          </div>
+          <div class="form-grup" id="alternatifGrup" style="display: block">
+            <span class="form-etiket">Doğru Cevap</span
+            ><input
+              type="text"
+              class="giris-alani"
+              id="geriBildirimCevap"
+              placeholder="Doğru cevabı yazın..."
+              style="text-align: left"
+              autocomplete="off"
+            />
+            <span class="form-etiket" style="margin-top: 10px; display: block"
+              >Alternatif Cevaplar</span
+            ><input
+              type="text"
+              class="giris-alani"
+              id="geriBildirimAlternatif"
+              placeholder="Virgülle ayırın: cevap1, cevap2..."
+              style="text-align: left"
+              autocomplete="off"
+            />
+          </div>
+          <button class="gonder-buton" onclick="geriBildirimGonder()">
+            Gönder ✉️
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Diğer Modallar -->
+    <div
+      class="modal-arkaplan"
+      id="profilEkleModal"
+      onclick="disaTiklaKapat(event,'profilEkleModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('profilEkleModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">➕ YENİ PROFİL</div>
+        <div class="alt-modal">
+          <div class="form-grup">
+            <span class="form-etiket">Profil Adı</span
+            ><input
+              type="text"
+              class="giris-alani"
+              id="yeniProfilAdi"
+              placeholder="İsim girin..."
+              maxlength="20"
+              style="text-align: left"
+              autocomplete="off"
+            />
+          </div>
+          <button class="gonder-buton" onclick="yeniProfilEkle()">
+            Oluştur
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="modal-arkaplan"
+      id="profilSecModal"
+      onclick="disaTiklaKapat(event,'profilSecModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('profilSecModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">👤 PROFİL SEÇ</div>
+        <div class="profil-liste" id="profilListesi"></div>
+      </div>
+    </div>
+    <div
+      class="modal-arkaplan"
+      id="yedekKodModal"
+      onclick="disaTiklaKapat(event,'yedekKodModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('yedekKodModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">🔑 YEDEKLEME KODU</div>
+        <div class="alt-modal">
+          <p
+            style="
+              font-size: 13px;
+              color: var(--metin-soluk);
+              margin-bottom: 12px;
+              line-height: 1.6;
+            "
+          >
+            Bu kodu başka bir cihazda "Profil Geri Yükle" ile girerek
+            aktarabilirsin.
+          </p>
+          <div class="yedek-kod-kutu" id="yedekKodGosterge"></div>
+          <button class="gonder-buton" onclick="kopyala('yedekKodGosterge')">
+            📋 Kodu Kopyala
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="modal-arkaplan"
+      id="profilYukleModal"
+      onclick="disaTiklaKapat(event,'profilYukleModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('profilYukleModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">📥 PROFİL GERİ YÜKLE</div>
+        <div class="alt-modal">
+          <div class="form-grup">
+            <span class="form-etiket">Yedekleme Kodu</span
+            ><input
+              type="text"
+              class="giris-alani"
+              id="yedekKodGiris"
+              placeholder="Kodu girin..."
+              style="text-align: left; letter-spacing: 2px"
+              autocomplete="off"
+            />
+          </div>
+          <button class="gonder-buton" onclick="profilGeriYukle()">
+            Yükle
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="modal-arkaplan"
+      id="adminModal"
+      onclick="disaTiklaKapat(event,'adminModal')"
+    >
+      <div class="modal-sayfa">
+        <div class="modal-cubuk"></div>
+        <button class="modal-kapat" onclick="modalKapat('adminModal')">
+          ✕
+        </button>
+        <div class="modal-baslik">🔐 ADMİN PANELİ</div>
+        <div id="adminSifreEkrani" class="alt-modal">
+          <div class="form-grup">
+            <span class="form-etiket">Admin Şifresi</span
+            ><input
+              type="password"
+              class="giris-alani"
+              id="adminSifreGiris"
+              placeholder="Şifreyi girin..."
+              style="text-align: left"
+              autocomplete="off"
+            />
+          </div>
+          <button class="gonder-buton" onclick="adminGiris()">Giriş Yap</button>
+        </div>
+        <div id="adminIcerik" class="gizli">
+          <div style="padding: 0 16px 12px">
+            <div class="ayar-etiket">Bekleyenler</div>
+          </div>
+          <div id="adminOneriListe">
+            <div
+              style="
+                text-align: center;
+                color: var(--metin-soluk);
+                padding: 24px;
+                font-size: 14px;
+              "
+            >
+              Yükleniyor...
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<!-- Geçmiş & Favoriler Modali -->
+<div class="modal-arkaplan" id="gecmisModal" onclick="disaTiklaKapat(event,'gecmisModal')">
+  <div class="modal-sayfa">
+    <div class="modal-cubuk"></div>
+    <button class="modal-kapat" onclick="modalKapat('gecmisModal')">✕</button>
+    <div class="modal-baslik">📋 GEÇMİŞ & FAVORİLER</div>
+    <div class="sekmeler">
+      <button class="sekme aktif" id="sekmeGecmis" onclick="gecmisSekmeGec('gecmis')">🕐 Geçmiş</button>
+      <button class="sekme" id="sekmeFavori" onclick="gecmisSekmeGec('favori')">🔖 Favoriler</button>
+    </div>
+    <div id="gecmisListe" class="skor-liste"></div>
+    <div id="favoriListe" class="skor-liste gizli"></div>
+  </div>
+</div>
+
+<!-- Geçmiş Detay Modali -->
+<div class="modal-arkaplan" id="gecmisDetayModal" onclick="disaTiklaKapat(event,'gecmisDetayModal')">
+  <div class="modal-sayfa">
+    <div class="modal-cubuk"></div>
+    <button class="modal-kapat" onclick="modalKapat('gecmisDetayModal')">✕</button>
+    <div class="modal-baslik" id="gecmisDetayBaslik">Oyun Detayı</div>
+    <div class="sonuc-istatistik" id="gecmisDetayIstat" style="padding:0 16px 12px;"></div>
+    <div class="sonuc-liste" id="gecmisDetayListe" style="padding-bottom:24px;"></div>
+  </div>
+</div>
+
+
+
+    <!-- Onay ve Toast -->
+    <div class="onay-diyalog" id="onayDiyalog">
+      <div class="onay-kutu">
+        <div class="onay-baslik" id="onayBaslik">Emin misin?</div>
+        <div class="onay-mesaj" id="onayMesaj">İşlem geri alınamaz.</div>
+        <div class="onay-butonlar">
+          <button class="onay-evet" id="onayEvetButon">Evet, Sil</button
+          ><button class="onay-hayir" onclick="onayKapat()">İptal</button>
+        </div>
+      </div>
+    </div>
+    <div id="toastBildirim"></div>
+
+    <!-- ========================================================================= -->
+    <!-- HTML İSKELETİ (BİTİŞ)                                                   -->
+    <!-- ========================================================================= -->
+
+    <!-- ========================================================================= -->
+    <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BAŞLANGIÇ)                         -->
+    <!-- ========================================================================= -->
+    <script type="module" src="js/app.js"></script>
+    <!-- ========================================================================= -->
+    <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BİTİŞ)                               -->
+    <!-- ========================================================================= -->
+  </body>
+</html>
