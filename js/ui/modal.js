@@ -1,5 +1,4 @@
 import { toastGoster } from './toast.js';
-import { profilSilOnay } from '../services/firebase.js';
 
 export function modalAc(id) {
   if (id === 'skorModal') import('../services/leaderboard.js').then(m => m.kisiselSkorTablosunuGuncelle());
