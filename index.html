@@ -787,7 +787,8 @@ color:#fff;font-size:15px;font-weight:700;
     document.getElementById('yuklemeMesaj').textContent = e.message + ' — ' + e.filename;
   });
   window.addEventListener('unhandledrejection', e => {
-    document.getElementById('yuklemeMesaj').textContent = String(e.reason);
+    const r = e.reason;
+document.getElementById('yuklemeMesaj').textContent = String(r) + ' :: ' + (r?.stack || '');
   });
   import('./js/app.js');
     </script>
