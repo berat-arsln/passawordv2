@@ -32,8 +32,25 @@ document.getElementById('yuklemeMesaj').textContent = 'C';
 (() => {
   document.getElementById('yuklemeMesaj').textContent = 'DOMContentLoaded çalıştı';
   const aktifProfilSatir = document.getElementById('aktifProfilSatir');
+
+if (aktifProfilSatir) {
   let uzunBasmaZamanlayi;
+
   aktifProfilSatir.addEventListener('touchstart', () => {
+    uzunBasmaZamanlayi = setTimeout(() => {
+      const profil = aktifProfiliGetir();
+      if (profil) profilSilOnay(profil);
+    }, 570);
+  });
+
+  aktifProfilSatir.addEventListener('touchend', () =>
+    clearTimeout(uzunBasmaZamanlayi)
+  );
+
+  aktifProfilSatir.addEventListener('touchmove', () =>
+    clearTimeout(uzunBasmaZamanlayi)
+  );
+}
     uzunBasmaZamanlayi = setTimeout(() => {
       const profil = aktifProfiliGetir();
       if (profil) profilSilOnay(profil);
