@@ -1,0 +1,8188 @@
+[
+  {
+    "id": 1,
+    "soru": "Burkina Faso'nun başkenti",
+    "cevap": "Uagadugu",
+    "alternatifler": [
+      "UAGADUGU"
+    ]
+  },
+  {
+    "id": 2,
+    "soru": "Assasin's Creed serisini yaratan oyun firması",
+    "cevap": "Ubısoft",
+    "alternatifler": [
+      "UBISOFT"
+    ]
+  },
+  {
+    "id": 3,
+    "soru": "Assassin's Creed oyunuyla ünlü Fransız firma",
+    "cevap": "Ubısoft",
+    "alternatifler": [
+      "UBISOFT"
+    ]
+  },
+  {
+    "id": 4,
+    "soru": "Assassin's Creed oyunuyla ünlü Fransız firma",
+    "cevap": "Ubısoft",
+    "alternatifler": [
+      "UBISOFT"
+    ]
+  },
+  {
+    "id": 5,
+    "soru": "Assasin's Creed serisini yaratan oyun firması",
+    "cevap": "Ubısoft",
+    "alternatifler": [
+      "UBISOFT"
+    ]
+  },
+  {
+    "id": 6,
+    "soru": "Bir işe az da olsa yardımcı olmak, __ tutmak",
+    "cevap": "Ucundan",
+    "alternatifler": [
+      "UCUNDAN"
+    ]
+  },
+  {
+    "id": 7,
+    "soru": "Bir şeyi, normal fiyatın altına satan kişi",
+    "cevap": "Ucuzcu",
+    "alternatifler": [
+      "UCUZCU"
+    ]
+  },
+  {
+    "id": 8,
+    "soru": "Malını çok düşük bir fiyatla satan kişi",
+    "cevap": "Ucuzcu",
+    "alternatifler": [
+      "UCUZCU"
+    ]
+  },
+  {
+    "id": 9,
+    "soru": "Malını çok düşük bir fiyatla satan kişi",
+    "cevap": "Ucuzcu",
+    "alternatifler": [
+      "UCUZCU"
+    ]
+  },
+  {
+    "id": 10,
+    "soru": "Bir şeyi, normal fiyatın altına satan kişi",
+    "cevap": "Ucuzcu",
+    "alternatifler": [
+      "UCUZCU"
+    ]
+  },
+  {
+    "id": 11,
+    "soru": "Bir şeyi, normal fiyatın altına satan kişi",
+    "cevap": "Ucuzcu",
+    "alternatifler": [
+      "UCUZCU"
+    ]
+  },
+  {
+    "id": 12,
+    "soru": "Bir malın fiyatında meydana gelen düşüş",
+    "cevap": "Ucuzlama",
+    "alternatifler": [
+      "UCUZLAMA"
+    ]
+  },
+  {
+    "id": 13,
+    "soru": "Bir malın fiyatında meydana gelen düşüş",
+    "cevap": "Ucuzlama",
+    "alternatifler": [
+      "UCUZLAMA"
+    ]
+  },
+  {
+    "id": 14,
+    "soru": "Bir malın fiyatında meydana gelen düşüş",
+    "cevap": "Ucuzlama",
+    "alternatifler": [
+      "UCUZLAMA"
+    ]
+  },
+  {
+    "id": 15,
+    "soru": "Fiyatı düşmek, değerini yitirmek",
+    "cevap": "Ucuzlamak",
+    "alternatifler": [
+      "UCUZLAMAK"
+    ]
+  },
+  {
+    "id": 16,
+    "soru": "Uygun fiyatlı olma durumu, düşük fiyatlılık",
+    "cevap": "Ucuzluk",
+    "alternatifler": [
+      "UCUZLUK"
+    ]
+  },
+  {
+    "id": 17,
+    "soru": "Ürün fiyatlarının düşük olması durumu",
+    "cevap": "Ucuzluk",
+    "alternatifler": [
+      "UCUZLUK"
+    ]
+  },
+  {
+    "id": 18,
+    "soru": "Ürün fiyatlarının düşük olması durumu",
+    "cevap": "Ucuzluk",
+    "alternatifler": [
+      "UCUZLUK"
+    ]
+  },
+  {
+    "id": 19,
+    "soru": "Uma Thurman ile John Travolta'nın yer aldığı film",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 20,
+    "soru": "Cannes'da Altın Palmiye alan Tarantino filmi",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 21,
+    "soru": "Quentin Tarantino imzalı 1994 yapımı kült film",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 22,
+    "soru": "Orijinali Pulp Fiction olan filmin Türkçe adı",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 23,
+    "soru": "Soyguncu bir çifti konu edinen Tarantino filmi",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 24,
+    "soru": "Uma Thurman ile John Travolta'nın yer aldığı film",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 25,
+    "soru": "Quentin Tarantino imzalı 1994 yapımı kült film",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 26,
+    "soru": "Cannes'da Altın Palmiye alan Tarantino filmi",
+    "cevap": "Ucuz roman",
+    "alternatifler": [
+      "UCUZ ROMAN",
+      "Ucuzroman"
+    ]
+  },
+  {
+    "id": 27,
+    "soru": "Neticesi henüz bilinmeyen anlamındaki söz dizisi",
+    "cevap": "Ucu açık",
+    "alternatifler": [
+      "UCU ACIK",
+      "UCU AÇIK",
+      "Ucuaçık"
+    ]
+  },
+  {
+    "id": 28,
+    "soru": "__ yok, nerede bittiği görünmeyen şeylere denir",
+    "cevap": "Ucu bucağı",
+    "alternatifler": [
+      "UCU BUCAĞI",
+      "UCU BUCAGI",
+      "Ucubucağı"
+    ]
+  },
+  {
+    "id": 29,
+    "soru": "__ yok; başı sonu belli olmayan şeylere denir",
+    "cevap": "Ucu bucağı",
+    "alternatifler": [
+      "UCU BUCAĞI",
+      "UCU BUCAGI",
+      "Ucubucağı"
+    ]
+  },
+  {
+    "id": 30,
+    "soru": "Aracın kalkış saatine son anda yetişme hali",
+    "cevap": "Ucu ucuna",
+    "alternatifler": [
+      "UCU UCUNA",
+      "Ucuucuna"
+    ]
+  },
+  {
+    "id": 31,
+    "soru": "Yetişecek kadar",
+    "cevap": "Ucu ucuna",
+    "alternatifler": [
+      "UCU UCUNA",
+      "Ucuucuna"
+    ]
+  },
+  {
+    "id": 32,
+    "soru": "Mecazen en son raddede, ancak yetişecek biçimde",
+    "cevap": "Ucu ucuna",
+    "alternatifler": [
+      "UCU UCUNA",
+      "Ucuucuna"
+    ]
+  },
+  {
+    "id": 33,
+    "soru": "Kuşlarla ilgili akla gelen ilk özellik",
+    "cevap": "Uçabilme",
+    "alternatifler": [
+      "UCABILME",
+      "UÇABILME"
+    ]
+  },
+  {
+    "id": 34,
+    "soru": "Kandıramazsın Beni, bu Gülben Ergen albümündedir",
+    "cevap": "Uçacaksın",
+    "alternatifler": [
+      "UCACAKSIN",
+      "UÇACAKSIN"
+    ]
+  },
+  {
+    "id": 35,
+    "soru": "Havadan gelen saldırılara karşı kullanılan silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 36,
+    "soru": "Uçak saldırılarına karşı kullanılan silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 37,
+    "soru": "Hava saldırısı yapan taşıtları imha eder",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 38,
+    "soru": "Hava saldırılarını engelleyen savunma silahı",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 39,
+    "soru": "Hava kuvvetlerine karşı kullanılan silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 40,
+    "soru": "Hava hedeflerini yerden vuran silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 41,
+    "soru": "Hava saldırılarını engelleyen savunma silahı",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 42,
+    "soru": "Hava kuvvetlerine karşı kullanılan silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 43,
+    "soru": "Hava hedeflerini yerden vuran silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 44,
+    "soru": "Hava saldırısı yapan taşıtları imha eder",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 45,
+    "soru": "Havadan gelen saldırılara karşı kullanılan silah",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 46,
+    "soru": "Hava saldırılarını engelleyen savunma silahı",
+    "cevap": "Uçaksavar",
+    "alternatifler": [
+      "UÇAKSAVAR",
+      "UCAKSAVAR"
+    ]
+  },
+  {
+    "id": 47,
+    "soru": "Nesli tükenen dodo, bu şekilde bilinirdi, __ kuş",
+    "cevap": "Uçamayan",
+    "alternatifler": [
+      "UCAMAYAN",
+      "UÇAMAYAN"
+    ]
+  },
+  {
+    "id": 48,
+    "soru": "Nesli tükenen dodo, bu şekilde bilinirdi, __ kuş",
+    "cevap": "Uçamayan",
+    "alternatifler": [
+      "UCAMAYAN",
+      "UÇAMAYAN"
+    ]
+  },
+  {
+    "id": 49,
+    "soru": "Televole programı bu yeni isimle devam etti",
+    "cevap": "Uçankuş",
+    "alternatifler": [
+      "UÇANKUŞ",
+      "UCANKUS"
+    ]
+  },
+  {
+    "id": 50,
+    "soru": "Antalya'nın Serik ilçesinde yer alan şelale",
+    "cevap": "Uçansu",
+    "alternatifler": [
+      "UCANSU",
+      "UÇANSU"
+    ]
+  },
+  {
+    "id": 51,
+    "soru": "Antalya'nın Serik ilçesinde yer alan şelale",
+    "cevap": "Uçansu",
+    "alternatifler": [
+      "UCANSU",
+      "UÇANSU"
+    ]
+  },
+  {
+    "id": 52,
+    "soru": "Antalya'nın Serik ilçesinde yer alan şelale",
+    "cevap": "Uçansu",
+    "alternatifler": [
+      "UCANSU",
+      "UÇANSU"
+    ]
+  },
+  {
+    "id": 53,
+    "soru": "Yüzgeçleriyle havalanabilen bir deniz canlısı",
+    "cevap": "Uçan balık",
+    "alternatifler": [
+      "UÇAN BALIK",
+      "UCAN BALIK",
+      "Uçanbalık"
+    ]
+  },
+  {
+    "id": 54,
+    "soru": "Havalanmaya meyilli kauçuk küre",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 55,
+    "soru": "Havalanmaya meyilli kauçuk küre",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 56,
+    "soru": "Havalanmaya meyilli kauçuk küre",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 57,
+    "soru": "İçi helyumla doldurulan bir çocuk oyuncağı",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 58,
+    "soru": "İçi helyumla doldurulan bir çocuk oyuncağı",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 59,
+    "soru": "İçi helyumla doldurulan bir çocuk oyuncağı",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 60,
+    "soru": "İçi helyumla doldurulan bir çocuk oyuncağı",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 61,
+    "soru": "İçi helyumla doldurulan bir çocuk oyuncağı",
+    "cevap": "Uçan balon",
+    "alternatifler": [
+      "UCAN BALON",
+      "UÇAN BALON",
+      "Uçanbalon"
+    ]
+  },
+  {
+    "id": 62,
+    "soru": "UFO gözlemcilerinin araştırdığı yuvarlak obje",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 63,
+    "soru": "UFO gözlemcilerinin izlediği yuvarlak obje",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 64,
+    "soru": "UFO'nun halk arasındaki adı",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 65,
+    "soru": "UFO'nun halk arasındaki adı",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 66,
+    "soru": "UFO da denen, uzaylılara ait olduğu düşünülen gemi",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 67,
+    "soru": "UFO'nun halk arasındaki adı",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 68,
+    "soru": "UFO gözlemcilerinin araştırdığı yuvarlak obje",
+    "cevap": "Uçan daire",
+    "alternatifler": [
+      "UCAN DAIRE",
+      "UÇAN DAIRE",
+      "Uçandaire"
+    ]
+  },
+  {
+    "id": 69,
+    "soru": "Muzaffer İzgü'nün Murat'ı anlatan çocuk romanı",
+    "cevap": "Uçan eşek",
+    "alternatifler": [
+      "UCAN ESEK",
+      "UÇAN EŞEK",
+      "Uçaneşek"
+    ]
+  },
+  {
+    "id": 70,
+    "soru": "Muzaffer İzgü'nün Murat'ı anlatan çocuk romanı",
+    "cevap": "Uçan eşek",
+    "alternatifler": [
+      "UCAN ESEK",
+      "UÇAN EŞEK",
+      "Uçaneşek"
+    ]
+  },
+  {
+    "id": 71,
+    "soru": "Alaaddin'in özel taşıtı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 72,
+    "soru": "Alaaddin'in özel taşıtı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 73,
+    "soru": "Masal kahramanı Alaaddin'in büyülü ulaşım aracı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 74,
+    "soru": "Alaaddin'in sihirli ulaşım aracı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 75,
+    "soru": "Masal kahramanı Sinbad'ın ulaşım aracı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 76,
+    "soru": "Alaaddin'in sihirli ulaşım aracı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 77,
+    "soru": "Masal kahramanı Sinbad'ın ulaşım aracı",
+    "cevap": "Uçan halı",
+    "alternatifler": [
+      "UÇAN HALI",
+      "UCAN HALI",
+      "Uçanhalı"
+    ]
+  },
+  {
+    "id": 78,
+    "soru": "Maharetli kişinin elinden ancak kurtulabilen ikili",
+    "cevap": "Uçan kaçan",
+    "alternatifler": [
+      "UÇAN KAÇAN",
+      "UCAN KACAN",
+      "Uçankaçan"
+    ]
+  },
+  {
+    "id": 79,
+    "soru": "Maharetli kişinin elinden ancak kurtulabilen ikili",
+    "cevap": "Uçan kaçan",
+    "alternatifler": [
+      "UÇAN KAÇAN",
+      "UCAN KACAN",
+      "Uçankaçan"
+    ]
+  },
+  {
+    "id": 80,
+    "soru": "Yazarı Erich Kastner olan çocuk kitabı",
+    "cevap": "Uçan sınıf",
+    "alternatifler": [
+      "UCAN SINIF",
+      "UÇAN SINIF",
+      "Uçansınıf"
+    ]
+  },
+  {
+    "id": 81,
+    "soru": "Pınar Eğilmez'in tanınmasını sağlayan roman",
+    "cevap": "Uçan tabut",
+    "alternatifler": [
+      "UCAN TABUT",
+      "UÇAN TABUT",
+      "Uçantabut"
+    ]
+  },
+  {
+    "id": 82,
+    "soru": "Voleybol sözcüğü için TDK'nın belirlediği karşılık",
+    "cevap": "Uçan top",
+    "alternatifler": [
+      "UCAN TOP",
+      "UÇAN TOP",
+      "Uçantop"
+    ]
+  },
+  {
+    "id": 83,
+    "soru": "Chrysopelea adlı zıplayabilen uzun sürüngen",
+    "cevap": "Uçan yılan",
+    "alternatifler": [
+      "UCAN YILAN",
+      "UÇAN YILAN",
+      "Uçanyılan"
+    ]
+  },
+  {
+    "id": 84,
+    "soru": "Laura Dern bu 1991 tarihli filmle Oscar adayı oldu",
+    "cevap": "Uçarı gül",
+    "alternatifler": [
+      "UCARI GUL",
+      "UÇARI GÜL",
+      "Uçarıgül"
+    ]
+  },
+  {
+    "id": 85,
+    "soru": "Trabzon'un Akçaabat ilçesinde yer alan şelale",
+    "cevap": "Uçarsu",
+    "alternatifler": [
+      "UÇARSU",
+      "UCARSU"
+    ]
+  },
+  {
+    "id": 86,
+    "soru": "Kapadokya'nın zirvesinde yer alan ünlü kale",
+    "cevap": "Uçhisar",
+    "alternatifler": [
+      "UCHISAR",
+      "UÇHISAR"
+    ]
+  },
+  {
+    "id": 87,
+    "soru": "Kapadokya'nın zirvesinde yer alan ünlü kale",
+    "cevap": "Uçhisar",
+    "alternatifler": [
+      "UCHISAR",
+      "UÇHISAR"
+    ]
+  },
+  {
+    "id": 88,
+    "soru": "Argoda borcunu ödemek, para vermek",
+    "cevap": "Uçlanmak",
+    "alternatifler": [
+      "UCLANMAK",
+      "UÇLANMAK"
+    ]
+  },
+  {
+    "id": 89,
+    "soru": "0.5 veya 0.7 mm ekipmanla çalışan yazma gereci",
+    "cevap": "Uçlu kalem",
+    "alternatifler": [
+      "UCLU KALEM",
+      "UÇLU KALEM",
+      "Uçlukalem"
+    ]
+  },
+  {
+    "id": 90,
+    "soru": "Havada yol alan şeyleri temel alan bir çocuk oyunu",
+    "cevap": "Uçtu uçtu",
+    "alternatifler": [
+      "UÇTUUÇTU",
+      "UCTUUCTU"
+    ]
+  },
+  {
+    "id": 91,
+    "soru": "Havada yol alan şeyleri temel alan bir çocuk oyunu",
+    "cevap": "Uçtu uçtu",
+    "alternatifler": [
+      "UÇTUUÇTU",
+      "UCTUUCTU"
+    ]
+  },
+  {
+    "id": 92,
+    "soru": "Adını, havalanan cisimlerden alan çocuk oyunu",
+    "cevap": "Uçtu uçtu",
+    "alternatifler": [
+      "UÇTUUÇTU",
+      "UCTUUCTU"
+    ]
+  },
+  {
+    "id": 93,
+    "soru": "Bulutsuzluk Özlemi'nin 2. stüdyo albümü",
+    "cevap": "Uçtu uçtu",
+    "alternatifler": [
+      "UÇTU UÇTU",
+      "UCTU UCTU",
+      "Uçtuuçtu"
+    ]
+  },
+  {
+    "id": 94,
+    "soru": "Bulutsuzluk Özlemi'nin 2. stüdyo albümü",
+    "cevap": "Uçtu uçtu",
+    "alternatifler": [
+      "UÇTU UÇTU",
+      "UCTU UCTU",
+      "Uçtuuçtu"
+    ]
+  },
+  {
+    "id": 95,
+    "soru": "Fazla hareketli kişiler için yapılan yakıştırma",
+    "cevap": "Uçuk kaçık",
+    "alternatifler": [
+      "UCUK KACIK",
+      "UÇUK KAÇIK",
+      "Uçukkaçık"
+    ]
+  },
+  {
+    "id": 96,
+    "soru": "Delice anlamındaki bir ikileme",
+    "cevap": "Uçuk kaçık",
+    "alternatifler": [
+      "UCUK KACIK",
+      "UÇUK KAÇIK",
+      "Uçukkaçık"
+    ]
+  },
+  {
+    "id": 97,
+    "soru": "Argoda, kimseye görünmeden bir nesneyi alıp gitme",
+    "cevap": "Uçurma",
+    "alternatifler": [
+      "UCURMA",
+      "UÇURMA"
+    ]
+  },
+  {
+    "id": 98,
+    "soru": "Argoda, kimseye görünmeden bir nesneyi alıp gitme",
+    "cevap": "Uçurma",
+    "alternatifler": [
+      "UCURMA",
+      "UÇURMA"
+    ]
+  },
+  {
+    "id": 99,
+    "soru": "Pilotların uçakla ilgili temel görevi",
+    "cevap": "Uçurmak",
+    "alternatifler": [
+      "UCURMAK",
+      "UÇURMAK"
+    ]
+  },
+  {
+    "id": 100,
+    "soru": "Pilotların uçakla ilgili temel görevi",
+    "cevap": "Uçurmak",
+    "alternatifler": [
+      "UCURMAK",
+      "UÇURMAK"
+    ]
+  },
+  {
+    "id": 101,
+    "soru": "Yüksek hızlara çıkarak araba sürmek",
+    "cevap": "Uçurmak",
+    "alternatifler": [
+      "UCURMAK",
+      "UÇURMAK"
+    ]
+  },
+  {
+    "id": 102,
+    "soru": "Yüksek hızlara çıkarak araba sürmek",
+    "cevap": "Uçurmak",
+    "alternatifler": [
+      "UCURMAK",
+      "UÇURMAK"
+    ]
+  },
+  {
+    "id": 103,
+    "soru": "Pilotların uçakla ilgili temel görevi",
+    "cevap": "Uçurmak",
+    "alternatifler": [
+      "UCURMAK",
+      "UÇURMAK"
+    ]
+  },
+  {
+    "id": 104,
+    "soru": "İp yardımıyla tutulan, gökyüzünde gezen oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 105,
+    "soru": "İp yardımıyla tutulan, rüzgar dostu oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 106,
+    "soru": "Gökte süzülen şekilli kağıt",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 107,
+    "soru": "İple kontrol edilen açık hava oyuncağı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 108,
+    "soru": "Çıta, ip ve yağlı kağıtla yapılan uçan oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 109,
+    "soru": "__ Avcısı, bir Afgan çocuğun öyküsü",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 110,
+    "soru": "İple kontrol edilen açık hava oyuncağı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 111,
+    "soru": "Hafif çıtalardan yapılmış kuyruklu oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 112,
+    "soru": "Rüzgara karşı havalanan, iple çekilen oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 113,
+    "soru": "Benjamin Franklin'in deney için kullandığı oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 114,
+    "soru": "__ Bayramları, Levent Yüksel şarkısı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 115,
+    "soru": "Khaled Hosseini romanı, __ Avcısı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 116,
+    "soru": "Hava akımını kullanan, uzun ipe bağlı oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 117,
+    "soru": "Hava akımını kullanan, uzun ipe bağlı oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 118,
+    "soru": "Rüzgara karşı havalanan, iple çekilen oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 119,
+    "soru": "__ Avcısı, Halit Hüseyni romanı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 120,
+    "soru": "Hava akımını kullanan, uzun ipe bağlı oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 121,
+    "soru": "Gökte süzülen şekilli kağıt",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 122,
+    "soru": "Halit Hüseyni'nin bestseller romanı, __ Avcısı",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 123,
+    "soru": "Gökte süzülen şekilli kağıt",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 124,
+    "soru": "İp yardımıyla tutulan, gökyüzünde gezen oyuncak",
+    "cevap": "Uçurtma",
+    "alternatifler": [
+      "UCURTMA",
+      "UÇURTMA"
+    ]
+  },
+  {
+    "id": 125,
+    "soru": "__ Vurmasınlar, Feride Çiçekoğlu'nun kitabıdır",
+    "cevap": "Uçurtmayı",
+    "alternatifler": [
+      "UCURTMAYI",
+      "UÇURTMAYI"
+    ]
+  },
+  {
+    "id": 126,
+    "soru": "Ankara'da, cezaevinde çekilen film, __ Vurmasınlar",
+    "cevap": "Uçurtmayı",
+    "alternatifler": [
+      "UCURTMAYI",
+      "UÇURTMAYI"
+    ]
+  },
+  {
+    "id": 127,
+    "soru": "Ankara'da, cezaevinde çekilen film, __ Vurmasınlar",
+    "cevap": "Uçurtmayı",
+    "alternatifler": [
+      "UCURTMAYI",
+      "UÇURTMAYI"
+    ]
+  },
+  {
+    "id": 128,
+    "soru": "Yüksek ve çok dik yamaç",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 129,
+    "soru": "Yüksek bir yerin dik ve derin kenarı",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 130,
+    "soru": "Mecaz anlamda iki şey arasındaki çok derin fark",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 131,
+    "soru": "Yolun bittiği yerdeki yüksek yamaç",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 132,
+    "soru": "Bir dağ veya tepenin dik, keskin ve yüksek kenarı",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 133,
+    "soru": "Karşılaştırılan iki şey arasında çıkan büyük fark",
+    "cevap": "Uçurum",
+    "alternatifler": [
+      "UCURUM",
+      "UÇURUM"
+    ]
+  },
+  {
+    "id": 134,
+    "soru": "Uçak yolculuğuna dair bilgilerin yer aldığı belge",
+    "cevap": "Uçuş kartı",
+    "alternatifler": [
+      "UÇUŞ KARTI",
+      "UCUS KARTI",
+      "Uçuşkartı"
+    ]
+  },
+  {
+    "id": 135,
+    "soru": "Uçak yolculuğuna dair bilgilerin yer aldığı belge",
+    "cevap": "Uçuş kartı",
+    "alternatifler": [
+      "UÇUŞ KARTI",
+      "UCUS KARTI",
+      "Uçuşkartı"
+    ]
+  },
+  {
+    "id": 136,
+    "soru": "Üç bin yılda bir açan efsanevi çiçek",
+    "cevap": "Udumbara",
+    "alternatifler": [
+      "UDUMBARA"
+    ]
+  },
+  {
+    "id": 137,
+    "soru": "Üç bin yılda bir açan efsanevi çiçek",
+    "cevap": "Udumbara",
+    "alternatifler": [
+      "UDUMBARA"
+    ]
+  },
+  {
+    "id": 138,
+    "soru": "Üç bin yılda bir açan efsanevi çiçek",
+    "cevap": "Udumbara",
+    "alternatifler": [
+      "UDUMBARA"
+    ]
+  },
+  {
+    "id": 139,
+    "soru": "Minicik, küçücük",
+    "cevap": "Ufacık",
+    "alternatifler": [
+      "UFACIK"
+    ]
+  },
+  {
+    "id": 140,
+    "soru": "Minicik, küçücük anlamındaki kelime",
+    "cevap": "Ufacık",
+    "alternatifler": [
+      "UFACIK"
+    ]
+  },
+  {
+    "id": 141,
+    "soru": "İrili __; Büyüklü küçüklü anlamındaki söz",
+    "cevap": "Ufaklı",
+    "alternatifler": [
+      "UFAKLI"
+    ]
+  },
+  {
+    "id": 142,
+    "soru": "Küçük çocuklara seslenme biçimi",
+    "cevap": "Ufaklık",
+    "alternatifler": [
+      "UFAKLIK"
+    ]
+  },
+  {
+    "id": 143,
+    "soru": "Arnold Schwarzenegger'in hamile kaldığı film",
+    "cevap": "Ufaklık",
+    "alternatifler": [
+      "UFAKLIK"
+    ]
+  },
+  {
+    "id": 144,
+    "soru": "Küçük çocuklara seslenme biçimi",
+    "cevap": "Ufaklık",
+    "alternatifler": [
+      "UFAKLIK"
+    ]
+  },
+  {
+    "id": 145,
+    "soru": "Az miktarda; küçük boyutlarda",
+    "cevap": "Ufak çapta",
+    "alternatifler": [
+      "UFAK ÇAPTA",
+      "UFAK CAPTA",
+      "Ufakçapta"
+    ]
+  },
+  {
+    "id": 146,
+    "soru": "Kısa boylu ve zayıf insanlar için kullanılır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 147,
+    "soru": "Vücut yapısı kısa ve zayıf kişiyi anlatır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 148,
+    "soru": "İri olmayan canlılar için kullanılan bir ikileme",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 149,
+    "soru": "Vücut yapısı kısa ve zayıf kişiyi anlatır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 150,
+    "soru": "__ Cinayetler, Gökçe Bahadır'ın oynadığı dizi",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 151,
+    "soru": "Kısa boylu ve zayıf insanlar için kullanılır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 152,
+    "soru": "Vücut yapısı kısa ve zayıf kişiyi anlatır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 153,
+    "soru": "Vücut yapısı kısa ve zayıf kişiyi anlatır",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 154,
+    "soru": "Önemsiz veya küçük anlamındaki bir ikileme",
+    "cevap": "Ufak tefek",
+    "alternatifler": [
+      "UFAK TEFEK",
+      "Ufaktefek"
+    ]
+  },
+  {
+    "id": 155,
+    "soru": "Çok küçük parçalara bölünmek",
+    "cevap": "Ufalanmak",
+    "alternatifler": [
+      "UFALANMAK"
+    ]
+  },
+  {
+    "id": 156,
+    "soru": "Boyut olarak küçülmek",
+    "cevap": "Ufalmak",
+    "alternatifler": [
+      "UFALMAK"
+    ]
+  },
+  {
+    "id": 157,
+    "soru": "Uflamak kelimesinin tüm harflerine sahip; küçülmek",
+    "cevap": "Ufalmak",
+    "alternatifler": [
+      "UFALMAK"
+    ]
+  },
+  {
+    "id": 158,
+    "soru": "Boyut olarak küçülmek",
+    "cevap": "Ufalmak",
+    "alternatifler": [
+      "UFALMAK"
+    ]
+  },
+  {
+    "id": 159,
+    "soru": "Bir şeyin boyutunu küçültmek",
+    "cevap": "Ufaltmak",
+    "alternatifler": [
+      "UFALTMAK"
+    ]
+  },
+  {
+    "id": 160,
+    "soru": "Büyük bir nesnenin boyutunu küçültmek",
+    "cevap": "Ufaltmak",
+    "alternatifler": [
+      "UFALTMAK"
+    ]
+  },
+  {
+    "id": 161,
+    "soru": "İtalya Floransa'da yer alan tarihi sanat müzesi",
+    "cevap": "Uffızı",
+    "alternatifler": [
+      "UFFIZI"
+    ]
+  },
+  {
+    "id": 162,
+    "soru": "İtalya Floransa'da yer alan tarihi sanat müzesi",
+    "cevap": "Uffızı",
+    "alternatifler": [
+      "UFFIZI"
+    ]
+  },
+  {
+    "id": 163,
+    "soru": "Zamanının ötesinde düşünebilen, ileri görüşlü",
+    "cevap": "Ufku geniş",
+    "alternatifler": [
+      "UFKU GENIŞ",
+      "UFKU GENIS",
+      "Ufkugeniş"
+    ]
+  },
+  {
+    "id": 164,
+    "soru": "Bebek dilinde \"canı yanmak\", \"yaralanmak\"",
+    "cevap": "Ufolmak",
+    "alternatifler": [
+      "UFOLMAK"
+    ]
+  },
+  {
+    "id": 165,
+    "soru": "Bebek dilinde \"canı yanmak\", \"yaralanmak\"",
+    "cevap": "Ufolmak",
+    "alternatifler": [
+      "UFOLMAK"
+    ]
+  },
+  {
+    "id": 166,
+    "soru": "Bebek dilinde \"canı yanmak\", \"yaralanmak\"",
+    "cevap": "Ufolmak",
+    "alternatifler": [
+      "UFOLMAK"
+    ]
+  },
+  {
+    "id": 167,
+    "soru": "Geniş Aile dizisinde Cevahir'i oynayan aktör",
+    "cevap": "Ufuk özkan",
+    "alternatifler": [
+      "UFUK OZKAN",
+      "UFUK ÖZKAN",
+      "Ufuközkan"
+    ]
+  },
+  {
+    "id": 168,
+    "soru": "Geniş Aile dizisinde Cevahir'i oynayan aktör",
+    "cevap": "Ufuk özkan",
+    "alternatifler": [
+      "UFUK OZKAN",
+      "UFUK ÖZKAN",
+      "Ufuközkan"
+    ]
+  },
+  {
+    "id": 169,
+    "soru": "Geniş Aile dizisinde Cevahir'i oynayan aktör",
+    "cevap": "Ufuk özkan",
+    "alternatifler": [
+      "UFUK OZKAN",
+      "UFUK ÖZKAN",
+      "Ufuközkan"
+    ]
+  },
+  {
+    "id": 170,
+    "soru": "İrin, cerahat",
+    "cevap": "Ufunet",
+    "alternatifler": [
+      "UFUNET"
+    ]
+  },
+  {
+    "id": 171,
+    "soru": "Eski dilde, son derece kötü koku",
+    "cevap": "Ufunet",
+    "alternatifler": [
+      "UFUNET"
+    ]
+  },
+  {
+    "id": 172,
+    "soru": "Çocuk dilinde vücutta ağrı duyma, canın acıması",
+    "cevap": "Uf olma",
+    "alternatifler": [
+      "UF OLMA",
+      "Ufolma"
+    ]
+  },
+  {
+    "id": 173,
+    "soru": "Bebek dilinde, canı biraz yanmak",
+    "cevap": "Uf olmak",
+    "alternatifler": [
+      "UF OLMAK",
+      "Ufolmak"
+    ]
+  },
+  {
+    "id": 174,
+    "soru": "Başkenti Kampala olan Afrika ülkesi",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 175,
+    "soru": "3 yaşında kral olan Oyo Rukidi'nin ülkesi",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 176,
+    "soru": "Hababam Sınıfı'nın yalanına kattığı Afrika ülkesi",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 177,
+    "soru": "3 yaşında kral olan Oyo Rukidi'nin ülkesi",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 178,
+    "soru": "Başkenti Kampala olan Afrika ülkesi",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 179,
+    "soru": "Kampala, bu ülkenin başkentidir",
+    "cevap": "Uganda",
+    "alternatifler": [
+      "UGANDA"
+    ]
+  },
+  {
+    "id": 180,
+    "soru": "Bu tarihi köprü, Rize'nin Pazar ilçesindedir",
+    "cevap": "Uğrak köyü",
+    "alternatifler": [
+      "UĞRAK KÖYÜ",
+      "UGRAK KOYU",
+      "Uğrakköyü"
+    ]
+  },
+  {
+    "id": 181,
+    "soru": "Bu tarihi köprü, Rize'nin Pazar ilçesindedir",
+    "cevap": "Uğrak köyü",
+    "alternatifler": [
+      "UĞRAK KÖYÜ",
+      "UGRAK KOYU",
+      "Uğrakköyü"
+    ]
+  },
+  {
+    "id": 182,
+    "soru": "Sık sık ziyaret edilen mekan",
+    "cevap": "Uğrak yeri",
+    "alternatifler": [
+      "UGRAK YERI",
+      "UĞRAK YERI",
+      "Uğrakyeri"
+    ]
+  },
+  {
+    "id": 183,
+    "soru": "Sık sık ziyaret edilen mekan",
+    "cevap": "Uğrak yeri",
+    "alternatifler": [
+      "UGRAK YERI",
+      "UĞRAK YERI",
+      "Uğrakyeri"
+    ]
+  },
+  {
+    "id": 184,
+    "soru": "Boş zamanlarda yapılan oyalayıcı iş, hobi",
+    "cevap": "Uğraşı",
+    "alternatifler": [
+      "UĞRAŞI",
+      "UGRASI"
+    ]
+  },
+  {
+    "id": 185,
+    "soru": "Bir işi gerçekleştirmek için emek sarf etme",
+    "cevap": "Uğraşma",
+    "alternatifler": [
+      "UĞRAŞMA",
+      "UGRASMA"
+    ]
+  },
+  {
+    "id": 186,
+    "soru": "Eski dilde bir kimsenin malını çalma, hırsızlık",
+    "cevap": "Uğruluk",
+    "alternatifler": [
+      "UĞRULUK",
+      "UGRULUK"
+    ]
+  },
+  {
+    "id": 187,
+    "soru": "Boğuk ve anlaşılmayan ses",
+    "cevap": "Uğultu",
+    "alternatifler": [
+      "UĞULTU",
+      "UGULTU"
+    ]
+  },
+  {
+    "id": 188,
+    "soru": "Derinden gelen anlaşılmaz ses",
+    "cevap": "Uğultu",
+    "alternatifler": [
+      "UĞULTU",
+      "UGULTU"
+    ]
+  },
+  {
+    "id": 189,
+    "soru": "Emily Bronte'nin tepelerinin sesi",
+    "cevap": "Uğultulu",
+    "alternatifler": [
+      "UGULTULU",
+      "UĞULTULU"
+    ]
+  },
+  {
+    "id": 190,
+    "soru": "Emily Bronte'nin tek romanı, __ Tepeler",
+    "cevap": "Uğultulu",
+    "alternatifler": [
+      "UGULTULU",
+      "UĞULTULU"
+    ]
+  },
+  {
+    "id": 191,
+    "soru": "Yola çıkan birini yolcu etme",
+    "cevap": "Uğurlama",
+    "alternatifler": [
+      "UGURLAMA",
+      "UĞURLAMA"
+    ]
+  },
+  {
+    "id": 192,
+    "soru": "Yola çıkan birini yolcu etme",
+    "cevap": "Uğurlama",
+    "alternatifler": [
+      "UGURLAMA",
+      "UĞURLAMA"
+    ]
+  },
+  {
+    "id": 193,
+    "soru": "Asker __, Vatani göreve giden genç için düzenlenir",
+    "cevap": "Uğurlama",
+    "alternatifler": [
+      "UGURLAMA",
+      "UĞURLAMA"
+    ]
+  },
+  {
+    "id": 194,
+    "soru": "Asker __, Vatani göreve giden genç için düzenlenir",
+    "cevap": "Uğurlama",
+    "alternatifler": [
+      "UGURLAMA",
+      "UĞURLAMA"
+    ]
+  },
+  {
+    "id": 195,
+    "soru": "Birini yolcu etme",
+    "cevap": "Uğurlama",
+    "alternatifler": [
+      "UGURLAMA",
+      "UĞURLAMA"
+    ]
+  },
+  {
+    "id": 196,
+    "soru": "Şans getiren kişi, eşya ya da sayı",
+    "cevap": "Uğurlu",
+    "alternatifler": [
+      "UĞURLU",
+      "UGURLU"
+    ]
+  },
+  {
+    "id": 197,
+    "soru": "Pop müzik şarkıcısı Özgün'ün soy ismi",
+    "cevap": "Uğurlu",
+    "alternatifler": [
+      "UĞURLU",
+      "UGURLU"
+    ]
+  },
+  {
+    "id": 198,
+    "soru": "Şans getiren kişi, eşya ya da sayı",
+    "cevap": "Uğurlu",
+    "alternatifler": [
+      "UĞURLU",
+      "UGURLU"
+    ]
+  },
+  {
+    "id": 199,
+    "soru": "Sürekli talihsiz olaylara denk gelen kişi",
+    "cevap": "Uğursuz",
+    "alternatifler": [
+      "UĞURSUZ",
+      "UGURSUZ"
+    ]
+  },
+  {
+    "id": 200,
+    "soru": "13 sayısının böyle olduğuna inanılır",
+    "cevap": "Uğursuz",
+    "alternatifler": [
+      "UĞURSUZ",
+      "UGURSUZ"
+    ]
+  },
+  {
+    "id": 201,
+    "soru": "Bağava adıyla da bilinen, Gümüşhane Torul köprüsü",
+    "cevap": "Uğurtaşı",
+    "alternatifler": [
+      "UĞURTAŞI",
+      "UGURTASI"
+    ]
+  },
+  {
+    "id": 202,
+    "soru": "Hokkabaz ve Eşkıya filmlerinin görüntü yönetmeni",
+    "cevap": "Uğur içbak",
+    "alternatifler": [
+      "UĞUR IÇBAK",
+      "UGUR ICBAK",
+      "Uğuriçbak"
+    ]
+  },
+  {
+    "id": 203,
+    "soru": "Adına araştırmacı gazetecilik vakfı kurulan yazar",
+    "cevap": "Uğur mumcu",
+    "alternatifler": [
+      "UĞUR MUMCU",
+      "UGUR MUMCU",
+      "Uğurmumcu"
+    ]
+  },
+  {
+    "id": 204,
+    "soru": "Sakıncalı Piyade'nin yazarı gazeteci",
+    "cevap": "Uğur mumcu",
+    "alternatifler": [
+      "UĞUR MUMCU",
+      "UGUR MUMCU",
+      "Uğurmumcu"
+    ]
+  },
+  {
+    "id": 205,
+    "soru": "Selda Bağcan'ın onuruna şarkı bestelediği gazeteci",
+    "cevap": "Uğur mumcu",
+    "alternatifler": [
+      "UĞUR MUMCU",
+      "UGUR MUMCU",
+      "Uğurmumcu"
+    ]
+  },
+  {
+    "id": 206,
+    "soru": "\"Vurulduk ey halkım unutma bizi\" dizesinin sahibi",
+    "cevap": "Uğur mumcu",
+    "alternatifler": [
+      "UĞUR MUMCU",
+      "UGUR MUMCU",
+      "Uğurmumcu"
+    ]
+  },
+  {
+    "id": 207,
+    "soru": "\"Vurulduk ey halkım unutma bizi\" dizesinin sahibi",
+    "cevap": "Uğur mumcu",
+    "alternatifler": [
+      "UĞUR MUMCU",
+      "UGUR MUMCU",
+      "Uğurmumcu"
+    ]
+  },
+  {
+    "id": 208,
+    "soru": "Yahşi Batı filmindeki Brokeback'li Buck Berry",
+    "cevap": "Uğur polat",
+    "alternatifler": [
+      "UĞUR POLAT",
+      "UGUR POLAT",
+      "Uğurpolat"
+    ]
+  },
+  {
+    "id": 209,
+    "soru": "Ulan İstanbul dizisinde Kandemir'i oynadı",
+    "cevap": "Uğur polat",
+    "alternatifler": [
+      "UĞUR POLAT",
+      "UGUR POLAT",
+      "Uğurpolat"
+    ]
+  },
+  {
+    "id": 210,
+    "soru": "Sis ve Gece filminde Sedat'ı oynayan aktör",
+    "cevap": "Uğur polat",
+    "alternatifler": [
+      "UĞUR POLAT",
+      "UGUR POLAT",
+      "Uğurpolat"
+    ]
+  },
+  {
+    "id": 211,
+    "soru": "Yargı dizisinde Yekta Tilmen'i canlandıran aktör",
+    "cevap": "Uğur polat",
+    "alternatifler": [
+      "UĞUR POLAT",
+      "UGUR POLAT",
+      "Uğurpolat"
+    ]
+  },
+  {
+    "id": 212,
+    "soru": "Özlem Türeci'yle birlikte BioNTech'i kurmuştur",
+    "cevap": "Uğur şahin",
+    "alternatifler": [
+      "UĞUR ŞAHIN",
+      "UGUR SAHIN",
+      "Uğurşahin"
+    ]
+  },
+  {
+    "id": 213,
+    "soru": "Hırsız Polis dizisinde Aksak'ı canlandıran oyuncu",
+    "cevap": "Uğur yücel",
+    "alternatifler": [
+      "UĞUR YÜCEL",
+      "UGUR YUCEL",
+      "Uğuryücel"
+    ]
+  },
+  {
+    "id": 214,
+    "soru": "Hırsız Polis dizisinin Aksak karakteri",
+    "cevap": "Uğur yücel",
+    "alternatifler": [
+      "UĞUR YÜCEL",
+      "UGUR YUCEL",
+      "Uğuryücel"
+    ]
+  },
+  {
+    "id": 215,
+    "soru": "Hırsız Polis dizisinde Aksak'ı canlandıran oyuncu",
+    "cevap": "Uğur yücel",
+    "alternatifler": [
+      "UĞUR YÜCEL",
+      "UGUR YUCEL",
+      "Uğuryücel"
+    ]
+  },
+  {
+    "id": 216,
+    "soru": "Eşkıya ve Muhsin Bey filmlerinin yardımcı aktörü",
+    "cevap": "Uğur yücel",
+    "alternatifler": [
+      "UĞUR YÜCEL",
+      "UGUR YUCEL",
+      "Uğuryücel"
+    ]
+  },
+  {
+    "id": 217,
+    "soru": "Cinayet Süsü filminde başkomiseri oynadı",
+    "cevap": "Uğur yücel",
+    "alternatifler": [
+      "UĞUR YÜCEL",
+      "UGUR YUCEL",
+      "Uğuryücel"
+    ]
+  },
+  {
+    "id": 218,
+    "soru": "Dünyevi olmayan",
+    "cevap": "Uhrevi",
+    "alternatifler": [
+      "UHREVI"
+    ]
+  },
+  {
+    "id": 219,
+    "soru": "Maddi yaşamdan sonraki diğer dünyayla ilgili olan",
+    "cevap": "Uhrevi",
+    "alternatifler": [
+      "UHREVI"
+    ]
+  },
+  {
+    "id": 220,
+    "soru": "Kardeşlik anlamına gelen bir söz",
+    "cevap": "Uhuvvet",
+    "alternatifler": [
+      "UHUVVET"
+    ]
+  },
+  {
+    "id": 221,
+    "soru": "Eski dilde yakın dost olma durumu, kardeşlik",
+    "cevap": "Uhuvvet",
+    "alternatifler": [
+      "UHUVVET"
+    ]
+  },
+  {
+    "id": 222,
+    "soru": "Bilgiçlik taslama",
+    "cevap": "Ukalalık",
+    "alternatifler": [
+      "UKALALIK"
+    ]
+  },
+  {
+    "id": 223,
+    "soru": "Bilgiçlik taslama",
+    "cevap": "Ukalalık",
+    "alternatifler": [
+      "UKALALIK"
+    ]
+  },
+  {
+    "id": 224,
+    "soru": "Kendini son derece akıllı zannetme durumu",
+    "cevap": "Ukalalık",
+    "alternatifler": [
+      "UKALALIK"
+    ]
+  },
+  {
+    "id": 225,
+    "soru": "Başkenti Kiev olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 226,
+    "soru": "Türkiye'de yapılan Eurovision'da birinci olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 227,
+    "soru": "Çernobil kazasının yaşandığı ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 228,
+    "soru": "Karadeniz ve Azak Denizi'ne kıyısı olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 229,
+    "soru": "Turuncu Devrim bu Avrupa ülkesinde gerçekleşmişti",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 230,
+    "soru": "Başkenti Kiev olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 231,
+    "soru": "Dünyaca ünlü Aşk Tüneli'nin bulunduğu ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 232,
+    "soru": "Rusya'nın güneybatı komşusu",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 233,
+    "soru": "Çernobil nükleer santral kazasının yaşandığı ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 234,
+    "soru": "Türkiye'deki Eurovision yarışmasını kazanan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 235,
+    "soru": "Başkenti Kiev olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 236,
+    "soru": "Başkenti Kiev olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 237,
+    "soru": "Çernobil nükleer santral kazasının yaşandığı ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 238,
+    "soru": "Türkiye'deki Eurovision'u kazanan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 239,
+    "soru": "Cumhurbaşkanı, eski bir aktör olan Avrupa ülkesi",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 240,
+    "soru": "2022 Eurovision şarkı yarışmasını kazanan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 241,
+    "soru": "1944 adlı şarkıyla Eurovision birincisi olan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 242,
+    "soru": "Hürrem Sultan'ın doğduğu toprakların bugünkü adı",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 243,
+    "soru": "Dünyaca ünlü Aşk Tüneli'nin bulunduğu ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 244,
+    "soru": "2022'de, Rusya'yla gerilim yaşayan Avrupa ülkesi",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 245,
+    "soru": "Plaka kodu \"UA\" olan Avrupa ülkesi",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 246,
+    "soru": "2022 Eurovision şarkı yarışmasını kazanan ülke",
+    "cevap": "Ukrayna",
+    "alternatifler": [
+      "UKRAYNA"
+    ]
+  },
+  {
+    "id": 247,
+    "soru": "Başkenti Kiev olan ülkenin resmi dili",
+    "cevap": "Ukraynaca",
+    "alternatifler": [
+      "UKRAYNACA"
+    ]
+  },
+  {
+    "id": 248,
+    "soru": "Kiev'de konuşulan dil",
+    "cevap": "Ukraynaca",
+    "alternatifler": [
+      "UKRAYNACA"
+    ]
+  },
+  {
+    "id": 249,
+    "soru": "Doğu Avrupa şehri Kiev'in resmi dili",
+    "cevap": "Ukraynaca",
+    "alternatifler": [
+      "UKRAYNACA"
+    ]
+  },
+  {
+    "id": 250,
+    "soru": "Başkenti Kiev olan ülkenin resmi dili",
+    "cevap": "Ukraynaca",
+    "alternatifler": [
+      "UKRAYNACA"
+    ]
+  },
+  {
+    "id": 251,
+    "soru": "Hawaii'ye özgü, telli çalgı",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 252,
+    "soru": "Anavatanı Hawaii olan mini gitar",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 253,
+    "soru": "Hawaii kökenli telli bir çalgı",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 254,
+    "soru": "Küçük gitar şeklinde bir enstrüman",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 255,
+    "soru": "Hawai'ye özgü dört telli müzik aleti",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 256,
+    "soru": "Gitarın Hawaii'de doğmuş yavrusu",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 257,
+    "soru": "Gitarın minyatürü görünümlü, telli bir çalgı",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 258,
+    "soru": "Gitarın minyatürü görünümlü, telli bir çalgı",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 259,
+    "soru": "Anavatanı Hawaii olan mini gitar",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 260,
+    "soru": "Gitarın Hawaii'de doğmuş yavrusu",
+    "cevap": "Ukulele",
+    "alternatifler": [
+      "UKULELE"
+    ]
+  },
+  {
+    "id": 261,
+    "soru": "Mehmet Ali Erbil'in Harem dizisindeki karakteri",
+    "cevap": "Ulan bator",
+    "alternatifler": [
+      "ULAN BATOR",
+      "Ulanbator"
+    ]
+  },
+  {
+    "id": 262,
+    "soru": "Dünyanın en soğuk başkenti",
+    "cevap": "Ulan batur",
+    "alternatifler": [
+      "ULAN BATUR",
+      "Ulanbatur"
+    ]
+  },
+  {
+    "id": 263,
+    "soru": "Moğolistan'ın başkenti",
+    "cevap": "Ulan batur",
+    "alternatifler": [
+      "ULAN BATUR",
+      "Ulanbatur"
+    ]
+  },
+  {
+    "id": 264,
+    "soru": "Dünyanın en soğuk başkenti",
+    "cevap": "Ulan batur",
+    "alternatifler": [
+      "ULAN BATUR",
+      "Ulanbatur"
+    ]
+  },
+  {
+    "id": 265,
+    "soru": "Kızıl Bahadır anlamına gelen Moğolistan başkenti",
+    "cevap": "Ulan batur",
+    "alternatifler": [
+      "ULAN BATUR",
+      "Ulanbatur"
+    ]
+  },
+  {
+    "id": 266,
+    "soru": "Moğolistan'ın başkenti ve en büyük şehri",
+    "cevap": "Ulan batur",
+    "alternatifler": [
+      "ULAN BATUR",
+      "Ulanbatur"
+    ]
+  },
+  {
+    "id": 267,
+    "soru": "Yerleşim yerleri arasında gidiş geliş",
+    "cevap": "Ulaşım",
+    "alternatifler": [
+      "ULAŞIM",
+      "ULASIM"
+    ]
+  },
+  {
+    "id": 268,
+    "soru": "Yerleşim yerleri arasında gerçekleşen gidiş geliş",
+    "cevap": "Ulaşım",
+    "alternatifler": [
+      "ULAŞIM",
+      "ULASIM"
+    ]
+  },
+  {
+    "id": 269,
+    "soru": "Yerleşim yerleri arasında gidiş geliş",
+    "cevap": "Ulaşım",
+    "alternatifler": [
+      "ULAŞIM",
+      "ULASIM"
+    ]
+  },
+  {
+    "id": 270,
+    "soru": "Yerleşim yerleri arasında gerçekleşen gidiş geliş",
+    "cevap": "Ulaşım",
+    "alternatifler": [
+      "ULAŞIM",
+      "ULASIM"
+    ]
+  },
+  {
+    "id": 271,
+    "soru": "Bir yere kara, deniz veya hava yoluyla gidiş",
+    "cevap": "Ulaşım",
+    "alternatifler": [
+      "ULAŞIM",
+      "ULASIM"
+    ]
+  },
+  {
+    "id": 272,
+    "soru": "Bir hedefe, sonuca ya da yere varmak",
+    "cevap": "Ulaşmak",
+    "alternatifler": [
+      "ULAŞMAK",
+      "ULASMAK"
+    ]
+  },
+  {
+    "id": 273,
+    "soru": "Gitmek istenilen yere varmak",
+    "cevap": "Ulaşmak",
+    "alternatifler": [
+      "ULAŞMAK",
+      "ULASMAK"
+    ]
+  },
+  {
+    "id": 274,
+    "soru": "Bitiş çizgisine varmak",
+    "cevap": "Ulaşmak",
+    "alternatifler": [
+      "ULAŞMAK",
+      "ULASMAK"
+    ]
+  },
+  {
+    "id": 275,
+    "soru": "Bir yere yetişmek, varmak, erişmek",
+    "cevap": "Ulaşmak",
+    "alternatifler": [
+      "ULAŞMAK",
+      "ULASMAK"
+    ]
+  },
+  {
+    "id": 276,
+    "soru": "UKOME'nin açılımıdır, __ Koordinasyon Merkezi",
+    "cevap": "Ulaştırma",
+    "alternatifler": [
+      "ULASTIRMA",
+      "ULAŞTIRMA"
+    ]
+  },
+  {
+    "id": 277,
+    "soru": "Orduda, taşıma işlerinden sorumlu sınıf",
+    "cevap": "Ulaştırma",
+    "alternatifler": [
+      "ULASTIRMA",
+      "ULAŞTIRMA"
+    ]
+  },
+  {
+    "id": 278,
+    "soru": "Orduda, taşıma işlerinden sorumlu sınıf",
+    "cevap": "Ulaştırma",
+    "alternatifler": [
+      "ULASTIRMA",
+      "ULAŞTIRMA"
+    ]
+  },
+  {
+    "id": 279,
+    "soru": "İnsan kulağının duyamayacağı ses frekansı",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 280,
+    "soru": "Gebelikte bebeğin cinsiyetini gösteren alet",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 281,
+    "soru": "Bebeğin ilk fotoğrafını çeken cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 282,
+    "soru": "Rahimdeki bebeği görüntülerken kullanılan cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 283,
+    "soru": "Anne karnındaki bebeğin cinsiyetini gösteren cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 284,
+    "soru": "İnsanların duyamayacağı sesleri duyma aracı",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 285,
+    "soru": "Hamile kadınların bebeğini görüntüleyen alet",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 286,
+    "soru": "Anne karnındaki bebeğin cinsiyetini gösteren cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 287,
+    "soru": "Böbrekte taşına bakmak için kullanılan alet",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 288,
+    "soru": "Yüksek frekanslı ses titreşimi, yansılanım",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 289,
+    "soru": "Gebelikte bebeğin cinsiyetini gösteren alet",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 290,
+    "soru": "Fizikte yansılanım",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 291,
+    "soru": "İnsanların duyamayacağı sesleri duyma aracı",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 292,
+    "soru": "Anne karnındaki bebeğin cinsiyetini gösteren cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 293,
+    "soru": "İç organları görüntülemeye yarar",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 294,
+    "soru": "Gebelikte bebeğin cinsiyetini gösteren alet",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 295,
+    "soru": "Rahimdeki bebeği görüntülerken kullanılan cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 296,
+    "soru": "İnsan kulağının duyamayacağı ses frekansı",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 297,
+    "soru": "İç organları görüntülemeye yarar",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 298,
+    "soru": "Anne karnındaki bebeğin cinsiyetini gösteren cihaz",
+    "cevap": "Ultrason",
+    "alternatifler": [
+      "ULTRASON"
+    ]
+  },
+  {
+    "id": 299,
+    "soru": "4K ve 8K çözünürlük formatları için kullanılan ad",
+    "cevap": "Ultra hd",
+    "alternatifler": [
+      "ULTRA HD",
+      "Ultrahd"
+    ]
+  },
+  {
+    "id": 300,
+    "soru": "Marvel çizgi romanlarının yapay zekalı kötüsü",
+    "cevap": "Ultron",
+    "alternatifler": [
+      "ULTRON"
+    ]
+  },
+  {
+    "id": 301,
+    "soru": "Bursa'da yer alan tektonik göl",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 302,
+    "soru": "Apolyont adıyla da bilinen Bursa gölü",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 303,
+    "soru": "Bursa'da bulunan göl, 1998 yılında korumaya alındı",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 304,
+    "soru": "Bursa'da bulunan göl, 1998 yılında korumaya alındı",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 305,
+    "soru": "Eski adı Apolyont olan, Bursa'daki tatlı su gölü",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 306,
+    "soru": "Eski ismi Apolyont olan Bursa gölü",
+    "cevap": "Uluabat",
+    "alternatifler": [
+      "ULUABAT"
+    ]
+  },
+  {
+    "id": 307,
+    "soru": "Eski ismi Apolyont olan Bursa sınırlarındaki göl",
+    "cevap": "Ulubat",
+    "alternatifler": [
+      "ULUBAT"
+    ]
+  },
+  {
+    "id": 308,
+    "soru": "İstanbul surlarına sancak diken Hasan'ın memleketi",
+    "cevap": "Ulubat",
+    "alternatifler": [
+      "ULUBAT"
+    ]
+  },
+  {
+    "id": 309,
+    "soru": "Eski adı Apolyont olan Bursa gölü",
+    "cevap": "Ulubat",
+    "alternatifler": [
+      "ULUBAT"
+    ]
+  },
+  {
+    "id": 310,
+    "soru": "İstanbul fethinde bayrak diken Hasan'ın lakabı",
+    "cevap": "Ulubatlı",
+    "alternatifler": [
+      "ULUBATLI"
+    ]
+  },
+  {
+    "id": 311,
+    "soru": "Fetih günü surlara sancağı diken asker, __ Hasan",
+    "cevap": "Ulubatlı",
+    "alternatifler": [
+      "ULUBATLI"
+    ]
+  },
+  {
+    "id": 312,
+    "soru": "İstanbul fethinde bayrak diken Hasan'ın lakabı",
+    "cevap": "Ulubatlı",
+    "alternatifler": [
+      "ULUBATLI"
+    ]
+  },
+  {
+    "id": 313,
+    "soru": "Uşak'ta bulunan, Türkiye'nin en uzun kanyonu",
+    "cevap": "Ulubey",
+    "alternatifler": [
+      "ULUBEY"
+    ]
+  },
+  {
+    "id": 314,
+    "soru": "Sülümenli Antik Kenti'nin yer aldığı Uşak ilçesi",
+    "cevap": "Ulubey",
+    "alternatifler": [
+      "ULUBEY"
+    ]
+  },
+  {
+    "id": 315,
+    "soru": "Uşak'taki dünyanın ikinci en uzun kanyonu",
+    "cevap": "Ulubey",
+    "alternatifler": [
+      "ULUBEY"
+    ]
+  },
+  {
+    "id": 316,
+    "soru": "Denizli iline sınırı olan Uşak ilçesi",
+    "cevap": "Ulubey",
+    "alternatifler": [
+      "ULUBEY"
+    ]
+  },
+  {
+    "id": 317,
+    "soru": "Apollonia Antik Kenti'nin bulunduğu Isparta ilçesi",
+    "cevap": "Uluborlu",
+    "alternatifler": [
+      "ULUBORLU"
+    ]
+  },
+  {
+    "id": 318,
+    "soru": "Isparta'da Kapı Dağı eteğinde yer alan tarihi kale",
+    "cevap": "Uluborlu",
+    "alternatifler": [
+      "ULUBORLU"
+    ]
+  },
+  {
+    "id": 319,
+    "soru": "Apollonia Antik Kenti'nin bulunduğu Isparta ilçesi",
+    "cevap": "Uluborlu",
+    "alternatifler": [
+      "ULUBORLU"
+    ]
+  },
+  {
+    "id": 320,
+    "soru": "Eskişehir'in Alpu ilçesinde yer alan mağara",
+    "cevap": "Ulubük",
+    "alternatifler": [
+      "ULUBUK",
+      "ULUBÜK"
+    ]
+  },
+  {
+    "id": 321,
+    "soru": "Artık müze olarak kullanılan Ankara'daki cezaevi",
+    "cevap": "Ulucanlar",
+    "alternatifler": [
+      "ULUCANLAR"
+    ]
+  },
+  {
+    "id": 322,
+    "soru": "Ankara'da hizmet veren cezaevi müzesi",
+    "cevap": "Ulucanlar",
+    "alternatifler": [
+      "ULUCANLAR"
+    ]
+  },
+  {
+    "id": 323,
+    "soru": "İçinde, \"Hilton\" adlı koğuş olan tarihi cezaevi",
+    "cevap": "Ulucanlar",
+    "alternatifler": [
+      "ULUCANLAR"
+    ]
+  },
+  {
+    "id": 324,
+    "soru": "Kılıç Ali Paşa konulu Halikarnas Balıkçısı romanı",
+    "cevap": "Uluç reis",
+    "alternatifler": [
+      "ULUÇ REIS",
+      "ULUC REIS",
+      "Uluçreis"
+    ]
+  },
+  {
+    "id": 325,
+    "soru": "__ Gazozu, Bursa'daki dağın suyundan yapılır",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 326,
+    "soru": "Bursa'nın kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 327,
+    "soru": "Bursa'nın kayak merkezi olan dağ",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 328,
+    "soru": "Bursa'nın kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 329,
+    "soru": "Bursa'da yer alan popüler kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 330,
+    "soru": "Bursa'nın en yüksek noktası",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 331,
+    "soru": "Bursa'nın en eski üniversitesinin adı",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 332,
+    "soru": "Bursa'nın tanınmış devlet üniversitesi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 333,
+    "soru": "Türkiye'de ilk kez kayak sporu yapılan pist",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 334,
+    "soru": "Bursa'daki kış sporları merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 335,
+    "soru": "Bursa'nın kış ve doğa sporları merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 336,
+    "soru": "Bursa'da yer alan popüler kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 337,
+    "soru": "Marmara'nın turist akınına uğrayan en yüksek yeri",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 338,
+    "soru": "Bursa’da olan Marmara bölgesinin en yüksek dağı",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 339,
+    "soru": "Bursa'nın en eski üniversitesinin adı",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 340,
+    "soru": "Marmara'nın turist akınına uğrayan en yüksek yeri",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 341,
+    "soru": "Bursa'nın kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 342,
+    "soru": "Bursa'nın, \"Efsane\" lakaplı gazoz markası",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 343,
+    "soru": "Bursa'da yer alan popüler kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 344,
+    "soru": "Bursa'da yer alan popüler kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 345,
+    "soru": "İskender kebap ile meşhur ildeki kayak merkezi",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 346,
+    "soru": "Bursa'nın, \"Efsane\" lakaplı gazoz markası",
+    "cevap": "Uludağ",
+    "alternatifler": [
+      "ULUDAG",
+      "ULUDAĞ"
+    ]
+  },
+  {
+    "id": 347,
+    "soru": "Uğur böcekleriyle ünlü Kahramanmaraş tepesi",
+    "cevap": "Uludaz",
+    "alternatifler": [
+      "ULUDAZ"
+    ]
+  },
+  {
+    "id": 348,
+    "soru": "Maaş almayan yeniçeri askerine verilen ad",
+    "cevap": "Ulufesiz",
+    "alternatifler": [
+      "ULUFESIZ"
+    ]
+  },
+  {
+    "id": 349,
+    "soru": "Ordu'da yer alan tabiat parkı",
+    "cevap": "Ulugöl",
+    "alternatifler": [
+      "ULUGOL",
+      "ULUGÖL"
+    ]
+  },
+  {
+    "id": 350,
+    "soru": "Semerkant'ta yer alan tarihi rasathane",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 351,
+    "soru": "Semerkant'ta yer alan tarihi rasathane",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 352,
+    "soru": "Timur İmparatorluğu'nun 4. hükümdarı ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 353,
+    "soru": "Timur İmparatorluğu'nun 4. hükümdarı ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 354,
+    "soru": "Timur'un torunu olan, matematikçi ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 355,
+    "soru": "Timur İmparatorluğu'nun 4. hükümdarı ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 356,
+    "soru": "Semerkant'ta yer alan tarihi rasathane",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 357,
+    "soru": "Semerkant'ta yer alan tarihi rasathane",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 358,
+    "soru": "Timur'un torunu olan, matematikçi ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 359,
+    "soru": "Timur İmparatorluğu'nun 4. hükümdarı ve astronom",
+    "cevap": "Uluğ bey",
+    "alternatifler": [
+      "ULUĞ BEY",
+      "ULUG BEY",
+      "Uluğbey"
+    ]
+  },
+  {
+    "id": 360,
+    "soru": "Tuz Gölü'ne dökülen Melendiz Çayı'nın diğer adı",
+    "cevap": "Uluırmak",
+    "alternatifler": [
+      "ULUIRMAK"
+    ]
+  },
+  {
+    "id": 361,
+    "soru": "Drahna Kanyonu civarında yer alan Bartın şelalesi",
+    "cevap": "Ulukaya",
+    "alternatifler": [
+      "ULUKAYA"
+    ]
+  },
+  {
+    "id": 362,
+    "soru": "Bu Niğde ilçesi, ilin en güneyinde yer alır",
+    "cevap": "Ulukışla",
+    "alternatifler": [
+      "ULUKISLA",
+      "ULUKIŞLA"
+    ]
+  },
+  {
+    "id": 363,
+    "soru": "Niğde'nin Hitit ve Roma kalıntılarına sahip ilçesi",
+    "cevap": "Ulukışla",
+    "alternatifler": [
+      "ULUKISLA",
+      "ULUKIŞLA"
+    ]
+  },
+  {
+    "id": 364,
+    "soru": "Niğde'nin Hitit ve Roma kalıntılarına sahip ilçesi",
+    "cevap": "Ulukışla",
+    "alternatifler": [
+      "ULUKISLA",
+      "ULUKIŞLA"
+    ]
+  },
+  {
+    "id": 365,
+    "soru": "Köpek ve kurtların uzun bir ses çıkarma eylemi",
+    "cevap": "Ulumak",
+    "alternatifler": [
+      "ULUMAK"
+    ]
+  },
+  {
+    "id": 366,
+    "soru": "Kurt sesi çıkarmak",
+    "cevap": "Ulumak",
+    "alternatifler": [
+      "ULUMAK"
+    ]
+  },
+  {
+    "id": 367,
+    "soru": "Kurt sesi çıkarmak",
+    "cevap": "Ulumak",
+    "alternatifler": [
+      "ULUMAK"
+    ]
+  },
+  {
+    "id": 368,
+    "soru": "Köpek ve kurtların uzun bir ses çıkarma eylemi",
+    "cevap": "Ulumak",
+    "alternatifler": [
+      "ULUMAK"
+    ]
+  },
+  {
+    "id": 369,
+    "soru": "Millete ait; millî",
+    "cevap": "Ulusal",
+    "alternatifler": [
+      "ULUSAL"
+    ]
+  },
+  {
+    "id": 370,
+    "soru": "NBA'in açılımı budur, __ Basketbol Ligi",
+    "cevap": "Ulusal",
+    "alternatifler": [
+      "ULUSAL"
+    ]
+  },
+  {
+    "id": 371,
+    "soru": "Erasmus öğrencilerine hibe veren kurum, __ Ajans",
+    "cevap": "Ulusal",
+    "alternatifler": [
+      "ULUSAL"
+    ]
+  },
+  {
+    "id": 372,
+    "soru": "Avrupa'da, 2018'de başlayan milli turnuva, __ Ligi",
+    "cevap": "Uluslar",
+    "alternatifler": [
+      "ULUSLAR"
+    ]
+  },
+  {
+    "id": 373,
+    "soru": "1937'de Trabzon'da kurulan ünlü otobüs firması",
+    "cevap": "Ulusoy",
+    "alternatifler": [
+      "ULUSOY"
+    ]
+  },
+  {
+    "id": 374,
+    "soru": "Adını Feriha Koydum dizisinin Emir'i, Çağatay __",
+    "cevap": "Ulusoy",
+    "alternatifler": [
+      "ULUSOY"
+    ]
+  },
+  {
+    "id": 375,
+    "soru": "Netflix dizisi Muhafız'ın başrolü, Çağatay __",
+    "cevap": "Ulusoy",
+    "alternatifler": [
+      "ULUSOY"
+    ]
+  },
+  {
+    "id": 376,
+    "soru": "Netflix dizisi Muhafız'ın başrolü, Çağatay __",
+    "cevap": "Ulusoy",
+    "alternatifler": [
+      "ULUSOY"
+    ]
+  },
+  {
+    "id": 377,
+    "soru": "I. Bayezid'in Bursa'ya yaptırdığı, ünlü bir eser",
+    "cevap": "Ulu cami",
+    "alternatifler": [
+      "ULU CAMI",
+      "Ulucami"
+    ]
+  },
+  {
+    "id": 378,
+    "soru": "I. Bayezid'in Bursa'ya yaptırdığı, ünlü bir eser",
+    "cevap": "Ulu cami",
+    "alternatifler": [
+      "ULU CAMI",
+      "Ulucami"
+    ]
+  },
+  {
+    "id": 379,
+    "soru": "İkinci Abdülhamid için kullanılan bir unvan",
+    "cevap": "Ulu hakan",
+    "alternatifler": [
+      "ULU HAKAN",
+      "Uluhakan"
+    ]
+  },
+  {
+    "id": 380,
+    "soru": "Herkesin gözü önünde, alenen",
+    "cevap": "Ulu orta",
+    "alternatifler": [
+      "ULU ORTA",
+      "Uluorta"
+    ]
+  },
+  {
+    "id": 381,
+    "soru": "Gizlemeye çalışmadan, herkesin gözü önünde",
+    "cevap": "Ulu orta",
+    "alternatifler": [
+      "ULU ORTA",
+      "Uluorta"
+    ]
+  },
+  {
+    "id": 382,
+    "soru": "Herkesin içinde, açıkça anlamlarındaki söz öbeği",
+    "cevap": "Ulu orta",
+    "alternatifler": [
+      "ULU ORTA",
+      "Uluorta"
+    ]
+  },
+  {
+    "id": 383,
+    "soru": "Herkesin içinde, açıkça anlamlarındaki söz öbeği",
+    "cevap": "Ulu orta",
+    "alternatifler": [
+      "ULU ORTA",
+      "Uluorta"
+    ]
+  },
+  {
+    "id": 384,
+    "soru": "Eski dilde büyük olma durumu, ululuk, yücelik",
+    "cevap": "Ulviyet",
+    "alternatifler": [
+      "ULVIYET"
+    ]
+  },
+  {
+    "id": 385,
+    "soru": "James Joyce'un 1922'de yayınlanan romanı",
+    "cevap": "Ulysses",
+    "alternatifler": [
+      "ULYSSES"
+    ]
+  },
+  {
+    "id": 386,
+    "soru": "Yazar James Joyce'un Tutunamayanlar'ı",
+    "cevap": "Ulysses",
+    "alternatifler": [
+      "ULYSSES"
+    ]
+  },
+  {
+    "id": 387,
+    "soru": "James Joyce romanı",
+    "cevap": "Ulysses",
+    "alternatifler": [
+      "ULYSSES"
+    ]
+  },
+  {
+    "id": 388,
+    "soru": "James Joyce'un 1922'de yayınlanan romanı",
+    "cevap": "Ulysses",
+    "alternatifler": [
+      "ULYSSES"
+    ]
+  },
+  {
+    "id": 389,
+    "soru": "Çare bulamayan, biçare",
+    "cevap": "Umarsız",
+    "alternatifler": [
+      "UMARSIZ"
+    ]
+  },
+  {
+    "id": 390,
+    "soru": "Türk mitolojisinde bebekleri koruyan tanrıça",
+    "cevap": "Umay ana",
+    "alternatifler": [
+      "UMAY ANA",
+      "Umayana"
+    ]
+  },
+  {
+    "id": 391,
+    "soru": "Türk mitolojisinde bebekleri koruyan tanrıça",
+    "cevap": "Umay ana",
+    "alternatifler": [
+      "UMAY ANA",
+      "Umayana"
+    ]
+  },
+  {
+    "id": 392,
+    "soru": "Gülün Adı kitabının yazarı, __ Eco",
+    "cevap": "Umberto",
+    "alternatifler": [
+      "UMBERTO"
+    ]
+  },
+  {
+    "id": 393,
+    "soru": "__ Eco, Gülün Adı romanının yazarı",
+    "cevap": "Umberto",
+    "alternatifler": [
+      "UMBERTO"
+    ]
+  },
+  {
+    "id": 394,
+    "soru": "Gülün Adı romanının İtalyan yazarı, __ Eco",
+    "cevap": "Umberto",
+    "alternatifler": [
+      "UMBERTO"
+    ]
+  },
+  {
+    "id": 395,
+    "soru": "Uranüs'ün uydusu",
+    "cevap": "Umbrıel",
+    "alternatifler": [
+      "UMBRIEL"
+    ]
+  },
+  {
+    "id": 396,
+    "soru": "Uranüs'ün uydusu",
+    "cevap": "Umbrıel",
+    "alternatifler": [
+      "UMBRIEL"
+    ]
+  },
+  {
+    "id": 397,
+    "soru": "__ taş, baş yarar",
+    "cevap": "Ummadığın",
+    "alternatifler": [
+      "UMMADIĞIN",
+      "UMMADIGIN"
+    ]
+  },
+  {
+    "id": 398,
+    "soru": "__ taş, baş yarar",
+    "cevap": "Ummadığın",
+    "alternatifler": [
+      "UMMADIĞIN",
+      "UMMADIGIN"
+    ]
+  },
+  {
+    "id": 399,
+    "soru": "Charlie'nin Çikolata Fabrikası'ndaki hayali ırk",
+    "cevap": "Umpa lumpa",
+    "alternatifler": [
+      "UMPA LUMPA",
+      "Umpalumpa"
+    ]
+  },
+  {
+    "id": 400,
+    "soru": "Kemal Sunal'ın kovboy olduğu film, __ Şaban",
+    "cevap": "Umudumuz",
+    "alternatifler": [
+      "UMUDUMUZ"
+    ]
+  },
+  {
+    "id": 401,
+    "soru": "Yaygınlık, genellik",
+    "cevap": "Umumiyet",
+    "alternatifler": [
+      "UMUMIYET"
+    ]
+  },
+  {
+    "id": 402,
+    "soru": "Genele açık olma, genele hitap etme",
+    "cevap": "Umumiyet",
+    "alternatifler": [
+      "UMUMIYET"
+    ]
+  },
+  {
+    "id": 403,
+    "soru": "Benzer özelliklerin hepsini içerme, genellik",
+    "cevap": "Umumiyet",
+    "alternatifler": [
+      "UMUMIYET"
+    ]
+  },
+  {
+    "id": 404,
+    "soru": "Siirt'in Pervari ilçesinde bulunan tarihi han",
+    "cevap": "Umurlu",
+    "alternatifler": [
+      "UMURLU"
+    ]
+  },
+  {
+    "id": 405,
+    "soru": "Birini ya da birşeyi ciddiye almak, önemsemek",
+    "cevap": "Umursamak",
+    "alternatifler": [
+      "UMURSAMAK"
+    ]
+  },
+  {
+    "id": 406,
+    "soru": "Birini ya da birşeyi ciddiye almak, önemsemek",
+    "cevap": "Umursamak",
+    "alternatifler": [
+      "UMURSAMAK"
+    ]
+  },
+  {
+    "id": 407,
+    "soru": "Önemsemek, ilgi göstermek",
+    "cevap": "Umursamak",
+    "alternatifler": [
+      "UMURSAMAK"
+    ]
+  },
+  {
+    "id": 408,
+    "soru": "Bir şeye ya da birine kıymet vermek, önemli saymak",
+    "cevap": "Umursamak",
+    "alternatifler": [
+      "UMURSAMAK"
+    ]
+  },
+  {
+    "id": 409,
+    "soru": "Dikkate almak, önemsemek",
+    "cevap": "Umursamak",
+    "alternatifler": [
+      "UMURSAMAK"
+    ]
+  },
+  {
+    "id": 410,
+    "soru": "Önem vermeyen, kayıtsız kalan",
+    "cevap": "Umursamaz",
+    "alternatifler": [
+      "UMURSAMAZ"
+    ]
+  },
+  {
+    "id": 411,
+    "soru": "Bizimkiler dizisinin senaristi emektar sinemacı",
+    "cevap": "Umur bugay",
+    "alternatifler": [
+      "UMUR BUGAY",
+      "Umurbugay"
+    ]
+  },
+  {
+    "id": 412,
+    "soru": "Kapıcılar Kralı ile Çöpçüler Kralı'nın senaristi",
+    "cevap": "Umur bugay",
+    "alternatifler": [
+      "UMUR BUGAY",
+      "Umurbugay"
+    ]
+  },
+  {
+    "id": 413,
+    "soru": "15 sezon süren Bizimkiler dizisinin senaristi",
+    "cevap": "Umur bugay",
+    "alternatifler": [
+      "UMUR BUGAY",
+      "Umurbugay"
+    ]
+  },
+  {
+    "id": 414,
+    "soru": "Bir konuda olumlu beklentileri olan",
+    "cevap": "Umutlu",
+    "alternatifler": [
+      "UMUTLU"
+    ]
+  },
+  {
+    "id": 415,
+    "soru": "Geleceğe pozitif bakan, ümitli",
+    "cevap": "Umutlu",
+    "alternatifler": [
+      "UMUTLU"
+    ]
+  },
+  {
+    "id": 416,
+    "soru": "Geleceğe dair hiç iyi düşüncesi olmayan kişi",
+    "cevap": "Umutsuz",
+    "alternatifler": [
+      "UMUTSUZ"
+    ]
+  },
+  {
+    "id": 417,
+    "soru": "Geleceği olmayan, çaresiz vakalar için denen sıfat",
+    "cevap": "Umutsuz",
+    "alternatifler": [
+      "UMUTSUZ"
+    ]
+  },
+  {
+    "id": 418,
+    "soru": "Bir şeyin gerçekleşmesini arzulama, bekleme",
+    "cevap": "Umut etme",
+    "alternatifler": [
+      "UMUT ETME",
+      "Umutetme"
+    ]
+  },
+  {
+    "id": 419,
+    "soru": "Beklenmedik anda karşılaşılan ümit verici şey",
+    "cevap": "Umut ışığı",
+    "alternatifler": [
+      "UMUT ISIGI",
+      "UMUT IŞIĞI",
+      "Umutışığı"
+    ]
+  },
+  {
+    "id": 420,
+    "soru": "Kötü durumdan kurtulma beklentisi yaratan olay",
+    "cevap": "Umut ışığı",
+    "alternatifler": [
+      "UMUT ISIGI",
+      "UMUT IŞIĞI",
+      "Umutışığı"
+    ]
+  },
+  {
+    "id": 421,
+    "soru": "Tatar Ramazan dizisinde Emir'i canlandıran aktör",
+    "cevap": "Umut kurt",
+    "alternatifler": [
+      "UMUT KURT",
+      "Umutkurt"
+    ]
+  },
+  {
+    "id": 422,
+    "soru": "Adanalı dizisinde Fiko karakterini canlandırdı",
+    "cevap": "Umut oğuz",
+    "alternatifler": [
+      "UMUT OĞUZ",
+      "UMUT OGUZ",
+      "Umutoğuz"
+    ]
+  },
+  {
+    "id": 423,
+    "soru": "Ana karakteri Nathan Drake olan PlayStation oyunu",
+    "cevap": "Uncharted",
+    "alternatifler": [
+      "UNCHARTED"
+    ]
+  },
+  {
+    "id": 424,
+    "soru": "Ana karakteri Nathan Drake olan PlayStation oyunu",
+    "cevap": "Uncharted",
+    "alternatifler": [
+      "UNCHARTED"
+    ]
+  },
+  {
+    "id": 425,
+    "soru": "Toby Fox'un tek başına geliştirdiği video oyunu",
+    "cevap": "Undertale",
+    "alternatifler": [
+      "UNDERTALE"
+    ]
+  },
+  {
+    "id": 426,
+    "soru": "Birleşmiş Milletler'in eğitimle ilgili alt örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 427,
+    "soru": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 428,
+    "soru": "Birleşmiş Milletler'in eğitimle ilgili alt örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 429,
+    "soru": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 430,
+    "soru": "Birleşmiş Milletler'in eğitimle ilgili alt örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 431,
+    "soru": "Dünya Mirasları bu kuruluş tarafından belirlenir",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 432,
+    "soru": "Dünya Mirası listesini düzenleyen küresel örgüt",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 433,
+    "soru": "BM Eğitim, Bilim ve Kültür Örgütü'nün kısaltması",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 434,
+    "soru": "Kültürel ve doğal varlıkları inceleyen BM kurumu",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 435,
+    "soru": "Birleşmiş Milletler'e bağlı çalışan kültür örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 436,
+    "soru": "Birleşmiş Milletler'e bağlı çalışan kültür örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 437,
+    "soru": "BM Eğitim, Bilim ve Kültür Örgütü'nün kısaltması",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 438,
+    "soru": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü",
+    "cevap": "Unesco",
+    "alternatifler": [
+      "UNESCO"
+    ]
+  },
+  {
+    "id": 439,
+    "soru": "David Beckham'ın iyi niyet elçisi olduğu kurum",
+    "cevap": "Unıcef",
+    "alternatifler": [
+      "UNICEF"
+    ]
+  },
+  {
+    "id": 440,
+    "soru": "David Beckham'ın iyi niyet elçisi olduğu kurum",
+    "cevap": "Unıcef",
+    "alternatifler": [
+      "UNICEF"
+    ]
+  },
+  {
+    "id": 441,
+    "soru": "Tek boynuzlu, sihirli at (İng.)",
+    "cevap": "Unıcorn",
+    "alternatifler": [
+      "UNICORN"
+    ]
+  },
+  {
+    "id": 442,
+    "soru": "Tek boynuzlu, sihirli at (İng.)",
+    "cevap": "Unıcorn",
+    "alternatifler": [
+      "UNICORN"
+    ]
+  },
+  {
+    "id": 443,
+    "soru": "Firma değeri 1 milyar doları aşan girişim (İng.)",
+    "cevap": "Unıcorn",
+    "alternatifler": [
+      "UNICORN"
+    ]
+  },
+  {
+    "id": 444,
+    "soru": "Algida, Calve ve Yumoş, bu şirkete ait markalardır",
+    "cevap": "Unılever",
+    "alternatifler": [
+      "UNILEVER"
+    ]
+  },
+  {
+    "id": 445,
+    "soru": "Algida, Calve ve Yumoş, bu şirkete ait markalardır",
+    "cevap": "Unılever",
+    "alternatifler": [
+      "UNILEVER"
+    ]
+  },
+  {
+    "id": 446,
+    "soru": "Tek, cinsiyetsiz giyim tarzı",
+    "cevap": "Unısex",
+    "alternatifler": [
+      "UNISEX"
+    ]
+  },
+  {
+    "id": 447,
+    "soru": "Tek, cinsiyetsiz giyim tarzı",
+    "cevap": "Unısex",
+    "alternatifler": [
+      "UNISEX"
+    ]
+  },
+  {
+    "id": 448,
+    "soru": "Birleşmiş Milletler Eğitim ve Araştırma Enstitüsü",
+    "cevap": "Unıtar",
+    "alternatifler": [
+      "UNITAR"
+    ]
+  },
+  {
+    "id": 449,
+    "soru": "Manchester derbisinde City'nin rakibi olan takım",
+    "cevap": "Unıted",
+    "alternatifler": [
+      "UNITED"
+    ]
+  },
+  {
+    "id": 450,
+    "soru": "Manchester şehrinin kırmızı takımı, Manchester __",
+    "cevap": "Unıted",
+    "alternatifler": [
+      "UNITED"
+    ]
+  },
+  {
+    "id": 451,
+    "soru": "Manchester şehrinin kırmızı takımı, Manchester __",
+    "cevap": "Unıted",
+    "alternatifler": [
+      "UNITED"
+    ]
+  },
+  {
+    "id": 452,
+    "soru": "Tek boynuzlu mitolojik at",
+    "cevap": "Unicorn",
+    "alternatifler": [
+      "UNICORN"
+    ]
+  },
+  {
+    "id": 453,
+    "soru": "İstanbul'un bir dönem kasetçileriyle ünlü semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 454,
+    "soru": "Pilavcısı ve plakçısıyla ünlü İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 455,
+    "soru": "Pilavcısı ve plakçısıyla ünlü İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 456,
+    "soru": "Plakçılar Çarşısı ile meşhur İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 457,
+    "soru": "Plakçılar Çarşısı ile meşhur İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 458,
+    "soru": "İstanbul'un plakçılar şarkısıyla ünlü semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 459,
+    "soru": "Şarkıcı adaylarının uğrak yeri olan İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 460,
+    "soru": "Şarkıcı adaylarının uğrak yeri olan İstanbul semti",
+    "cevap": "Unkapanı",
+    "alternatifler": [
+      "UNKAPANI"
+    ]
+  },
+  {
+    "id": 461,
+    "soru": "Hatırlamakta güçlük çeken",
+    "cevap": "Unutkan",
+    "alternatifler": [
+      "UNUTKAN"
+    ]
+  },
+  {
+    "id": 462,
+    "soru": "Olan biteni aklında tutamayan kişi",
+    "cevap": "Unutkan",
+    "alternatifler": [
+      "UNUTKAN"
+    ]
+  },
+  {
+    "id": 463,
+    "soru": "Sık sık hafızasından silen, hatırlamakta zorlanan",
+    "cevap": "Unutkan",
+    "alternatifler": [
+      "UNUTKAN"
+    ]
+  },
+  {
+    "id": 464,
+    "soru": "Olan biteni aklında tutamayan kişi",
+    "cevap": "Unutkan",
+    "alternatifler": [
+      "UNUTKAN"
+    ]
+  },
+  {
+    "id": 465,
+    "soru": "Bir şeyi hatırlamama",
+    "cevap": "Unutma",
+    "alternatifler": [
+      "UNUTMA"
+    ]
+  },
+  {
+    "id": 466,
+    "soru": "Geçmişe dair şeyleri hatırlamamak, anımsamamak",
+    "cevap": "Unutmak",
+    "alternatifler": [
+      "UNUTMAK"
+    ]
+  },
+  {
+    "id": 467,
+    "soru": "Kuantum kelimesinin anagramı",
+    "cevap": "Unutmak",
+    "alternatifler": [
+      "UNUTMAK"
+    ]
+  },
+  {
+    "id": 468,
+    "soru": "Aklından çıkarmak, hafızadan silinmek",
+    "cevap": "Unutmak",
+    "alternatifler": [
+      "UNUTMAK"
+    ]
+  },
+  {
+    "id": 469,
+    "soru": "Aklından çıkarmak, hafızadan silinmek",
+    "cevap": "Unutmak",
+    "alternatifler": [
+      "UNUTMAK"
+    ]
+  },
+  {
+    "id": 470,
+    "soru": "Demet Akalın, bu 2. albümünü 2003'te çıkardı",
+    "cevap": "Unuttum",
+    "alternatifler": [
+      "UNUTTUM"
+    ]
+  },
+  {
+    "id": 471,
+    "soru": "Demet Akalın, bu 2. albümünü 2003'te çıkardı",
+    "cevap": "Unuttum",
+    "alternatifler": [
+      "UNUTTUM"
+    ]
+  },
+  {
+    "id": 472,
+    "soru": "Cengiz Kurtoğlu'nun çok satan 1986 yapımı albümü",
+    "cevap": "Unutulan",
+    "alternatifler": [
+      "UNUTULAN"
+    ]
+  },
+  {
+    "id": 473,
+    "soru": "Başka birinin aklına gelmeme, hatırlanmama",
+    "cevap": "Unutulma",
+    "alternatifler": [
+      "UNUTULMA"
+    ]
+  },
+  {
+    "id": 474,
+    "soru": "Yazar Turgay Fişekçi'nin otobiyografik gezi kitabı",
+    "cevap": "Unutulmaz",
+    "alternatifler": [
+      "UNUTULMAZ"
+    ]
+  },
+  {
+    "id": 475,
+    "soru": "Artık anımsanmayan",
+    "cevap": "Unutulmuş",
+    "alternatifler": [
+      "UNUTULMUŞ",
+      "UNUTULMUS"
+    ]
+  },
+  {
+    "id": 476,
+    "soru": "Fakir dost çabuk __",
+    "cevap": "Unutulur",
+    "alternatifler": [
+      "UNUTULUR"
+    ]
+  },
+  {
+    "id": 477,
+    "soru": "İpe __, bir şeyi yapmamak için bahaneler üretmek",
+    "cevap": "Un sermek",
+    "alternatifler": [
+      "UN SERMEK",
+      "Unsermek"
+    ]
+  },
+  {
+    "id": 478,
+    "soru": "Türküde, bakkal amcaya bu üçü sorulur, yağ __",
+    "cevap": "Un şeker",
+    "alternatifler": [
+      "UN SEKER",
+      "UN ŞEKER",
+      "Unşeker"
+    ]
+  },
+  {
+    "id": 479,
+    "soru": "Yazılım güncellemesi (İng.)",
+    "cevap": "Update",
+    "alternatifler": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": 480,
+    "soru": "Yazılım güncellemesi (İng.)",
+    "cevap": "Update",
+    "alternatifler": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": 481,
+    "soru": "Bilgisayardaki dosyayı internete yükleme (İng.)",
+    "cevap": "Upload",
+    "alternatifler": [
+      "UPLOAD"
+    ]
+  },
+  {
+    "id": 482,
+    "soru": "Bilgisayardaki dosyayı internete yükleme (İng.)",
+    "cevap": "Upload",
+    "alternatifler": [
+      "UPLOAD"
+    ]
+  },
+  {
+    "id": 483,
+    "soru": "Boylu boyunca yatmış; kısacık karşıtı pekiştirme",
+    "cevap": "Upuzun",
+    "alternatifler": [
+      "UPUZUN"
+    ]
+  },
+  {
+    "id": 484,
+    "soru": "Son derece boylu anlamındaki pekiştirmeli sıfat",
+    "cevap": "Upuzun",
+    "alternatifler": [
+      "UPUZUN"
+    ]
+  },
+  {
+    "id": 485,
+    "soru": "Son derece boylu anlamındaki pekiştirmeli sıfat",
+    "cevap": "Upuzun",
+    "alternatifler": [
+      "UPUZUN"
+    ]
+  },
+  {
+    "id": 486,
+    "soru": "Çok güçlü, yağmursuz fırtına",
+    "cevap": "Urağan",
+    "alternatifler": [
+      "URAĞAN",
+      "URAGAN"
+    ]
+  },
+  {
+    "id": 487,
+    "soru": "Yağmur içermeyen son derece şiddetli fırtına",
+    "cevap": "Urağan",
+    "alternatifler": [
+      "URAĞAN",
+      "URAGAN"
+    ]
+  },
+  {
+    "id": 488,
+    "soru": "Yağmur içermeyen son derece şiddetli fırtına",
+    "cevap": "Urağan",
+    "alternatifler": [
+      "URAĞAN",
+      "URAGAN"
+    ]
+  },
+  {
+    "id": 489,
+    "soru": "Yağmur yağdırmayan güçlü fırtına",
+    "cevap": "Urağan",
+    "alternatifler": [
+      "URAĞAN",
+      "URAGAN"
+    ]
+  },
+  {
+    "id": 490,
+    "soru": "Güçlü olmasına rağmen yağmur getirmeyen fırtına",
+    "cevap": "Urağan",
+    "alternatifler": [
+      "URAĞAN",
+      "URAGAN"
+    ]
+  },
+  {
+    "id": 491,
+    "soru": "Geçerliliğini yitirmiş bir dil ailesi; Turanca",
+    "cevap": "Ural altay",
+    "alternatifler": [
+      "URAL ALTAY",
+      "Uralaltay"
+    ]
+  },
+  {
+    "id": 492,
+    "soru": "Türkçenin dahil olduğu dil ailesi",
+    "cevap": "Ural altay",
+    "alternatifler": [
+      "URAL ALTAY",
+      "Uralaltay"
+    ]
+  },
+  {
+    "id": 493,
+    "soru": "Türkçenin dahil olduğu dil ailesi",
+    "cevap": "Ural altay",
+    "alternatifler": [
+      "URAL ALTAY",
+      "Uralaltay"
+    ]
+  },
+  {
+    "id": 494,
+    "soru": "Türkçe'nin dil ailesi",
+    "cevap": "Ural altay",
+    "alternatifler": [
+      "URAL ALTAY",
+      "Uralaltay"
+    ]
+  },
+  {
+    "id": 495,
+    "soru": "Türkçe, Moğolca gibi dillerin bulunduğu dil ailesi",
+    "cevap": "Ural altay",
+    "alternatifler": [
+      "URAL ALTAY",
+      "Uralaltay"
+    ]
+  },
+  {
+    "id": 496,
+    "soru": "Yunan mitolojisinde titanların babası olan tanrı",
+    "cevap": "Uranos",
+    "alternatifler": [
+      "URANOS"
+    ]
+  },
+  {
+    "id": 497,
+    "soru": "Yunan mitolojisinde titanların babası olan tanrı",
+    "cevap": "Uranos",
+    "alternatifler": [
+      "URANOS"
+    ]
+  },
+  {
+    "id": 498,
+    "soru": "Diğerlerine göre ters yönde dönen bir gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 499,
+    "soru": "Güneş'e en yakın yedinci gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 500,
+    "soru": "Güneşe yakınlık olarak yedinci sıradaki gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 501,
+    "soru": "Güneş'e en yakın yedinci gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 502,
+    "soru": "Güneş Sistemi'nin yedinci gezegeni",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 503,
+    "soru": "Yunan mitolojisinde gökyüzü tanrısı",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 504,
+    "soru": "Güneşe uzaklık sıralamasında 7. olan gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 505,
+    "soru": "Güneşe uzaklık sıralamasında 7. olan gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 506,
+    "soru": "Bir tekerlek gibi dik dönen tek gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 507,
+    "soru": "Güneş’e en yakın 7. gezegen",
+    "cevap": "Uranüs",
+    "alternatifler": [
+      "URANUS",
+      "URANÜS"
+    ]
+  },
+  {
+    "id": 508,
+    "soru": "Radyoaktivite bu element sayesinde bulundu",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 509,
+    "soru": "Nükleer enerjinin temel yakıt maddesi olan element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 510,
+    "soru": "Bu elementin atom numarası 92, sembolü U'dur",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 511,
+    "soru": "Simgesi U olan radyoaktif kimyasal element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 512,
+    "soru": "Nükleer enerjide kullanılan radyoaktif bir element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 513,
+    "soru": "Simgesi U olan radyoaktif kimyasal element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 514,
+    "soru": "Radyoaktivite bu element sayesinde bulundu",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 515,
+    "soru": "Nükleer enerjide kullanılan radyoaktif bir element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 516,
+    "soru": "Simgesi U olan radyoaktif kimyasal element",
+    "cevap": "Uranyum",
+    "alternatifler": [
+      "URANYUM"
+    ]
+  },
+  {
+    "id": 517,
+    "soru": "Başkenti Van'da bulunan Tuşpa olan antik medeniyet",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 518,
+    "soru": "Ağrı'nın Doğubeyazıt ilçesinde bulunan tarihi kale",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 519,
+    "soru": "Van'da Demir Çağı'nda kurulmuş savaşçı krallık",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 520,
+    "soru": "Başkenti Tuşpa olan eski Anadolu medeniyeti",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 521,
+    "soru": "Muş'taki Kız Köprüsü'nü yapan uygarlık",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 522,
+    "soru": "Başkenti Van'da bulunan Tuşpa olan antik medeniyet",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 523,
+    "soru": "Başkenti Tuşpa olan eski Anadolu medeniyeti",
+    "cevap": "Urartu",
+    "alternatifler": [
+      "URARTU"
+    ]
+  },
+  {
+    "id": 524,
+    "soru": "Başkentleri Tuşpa olan antik dönem halkı",
+    "cevap": "Urartular",
+    "alternatifler": [
+      "URARTULAR"
+    ]
+  },
+  {
+    "id": 525,
+    "soru": "I. Sarduri'nin kurduğu, Van çevresindeki krallık",
+    "cevap": "Urartular",
+    "alternatifler": [
+      "URARTULAR"
+    ]
+  },
+  {
+    "id": 526,
+    "soru": "Başkenti Tuşpa olan tarihi krallık",
+    "cevap": "Urartular",
+    "alternatifler": [
+      "URARTULAR"
+    ]
+  },
+  {
+    "id": 527,
+    "soru": "Başkenti Van olan, milattan önceki tarihi krallık",
+    "cevap": "Urartular",
+    "alternatifler": [
+      "URARTULAR"
+    ]
+  },
+  {
+    "id": 528,
+    "soru": "Yalnızca RNA yapısında bulunan organik bir baz",
+    "cevap": "Urasil",
+    "alternatifler": [
+      "URASIL"
+    ]
+  },
+  {
+    "id": 529,
+    "soru": "Şehirlerin sorunlarıyla ilgilenen bilim dalı",
+    "cevap": "Urbanizm",
+    "alternatifler": [
+      "URBANIZM"
+    ]
+  },
+  {
+    "id": 530,
+    "soru": "İnsanların şehirle olan ilişkisini ele alan bilim",
+    "cevap": "Urbanizm",
+    "alternatifler": [
+      "URBANIZM"
+    ]
+  },
+  {
+    "id": 531,
+    "soru": "Pakistan'ın resmi dili",
+    "cevap": "Urduca",
+    "alternatifler": [
+      "URDUCA"
+    ]
+  },
+  {
+    "id": 532,
+    "soru": "Pakistan'ın İngilizce haricindeki resmi dili",
+    "cevap": "Urduca",
+    "alternatifler": [
+      "URDUCA"
+    ]
+  },
+  {
+    "id": 533,
+    "soru": "Pakistan'ın resmi dili",
+    "cevap": "Urduca",
+    "alternatifler": [
+      "URDUCA"
+    ]
+  },
+  {
+    "id": 534,
+    "soru": "Pakistan'ın resmi dili",
+    "cevap": "Urduca",
+    "alternatifler": [
+      "URDUCA"
+    ]
+  },
+  {
+    "id": 535,
+    "soru": "Ömer adlı birine seslenilen türkü, __ Ezelden",
+    "cevap": "Urfalıyam",
+    "alternatifler": [
+      "URFALIYAM"
+    ]
+  },
+  {
+    "id": 536,
+    "soru": "Ömer adlı birine seslenilen türkü, __ Ezelden",
+    "cevap": "Urfalıyam",
+    "alternatifler": [
+      "URFALIYAM"
+    ]
+  },
+  {
+    "id": 537,
+    "soru": "Bu yiyeceğin acılısına Adana ismi verilir",
+    "cevap": "Urfa kebap",
+    "alternatifler": [
+      "URFA KEBAP",
+      "Urfakebap"
+    ]
+  },
+  {
+    "id": 538,
+    "soru": "Küçükayı takımyıldızının Latince adı",
+    "cevap": "Ursa mınor",
+    "alternatifler": [
+      "URSA MINOR",
+      "Ursamınor"
+    ]
+  },
+  {
+    "id": 539,
+    "soru": "Küçük Denizkızı'na bir çift bacak veren cadı",
+    "cevap": "Ursula",
+    "alternatifler": [
+      "URSULA"
+    ]
+  },
+  {
+    "id": 540,
+    "soru": "Küçük Denizkızı'na bir çift bacak veren cadı",
+    "cevap": "Ursula",
+    "alternatifler": [
+      "URSULA"
+    ]
+  },
+  {
+    "id": 541,
+    "soru": "Mülksüzler'in yazarı olan Amerikalı, __ Le Guin",
+    "cevap": "Ursula",
+    "alternatifler": [
+      "URSULA"
+    ]
+  },
+  {
+    "id": 542,
+    "soru": "Futbolda ilk dünya kupasını kazanan ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 543,
+    "soru": "İlk Dünya Kupası maçının yapıldığı ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 544,
+    "soru": "Futbolda ilk dünya kupasını kazanan ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 545,
+    "soru": "Brezilya ve Arjantin'e komşu Amerika ülkesi",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 546,
+    "soru": "İlk FIFA Dünya Kupası'na ev sahipliği yapan ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 547,
+    "soru": "Futbolda ilk dünya kupasını kazanan ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 548,
+    "soru": "İlk Dünya Kupası'nın finalistleridir, Arjantin, __",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 549,
+    "soru": "Mavi beyaz bayrağında, güneş görseli de olan ülke",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 550,
+    "soru": "İlk Dünya Kupası'nın finalistleridir, Arjantin, __",
+    "cevap": "Uruguay",
+    "alternatifler": [
+      "URUGUAY"
+    ]
+  },
+  {
+    "id": 551,
+    "soru": "Jamaika'lı olimpiyat rekortmeni koşucu",
+    "cevap": "Usaınbolt",
+    "alternatifler": [
+      "USAINBOLT"
+    ]
+  },
+  {
+    "id": 552,
+    "soru": "2016'da belgeseli çekilen Jamaikalı atlet",
+    "cevap": "Usaın bolt",
+    "alternatifler": [
+      "USAIN BOLT",
+      "Usaınbolt"
+    ]
+  },
+  {
+    "id": 553,
+    "soru": "100 metreyi 9 saniye 58 salisede koşan Jamaikalı",
+    "cevap": "Usaın bolt",
+    "alternatifler": [
+      "USAIN BOLT",
+      "Usaınbolt"
+    ]
+  },
+  {
+    "id": 554,
+    "soru": "Hem 100 hem de 200 metreyi en hızlı koşan insan",
+    "cevap": "Usaın bolt",
+    "alternatifler": [
+      "USAIN BOLT",
+      "Usaınbolt"
+    ]
+  },
+  {
+    "id": 555,
+    "soru": "Üst üste 3 Olimpiyat'ta 100 metre yarışını kazandı",
+    "cevap": "Usaın bolt",
+    "alternatifler": [
+      "USAIN BOLT",
+      "Usaınbolt"
+    ]
+  },
+  {
+    "id": 556,
+    "soru": "Jamaikalı rekortmen kısa mesafe koşucusu",
+    "cevap": "Usain bolt",
+    "alternatifler": [
+      "USAIN BOLT",
+      "Usainbolt"
+    ]
+  },
+  {
+    "id": 557,
+    "soru": "Bıkkınlık, bıkma",
+    "cevap": "Usançlık",
+    "alternatifler": [
+      "USANÇLIK",
+      "USANCLIK"
+    ]
+  },
+  {
+    "id": 558,
+    "soru": "Bıktırma, bezdirme",
+    "cevap": "Usandırma",
+    "alternatifler": [
+      "USANDIRMA"
+    ]
+  },
+  {
+    "id": 559,
+    "soru": "Sıkılma, bıkma",
+    "cevap": "Usanma",
+    "alternatifler": [
+      "USANMA"
+    ]
+  },
+  {
+    "id": 560,
+    "soru": "Asuman kelimesinin anagramı",
+    "cevap": "Usanma",
+    "alternatifler": [
+      "USANMA"
+    ]
+  },
+  {
+    "id": 561,
+    "soru": "Bir şeyin tekrar edilmesinden duyulan hoşnutsuzluk",
+    "cevap": "Usanmak",
+    "alternatifler": [
+      "USANMAK"
+    ]
+  },
+  {
+    "id": 562,
+    "soru": "Bezmek, bıkmak",
+    "cevap": "Usanmak",
+    "alternatifler": [
+      "USANMAK"
+    ]
+  },
+  {
+    "id": 563,
+    "soru": "Çiroz yapımında kullanılan balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 564,
+    "soru": "Kolyosa çok benzeyen göçmen balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 565,
+    "soru": "Ilık suda sürü halinde yaşayan iğ biçimli balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 566,
+    "soru": "Kolyozla karıştırılan, sürü halinde gezen balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 567,
+    "soru": "Küçük bir türüne, \"Çiroz\" denilen deniz balığı",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 568,
+    "soru": "Kolyozla karıştırılan, sürü halinde gezen balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 569,
+    "soru": "Küçük bir türüne, \"Çiroz\" denilen deniz balığı",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 570,
+    "soru": "Adının son iki hecesi bir tür güvercin olan balık",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 571,
+    "soru": "Küçük bir türüne, \"Çiroz\" denilen deniz balığı",
+    "cevap": "Uskumru",
+    "alternatifler": [
+      "USKUMRU"
+    ]
+  },
+  {
+    "id": 572,
+    "soru": "Bir pervaneye sahip olan mekanizma, pervaneli",
+    "cevap": "Uskurlu",
+    "alternatifler": [
+      "USKURLU"
+    ]
+  },
+  {
+    "id": 573,
+    "soru": "Bir pervaneye sahip olan mekanizma, pervaneli",
+    "cevap": "Uskurlu",
+    "alternatifler": [
+      "USKURLU"
+    ]
+  },
+  {
+    "id": 574,
+    "soru": "Yaramazca davranış sergilememe anlamındaki deyim",
+    "cevap": "Uslu durma",
+    "alternatifler": [
+      "USLU DURMA",
+      "Usludurma"
+    ]
+  },
+  {
+    "id": 575,
+    "soru": "Yaramazca davranış sergilememe anlamındaki deyim",
+    "cevap": "Uslu durma",
+    "alternatifler": [
+      "USLU DURMA",
+      "Usludurma"
+    ]
+  },
+  {
+    "id": 576,
+    "soru": "Bir atölyede çalışan işçilerin şefi",
+    "cevap": "Ustabaşı",
+    "alternatifler": [
+      "USTABAŞI",
+      "USTABASI"
+    ]
+  },
+  {
+    "id": 577,
+    "soru": "Fabrikada aynı birimdeki işçilerden sorumlu amir",
+    "cevap": "Ustabaşı",
+    "alternatifler": [
+      "USTABAŞI",
+      "USTABASI"
+    ]
+  },
+  {
+    "id": 578,
+    "soru": "Fabrikalardaki en kıdemli alaylı",
+    "cevap": "Ustabaşı",
+    "alternatifler": [
+      "USTABAŞI",
+      "USTABASI"
+    ]
+  },
+  {
+    "id": 579,
+    "soru": "İnşaatta mühendisin sağ kolu olan diplomasız kişi",
+    "cevap": "Ustabaşı",
+    "alternatifler": [
+      "USTABAŞI",
+      "USTABASI"
+    ]
+  },
+  {
+    "id": 580,
+    "soru": "Bir zanaatta üst mertebeye erişme, öğretici olma",
+    "cevap": "Ustalık",
+    "alternatifler": [
+      "USTALIK"
+    ]
+  },
+  {
+    "id": 581,
+    "soru": "Bir işte beceri gösterme, maharet",
+    "cevap": "Ustalık",
+    "alternatifler": [
+      "USTALIK"
+    ]
+  },
+  {
+    "id": 582,
+    "soru": "Araf filminin yönetmeni, Yeşim __",
+    "cevap": "Ustaoğlu",
+    "alternatifler": [
+      "USTAOĞLU",
+      "USTAOGLU"
+    ]
+  },
+  {
+    "id": 583,
+    "soru": "Ehil biri tarafından yapılmış; mahir birinin eseri",
+    "cevap": "Usta işi",
+    "alternatifler": [
+      "USTA IŞI",
+      "USTA ISI",
+      "Ustaişi"
+    ]
+  },
+  {
+    "id": 584,
+    "soru": "Uzun zamandan beri ve iyi araba kullanan kişi",
+    "cevap": "Usta şoför",
+    "alternatifler": [
+      "USTA SOFOR",
+      "USTA ŞOFÖR",
+      "Ustaşoför"
+    ]
+  },
+  {
+    "id": 585,
+    "soru": "Berber çırağı bununla balonu tıraş edip sınav olur",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 586,
+    "soru": "Berberlerin sakal traşı yapmakta kullandığı bıçak",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 587,
+    "soru": "Berberlerin tıraş için kullandıkları kesici alet",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 588,
+    "soru": "Tıraş için kullanılan keskin bir bıçak",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 589,
+    "soru": "Machete filmi Türkiye'de bu adla vizyona girdi",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 590,
+    "soru": "Erkek berberindeki, çok keskin tıraş aleti",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 591,
+    "soru": "Eski toprak berberin yegane tıraş aleti",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 592,
+    "soru": "Berberlerin kullandığı açılır kapanır tıraş bıçağı",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 593,
+    "soru": "Klasik sakal tıraşının olmazsa olmazı eşya",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 594,
+    "soru": "Danny Trejo'nun başrolde olduğu film serisi",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 595,
+    "soru": "Eski toprak berberin yegane tıraş aleti",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 596,
+    "soru": "Klasik sakal tıraşının olmazsa olmazı eşya",
+    "cevap": "Ustura",
+    "alternatifler": [
+      "USTURA"
+    ]
+  },
+  {
+    "id": 597,
+    "soru": "Astronomi ölçümlerinde kullanılan eski bir araç",
+    "cevap": "Usturlap",
+    "alternatifler": [
+      "USTURLAP"
+    ]
+  },
+  {
+    "id": 598,
+    "soru": "Nastulus, bugüne ulaşan en eski örneğini yaptı",
+    "cevap": "Usturlap",
+    "alternatifler": [
+      "USTURLAP"
+    ]
+  },
+  {
+    "id": 599,
+    "soru": "Deniz taşıtlarında çarpmayı önleyen yastık",
+    "cevap": "Usturmaça",
+    "alternatifler": [
+      "USTURMAÇA",
+      "USTURMACA"
+    ]
+  },
+  {
+    "id": 600,
+    "soru": "Deniz taşıtlarında çarpmayı önleyen yastık",
+    "cevap": "Usturmaça",
+    "alternatifler": [
+      "USTURMAÇA",
+      "USTURMACA"
+    ]
+  },
+  {
+    "id": 601,
+    "soru": "Yerine ve zamanına göre davranmayı bilen",
+    "cevap": "Usturuplu",
+    "alternatifler": [
+      "USTURUPLU"
+    ]
+  },
+  {
+    "id": 602,
+    "soru": "Düzenli bir şekilde olan, ustalıkla yapılmış",
+    "cevap": "Usturuplu",
+    "alternatifler": [
+      "USTURUPLU"
+    ]
+  },
+  {
+    "id": 603,
+    "soru": "Uygun, düzenli, toplu",
+    "cevap": "Usturuplu",
+    "alternatifler": [
+      "USTURUPLU"
+    ]
+  },
+  {
+    "id": 604,
+    "soru": "Belli etmeyecek şekilde; yavaş yavaş",
+    "cevap": "Usulca",
+    "alternatifler": [
+      "USULCA"
+    ]
+  },
+  {
+    "id": 605,
+    "soru": "Belli etmeyecek şekilde; yavaş yavaş",
+    "cevap": "Usulca",
+    "alternatifler": [
+      "USULCA"
+    ]
+  },
+  {
+    "id": 606,
+    "soru": "Kanunlara ya da kurallara aykırı",
+    "cevap": "Usulsüz",
+    "alternatifler": [
+      "USULSUZ",
+      "USULSÜZ"
+    ]
+  },
+  {
+    "id": 607,
+    "soru": "Kurallara aykırı bir şekilde",
+    "cevap": "Usulsüzce",
+    "alternatifler": [
+      "USULSUZCE",
+      "USULSÜZCE"
+    ]
+  },
+  {
+    "id": 608,
+    "soru": "Bodrum'da yer alan bu koy, bir tabiat parkıdır",
+    "cevap": "Usuluk",
+    "alternatifler": [
+      "USULUK"
+    ]
+  },
+  {
+    "id": 609,
+    "soru": "Yavaş ve sessizce anlamına gelen ikileme",
+    "cevap": "Usul usul",
+    "alternatifler": [
+      "USUL USUL",
+      "Usulusul"
+    ]
+  },
+  {
+    "id": 610,
+    "soru": "Canımsın adlı şarkıyı içeren Nalan albümü",
+    "cevap": "Usul usul",
+    "alternatifler": [
+      "USUL USUL",
+      "Usulusul"
+    ]
+  },
+  {
+    "id": 611,
+    "soru": "1997 tarihli Of Aman Nalan albümü; yavaş yavaş",
+    "cevap": "Usul usul",
+    "alternatifler": [
+      "USUL USUL",
+      "Usulusul"
+    ]
+  },
+  {
+    "id": 612,
+    "soru": "Beyaz Köşk olarak da anılan İzmir'deki tarihi köşk",
+    "cevap": "Uşakizade",
+    "alternatifler": [
+      "UŞAKIZADE",
+      "USAKIZADE"
+    ]
+  },
+  {
+    "id": 613,
+    "soru": "Beyaz Köşk olarak da anılan İzmir'deki tarihi köşk",
+    "cevap": "Uşakizade",
+    "alternatifler": [
+      "UŞAKIZADE",
+      "USAKIZADE"
+    ]
+  },
+  {
+    "id": 614,
+    "soru": "Anadolu Şairi, Ömer Bedrettin __",
+    "cevap": "Uşaklı",
+    "alternatifler": [
+      "USAKLI",
+      "UŞAKLI"
+    ]
+  },
+  {
+    "id": 615,
+    "soru": "Anadolu Şairi, Ömer Bedrettin __",
+    "cevap": "Uşaklı",
+    "alternatifler": [
+      "USAKLI",
+      "UŞAKLI"
+    ]
+  },
+  {
+    "id": 616,
+    "soru": "Halit Ziya __, Aşk-ı Memnu kitabının yazarı",
+    "cevap": "Uşaklıgil",
+    "alternatifler": [
+      "USAKLIGIL",
+      "UŞAKLIGIL"
+    ]
+  },
+  {
+    "id": 617,
+    "soru": "Aşk-ı Memnu, Nemide romanlarının yazarının soyadı",
+    "cevap": "Uşaklıgil",
+    "alternatifler": [
+      "USAKLIGIL",
+      "UŞAKLIGIL"
+    ]
+  },
+  {
+    "id": 618,
+    "soru": "Aşk-ı Memnu, Nemide romanlarının yazarının soyadı",
+    "cevap": "Uşaklıgil",
+    "alternatifler": [
+      "USAKLIGIL",
+      "UŞAKLIGIL"
+    ]
+  },
+  {
+    "id": 619,
+    "soru": "Kuşaklı anagramı; hizmetçilik",
+    "cevap": "Uşaklık",
+    "alternatifler": [
+      "USAKLIK",
+      "UŞAKLIK"
+    ]
+  },
+  {
+    "id": 620,
+    "soru": "Erkek hizmetçilerin yaptığı meslek",
+    "cevap": "Uşaklık",
+    "alternatifler": [
+      "USAKLIK",
+      "UŞAKLIK"
+    ]
+  },
+  {
+    "id": 621,
+    "soru": "Kuşaklı anagramı; hizmetçilik",
+    "cevap": "Uşaklık",
+    "alternatifler": [
+      "USAKLIK",
+      "UŞAKLIK"
+    ]
+  },
+  {
+    "id": 622,
+    "soru": "Eski Mısır'da ölüyle birlikte gömülen heykelcik",
+    "cevap": "Uşepti",
+    "alternatifler": [
+      "UŞEPTI",
+      "USEPTI"
+    ]
+  },
+  {
+    "id": 623,
+    "soru": "Eski Mısır'da ölüyle birlikte gömülen heykelcik",
+    "cevap": "Uşepti",
+    "alternatifler": [
+      "UŞEPTI",
+      "USEPTI"
+    ]
+  },
+  {
+    "id": 624,
+    "soru": "2004'te Mehmet Okur'un transfer olduğu NBA takımı",
+    "cevap": "Utah jazz",
+    "alternatifler": [
+      "UTAH JAZZ",
+      "Utahjazz"
+    ]
+  },
+  {
+    "id": 625,
+    "soru": "Bir toplulukta rahat hareket edemeyen kişi",
+    "cevap": "Utangaç",
+    "alternatifler": [
+      "UTANGAC",
+      "UTANGAÇ"
+    ]
+  },
+  {
+    "id": 626,
+    "soru": "Topluluk önünde çekingen ve sıkılgan olan kişi",
+    "cevap": "Utangaç",
+    "alternatifler": [
+      "UTANGAC",
+      "UTANGAÇ"
+    ]
+  },
+  {
+    "id": 627,
+    "soru": "Bir toplulukta rahat hareket edemeyen kişi",
+    "cevap": "Utangaç",
+    "alternatifler": [
+      "UTANGAC",
+      "UTANGAÇ"
+    ]
+  },
+  {
+    "id": 628,
+    "soru": "Toplulukta kendini sıkan, rahat olamayan kişi",
+    "cevap": "Utangaç",
+    "alternatifler": [
+      "UTANGAC",
+      "UTANGAÇ"
+    ]
+  },
+  {
+    "id": 629,
+    "soru": "Mahcup kelimesinin eş anlamlısı",
+    "cevap": "Utangaç",
+    "alternatifler": [
+      "UTANGAC",
+      "UTANGAÇ"
+    ]
+  },
+  {
+    "id": 630,
+    "soru": "__ pazar, dostluğu bozar",
+    "cevap": "Utanma",
+    "alternatifler": [
+      "UTANMA"
+    ]
+  },
+  {
+    "id": 631,
+    "soru": "Yanlış davranmaktan dolayı üzülmek, mahcup olmak",
+    "cevap": "Utanmak",
+    "alternatifler": [
+      "UTANMAK"
+    ]
+  },
+  {
+    "id": 632,
+    "soru": "Varını veren __",
+    "cevap": "Utanmamış",
+    "alternatifler": [
+      "UTANMAMIS",
+      "UTANMAMIŞ"
+    ]
+  },
+  {
+    "id": 633,
+    "soru": "Yüzü kızarmayan, arsız, yüzsüz",
+    "cevap": "Utanmaz",
+    "alternatifler": [
+      "UTANMAZ"
+    ]
+  },
+  {
+    "id": 634,
+    "soru": "Merkür gezegeninin eski adı",
+    "cevap": "Utarit",
+    "alternatifler": [
+      "UTARIT"
+    ]
+  },
+  {
+    "id": 635,
+    "soru": "Merkür'ün Arapça adı",
+    "cevap": "Utarit",
+    "alternatifler": [
+      "UTARIT"
+    ]
+  },
+  {
+    "id": 636,
+    "soru": "Kadın doğum organı, rahim",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 637,
+    "soru": "Ana rahmi, döl yatağı",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 638,
+    "soru": "Bebeğin, anne karnında bulunduğu yer",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 639,
+    "soru": "Tıpta döl yatağı anlamına gelir",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 640,
+    "soru": "Ana rahmi, döl yatağı",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 641,
+    "soru": "Kadın doğum organı, rahim",
+    "cevap": "Uterus",
+    "alternatifler": [
+      "UTERUS"
+    ]
+  },
+  {
+    "id": 642,
+    "soru": "Kurbanları ileten Türk-Altay mitolojik tanrısı",
+    "cevap": "Utkaçı",
+    "alternatifler": [
+      "UTKACI",
+      "UTKAÇI"
+    ]
+  },
+  {
+    "id": 643,
+    "soru": "Kurbanları ileten Türk-Altay mitolojik tanrısı",
+    "cevap": "Utkaçı",
+    "alternatifler": [
+      "UTKACI",
+      "UTKAÇI"
+    ]
+  },
+  {
+    "id": 644,
+    "soru": "Perde açılmadan önce çalınan açılış parçası",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 645,
+    "soru": "Operada perde açılmadan önce çalınan müzik",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 646,
+    "soru": "Opera gibi uzun müzik eserlerinin giriş bölümü",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 647,
+    "soru": "Operada perde açılmadan önce çalınan müzik",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 648,
+    "soru": "Opera gibi uzun müzik eserlerinin giriş bölümü",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 649,
+    "soru": "Operada perde açılmadan önce çalınan müzik",
+    "cevap": "Uvertür",
+    "alternatifler": [
+      "UVERTÜR",
+      "UVERTUR"
+    ]
+  },
+  {
+    "id": 650,
+    "soru": "Şiirde mısra sonu uyumunu yakalamış, kafiyeli",
+    "cevap": "Uyaklı",
+    "alternatifler": [
+      "UYAKLI"
+    ]
+  },
+  {
+    "id": 651,
+    "soru": "Benzeşen seslerle mısraların bitmesi, kafiyeli",
+    "cevap": "Uyaklı",
+    "alternatifler": [
+      "UYAKLI"
+    ]
+  },
+  {
+    "id": 652,
+    "soru": "Edebi yönden kafiyesi bulunmayan",
+    "cevap": "Uyaksız",
+    "alternatifler": [
+      "UYAKSIZ"
+    ]
+  },
+  {
+    "id": 653,
+    "soru": "Edebi yönden kafiyesi bulunmayan",
+    "cevap": "Uyaksız",
+    "alternatifler": [
+      "UYAKSIZ"
+    ]
+  },
+  {
+    "id": 654,
+    "soru": "Genelde telefon alarmlarının esas görevi",
+    "cevap": "Uyandırma",
+    "alternatifler": [
+      "UYANDIRMA"
+    ]
+  },
+  {
+    "id": 655,
+    "soru": "Mecazen, gerçekleri görmesine yardım etme",
+    "cevap": "Uyandırma",
+    "alternatifler": [
+      "UYANDIRMA"
+    ]
+  },
+  {
+    "id": 656,
+    "soru": "Korkulu rüya görmektense, __ yatmak hayırlıdır",
+    "cevap": "Uyanık",
+    "alternatifler": [
+      "UYANIK"
+    ]
+  },
+  {
+    "id": 657,
+    "soru": "Müjdat Gezen ve Kadir İnanır filmi; __ Kardeşler",
+    "cevap": "Uyanık",
+    "alternatifler": [
+      "UYANIK"
+    ]
+  },
+  {
+    "id": 658,
+    "soru": "Dinlenmesi bitmiş ve gözlerini açmış haldeki",
+    "cevap": "Uyanık",
+    "alternatifler": [
+      "UYANIK"
+    ]
+  },
+  {
+    "id": 659,
+    "soru": "Tilkinin bilinen özelliğiyle eş anlamlı; tetikte",
+    "cevap": "Uyanık",
+    "alternatifler": [
+      "UYANIK"
+    ]
+  },
+  {
+    "id": 660,
+    "soru": "Aydınlanma, bilgisizlikten kurtulma",
+    "cevap": "Uyanış",
+    "alternatifler": [
+      "UYANIŞ",
+      "UYANIS"
+    ]
+  },
+  {
+    "id": 661,
+    "soru": "Edna Pontellier'i anlatan ünlü Kate Chopin romanı",
+    "cevap": "Uyanış",
+    "alternatifler": [
+      "UYANIŞ",
+      "UYANIS"
+    ]
+  },
+  {
+    "id": 662,
+    "soru": "Dünyanın __, Atiye dizisinin ilham aldığı kitap",
+    "cevap": "Uyanışı",
+    "alternatifler": [
+      "UYANIŞI",
+      "UYANISI"
+    ]
+  },
+  {
+    "id": 663,
+    "soru": "Bu Oliver Sacks uyarlamasında Robert De Niro var",
+    "cevap": "Uyanışlar",
+    "alternatifler": [
+      "UYANISLAR",
+      "UYANIŞLAR"
+    ]
+  },
+  {
+    "id": 664,
+    "soru": "Çalışkan Ahmet bu filmde vardı, Hababam Sınıfı __",
+    "cevap": "Uyanıyor",
+    "alternatifler": [
+      "UYANIYOR"
+    ]
+  },
+  {
+    "id": 665,
+    "soru": "Uykudan kalkmak",
+    "cevap": "Uyanmak",
+    "alternatifler": [
+      "UYANMAK"
+    ]
+  },
+  {
+    "id": 666,
+    "soru": "Uyku halinden sonra kendine gelmek",
+    "cevap": "Uyanmak",
+    "alternatifler": [
+      "UYANMAK"
+    ]
+  },
+  {
+    "id": 667,
+    "soru": "Uyku halinden sonra kendine gelmek",
+    "cevap": "Uyanmak",
+    "alternatifler": [
+      "UYANMAK"
+    ]
+  },
+  {
+    "id": 668,
+    "soru": "Beyin faaliyetlerini hızlandıran madde",
+    "cevap": "Uyarıcı",
+    "alternatifler": [
+      "UYARICI"
+    ]
+  },
+  {
+    "id": 669,
+    "soru": "Zihni harekete geçiren, kafein vb. madde",
+    "cevap": "Uyarıcı",
+    "alternatifler": [
+      "UYARICI"
+    ]
+  },
+  {
+    "id": 670,
+    "soru": "Zihni harekete geçiren, kafein vb. madde",
+    "cevap": "Uyarıcı",
+    "alternatifler": [
+      "UYARICI"
+    ]
+  },
+  {
+    "id": 671,
+    "soru": "Beyin faaliyetlerini hızlandıran madde",
+    "cevap": "Uyarıcı",
+    "alternatifler": [
+      "UYARICI"
+    ]
+  },
+  {
+    "id": 672,
+    "soru": "Başka bir esere dayandırılarak oluşmuş eser",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 673,
+    "soru": "Klasik bir eseri çevirirken kültüre adapte etme",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 674,
+    "soru": "Yabancı bir dizinin yerli versiyonunu yapma",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 675,
+    "soru": "Yabancı dildeki bir eseri yerli unsurlarla çevirme",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 676,
+    "soru": "Bir kitabın filminin çekilmesi",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 677,
+    "soru": "Başka bir esere dayandırılarak oluşmuş eser",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 678,
+    "soru": "Bir kitabın dizi, film ya da tiyatroya çevrilmesi",
+    "cevap": "Uyarlama",
+    "alternatifler": [
+      "UYARLAMA"
+    ]
+  },
+  {
+    "id": 679,
+    "soru": "ikaz etme",
+    "cevap": "Uyarma",
+    "alternatifler": [
+      "UYARMA"
+    ]
+  },
+  {
+    "id": 680,
+    "soru": "ikaz etme",
+    "cevap": "Uyarma",
+    "alternatifler": [
+      "UYARMA"
+    ]
+  },
+  {
+    "id": 681,
+    "soru": "Nasihat vererek uslanmasına yol açma, ihtar etme",
+    "cevap": "Uyarma",
+    "alternatifler": [
+      "UYARMA"
+    ]
+  },
+  {
+    "id": 682,
+    "soru": "Bir kişiyi belli bir konuda ikaz etmek",
+    "cevap": "Uyarmak",
+    "alternatifler": [
+      "UYARMAK"
+    ]
+  },
+  {
+    "id": 683,
+    "soru": "Olası bir tehlikeyi haber vermek, ikaz etmek",
+    "cevap": "Uyarmak",
+    "alternatifler": [
+      "UYARMAK"
+    ]
+  },
+  {
+    "id": 684,
+    "soru": "Duyurma kelimesinin anagramı",
+    "cevap": "Uydurma",
+    "alternatifler": [
+      "UYDURMA"
+    ]
+  },
+  {
+    "id": 685,
+    "soru": "Doğru olmayan sözler söylemek, yalana başvurmak",
+    "cevap": "Uydurmak",
+    "alternatifler": [
+      "UYDURMAK"
+    ]
+  },
+  {
+    "id": 686,
+    "soru": "Biraz da alakasız giysileri birbirine yakıştırmak",
+    "cevap": "Uydurmak",
+    "alternatifler": [
+      "UYDURMAK"
+    ]
+  },
+  {
+    "id": 687,
+    "soru": "Asılsız, eften püften",
+    "cevap": "Uyduruk",
+    "alternatifler": [
+      "UYDURUK"
+    ]
+  },
+  {
+    "id": 688,
+    "soru": "\"Sağır duymaz\" diye başlayan atasözünün devamı",
+    "cevap": "Uydurur",
+    "alternatifler": [
+      "UYDURUR"
+    ]
+  },
+  {
+    "id": 689,
+    "soru": "\"Sağır duymaz\" diye başlayan atasözünün devamı",
+    "cevap": "Uydurur",
+    "alternatifler": [
+      "UYDURUR"
+    ]
+  },
+  {
+    "id": 690,
+    "soru": "Çanak anten sinyallerini televizyona aktarır",
+    "cevap": "Uydu alıcı",
+    "alternatifler": [
+      "UYDU ALICI",
+      "Uydualıcı"
+    ]
+  },
+  {
+    "id": 691,
+    "soru": "Çanak antenden gelen sinyalle çalışan TV eklentisi",
+    "cevap": "Uydu alıcı",
+    "alternatifler": [
+      "UYDU ALICI",
+      "Uydualıcı"
+    ]
+  },
+  {
+    "id": 692,
+    "soru": "Çanak anten sinyallerini televizyona aktarır",
+    "cevap": "Uydu alıcı",
+    "alternatifler": [
+      "UYDU ALICI",
+      "Uydualıcı"
+    ]
+  },
+  {
+    "id": 693,
+    "soru": "Bir şehrin çevresine kurulan düzenli yerleşim yeri",
+    "cevap": "Uydu kent",
+    "alternatifler": [
+      "UYDU KENT",
+      "Uydukent"
+    ]
+  },
+  {
+    "id": 694,
+    "soru": "İçinde yaşanılan çağa uyarak, modern şekilde",
+    "cevap": "Uygarca",
+    "alternatifler": [
+      "UYGARCA"
+    ]
+  },
+  {
+    "id": 695,
+    "soru": "Medeniyet",
+    "cevap": "Uygarlık",
+    "alternatifler": [
+      "UYGARLIK"
+    ]
+  },
+  {
+    "id": 696,
+    "soru": "İnsanın toplu halde yaşama becerisi",
+    "cevap": "Uygarlık",
+    "alternatifler": [
+      "UYGARLIK"
+    ]
+  },
+  {
+    "id": 697,
+    "soru": "Kurallarla yaşayan insan topluluğu, medeniyet",
+    "cevap": "Uygarlık",
+    "alternatifler": [
+      "UYGARLIK"
+    ]
+  },
+  {
+    "id": 698,
+    "soru": "Gelişmiş toplum veya ülke, medeniyet",
+    "cevap": "Uygarlık",
+    "alternatifler": [
+      "UYGARLIK"
+    ]
+  },
+  {
+    "id": 699,
+    "soru": "Telefonlara indirdiğimiz programcıkların genel adı",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 700,
+    "soru": "Hukukta alınan kararı yürütme, infaz",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 701,
+    "soru": "Tatbikat",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 702,
+    "soru": "Fransızca kökenli aplikasyon kelimesinin Türkçesi",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 703,
+    "soru": "Telefonlara indirdiğimiz programcıkların genel adı",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 704,
+    "soru": "Hukukta alınan kararı yürütme, infaz",
+    "cevap": "Uygulama",
+    "alternatifler": [
+      "UYGULAMA"
+    ]
+  },
+  {
+    "id": 705,
+    "soru": "Popçu Berkay'ın \"marş marş\" dediği şarkı",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 706,
+    "soru": "Asker yürüyüşü",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 707,
+    "soru": "Popçu Berkay'ın \"marş marş\" dediği şarkı",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 708,
+    "soru": "\"__ marş!\", askerde yürümeyi başlatan komut",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 709,
+    "soru": "Askerlerin ve öğrencilerin ritimli yürüyüş türü",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 710,
+    "soru": "\"__ marş!\", askerde yürümeyi başlatan komut",
+    "cevap": "Uygun adım",
+    "alternatifler": [
+      "UYGUN ADIM",
+      "Uygunadım"
+    ]
+  },
+  {
+    "id": 711,
+    "soru": "Yerleşik yaşama geçen ilk Türk topluluğu",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 712,
+    "soru": "Yerleşik yaşama geçen ilk Türk topluluğu",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 713,
+    "soru": "Yerleşik hayatı uygulayan ilk Türk devleti",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 714,
+    "soru": "Yerleşik yaşama geçen ilk Türk topluluğu",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 715,
+    "soru": "Yerleşik yaşama geçen ilk Türk topluluğu",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 716,
+    "soru": "Yerleşik hayatı uygulayan ilk Türk devleti",
+    "cevap": "Uygurlar",
+    "alternatifler": [
+      "UYGURLAR"
+    ]
+  },
+  {
+    "id": 717,
+    "soru": "Yataktan kalkmayı sevmeyen şirin",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 718,
+    "soru": "Kuyucu kelimesinin anagramı",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 719,
+    "soru": "Kuyucu anagramı; sürekli yatmak isteyen",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 720,
+    "soru": "Şirinler çizgi filmindeki en miskin Şirin",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 721,
+    "soru": "Kuyucu anagramı; sürekli yatmak isteyen",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 722,
+    "soru": "Şirinler'de sürekli yatmak isteyen şirin",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 723,
+    "soru": "Yataktan kalkmayı sevmeyen şirin",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 724,
+    "soru": "Kuyucu anagramı; sürekli yatmak isteyen",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 725,
+    "soru": "Kuyucu kelimesinin anagramı; miskin bir Şirin",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 726,
+    "soru": "Şirinler'in, çoğunlukla ayık olmayan üyesi",
+    "cevap": "Uykucu",
+    "alternatifler": [
+      "UYKUCU"
+    ]
+  },
+  {
+    "id": 727,
+    "soru": "Düş, __ sonra olur, bir atasözü",
+    "cevap": "Uykudan",
+    "alternatifler": [
+      "UYKUDAN"
+    ]
+  },
+  {
+    "id": 728,
+    "soru": "Düş, __ sonra olur, bir atasözü",
+    "cevap": "Uykudan",
+    "alternatifler": [
+      "UYKUDAN"
+    ]
+  },
+  {
+    "id": 729,
+    "soru": "Bu kişinin gözleri kapandı kapanacak",
+    "cevap": "Uykulu",
+    "alternatifler": [
+      "UYKULU"
+    ]
+  },
+  {
+    "id": 730,
+    "soru": "Süt kuzudan elde edilen bir tür sakatat",
+    "cevap": "Uykuluk",
+    "alternatifler": [
+      "UYKULUK"
+    ]
+  },
+  {
+    "id": 731,
+    "soru": "Pankreastan yapılan sakatat",
+    "cevap": "Uykuluk",
+    "alternatifler": [
+      "UYKULUK"
+    ]
+  },
+  {
+    "id": 732,
+    "soru": "Kimi hayvanların salgı bezlerinden yapılan sakatat",
+    "cevap": "Uykuluk",
+    "alternatifler": [
+      "UYKULUK"
+    ]
+  },
+  {
+    "id": 733,
+    "soru": "Pankreastan yapılan sakatat",
+    "cevap": "Uykuluk",
+    "alternatifler": [
+      "UYKULUK"
+    ]
+  },
+  {
+    "id": 734,
+    "soru": "Eski Penguen karikatüristlerinin kurduğu dergi",
+    "cevap": "Uykusuz",
+    "alternatifler": [
+      "UYKUSUZ"
+    ]
+  },
+  {
+    "id": 735,
+    "soru": "Penguen'den ayrılanların kurduğu mizah dergisi",
+    "cevap": "Uykusuz",
+    "alternatifler": [
+      "UYKUSUZ"
+    ]
+  },
+  {
+    "id": 736,
+    "soru": "Yiğit Özgür'ün çizeri olduğu mizah dergisi",
+    "cevap": "Uykusuz",
+    "alternatifler": [
+      "UYKUSUZ"
+    ]
+  },
+  {
+    "id": 737,
+    "soru": "Al Pacino'nun rol aldığı Christopher Nolan filmi",
+    "cevap": "Uykusuz",
+    "alternatifler": [
+      "UYKUSUZ"
+    ]
+  },
+  {
+    "id": 738,
+    "soru": "Türkiye'nin mizah dergisi, haftalık yayınlanır",
+    "cevap": "Uykusuz",
+    "alternatifler": [
+      "UYKUSUZ"
+    ]
+  },
+  {
+    "id": 739,
+    "soru": "Yatarken ışıktan rahatsız olanlar kullanır",
+    "cevap": "Uyku bandı",
+    "alternatifler": [
+      "UYKU BANDI",
+      "Uykubandı"
+    ]
+  },
+  {
+    "id": 740,
+    "soru": "Yatarken ışıktan rahatsız olanlar kullanır",
+    "cevap": "Uyku bandı",
+    "alternatifler": [
+      "UYKU BANDI",
+      "Uykubandı"
+    ]
+  },
+  {
+    "id": 741,
+    "soru": "Dört arkadaşı konu alan Jonathan Coe romanı",
+    "cevap": "Uyku evi",
+    "alternatifler": [
+      "UYKU EVI",
+      "Uykuevi"
+    ]
+  },
+  {
+    "id": 742,
+    "soru": "Dört arkadaşı konu alan Jonathan Coe romanı",
+    "cevap": "Uyku evi",
+    "alternatifler": [
+      "UYKU EVI",
+      "Uykuevi"
+    ]
+  },
+  {
+    "id": 743,
+    "soru": "Bu vakit geldiğinde çocuklar yatmaya gider",
+    "cevap": "Uyku saati",
+    "alternatifler": [
+      "UYKU SAATI",
+      "Uykusaati"
+    ]
+  },
+  {
+    "id": 744,
+    "soru": "Bu vakit geldiğinde çocuklar yatmaya gider",
+    "cevap": "Uyku saati",
+    "alternatifler": [
+      "UYKU SAATI",
+      "Uykusaati"
+    ]
+  },
+  {
+    "id": 745,
+    "soru": "Halk ağzında taviz vererek anlaşma, mutabık kalma",
+    "cevap": "Uylaşma",
+    "alternatifler": [
+      "UYLASMA",
+      "UYLAŞMA"
+    ]
+  },
+  {
+    "id": 746,
+    "soru": "Alışılmışa uygun olmama durumu, aykırılık",
+    "cevap": "Uymazlık",
+    "alternatifler": [
+      "UYMAZLIK"
+    ]
+  },
+  {
+    "id": 747,
+    "soru": "Zaman sana __ sen zamana uy",
+    "cevap": "Uymazsa",
+    "alternatifler": [
+      "UYMAZSA"
+    ]
+  },
+  {
+    "id": 748,
+    "soru": "Gece yarısı gönderilen mesajda sorulan klişe soru",
+    "cevap": "Uyudun mu",
+    "alternatifler": [
+      "UYUDUN MU",
+      "Uyudunmu"
+    ]
+  },
+  {
+    "id": 749,
+    "soru": "Cem Yılmaz esprisidir, flörte atılan gece mesajı",
+    "cevap": "Uyudun mu",
+    "alternatifler": [
+      "UYUDUN MU",
+      "Uyudunmu"
+    ]
+  },
+  {
+    "id": 750,
+    "soru": "Cem Yılmaz esprisidir, flörte atılan gece mesajı",
+    "cevap": "Uyudun mu",
+    "alternatifler": [
+      "UYUDUN MU",
+      "Uyudunmu"
+    ]
+  },
+  {
+    "id": 751,
+    "soru": "Cem Yılmaz esprisidir, flörte atılan gece mesajı",
+    "cevap": "Uyudun mu",
+    "alternatifler": [
+      "UYUDUN MU",
+      "Uyudunmu"
+    ]
+  },
+  {
+    "id": 752,
+    "soru": "Yatma vaktinin geldiğini belirten iç geçmesi",
+    "cevap": "Uyuklama",
+    "alternatifler": [
+      "UYUKLAMA"
+    ]
+  },
+  {
+    "id": 753,
+    "soru": "Yatma vaktinin geldiğini belirten iç geçmesi",
+    "cevap": "Uyuklama",
+    "alternatifler": [
+      "UYUKLAMA"
+    ]
+  },
+  {
+    "id": 754,
+    "soru": "Kişinin durduğu yerde ara ara kestirmesi",
+    "cevap": "Uyuklama",
+    "alternatifler": [
+      "UYUKLAMA"
+    ]
+  },
+  {
+    "id": 755,
+    "soru": "Yatma vaktinin geldiğini belirten iç geçmesi",
+    "cevap": "Uyuklama",
+    "alternatifler": [
+      "UYUKLAMA"
+    ]
+  },
+  {
+    "id": 756,
+    "soru": "Uyku ve uyanıklık arasındaki durum, kestirmek",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 757,
+    "soru": "Uyku ve uyanıklık arasındaki durum, kestirmek",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 758,
+    "soru": "Bir yere uzanmaksızın, hafifçe içi geçmek",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 759,
+    "soru": "TV karşısında bilinçsizce yapılan dinlenme eylemi",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 760,
+    "soru": "TV karşısında bilinçsizce yapılan dinlenme eylemi",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 761,
+    "soru": "TV karşısında bilinçsizce yapılan dinlenme eylemi",
+    "cevap": "Uyuklamak",
+    "alternatifler": [
+      "UYUKLAMAK"
+    ]
+  },
+  {
+    "id": 762,
+    "soru": "Sorun çıkarmayan; ahenkli",
+    "cevap": "Uyumlu",
+    "alternatifler": [
+      "UYUMLU"
+    ]
+  },
+  {
+    "id": 763,
+    "soru": "Ahenkli; girdiği ortamda çabuk kabul gören",
+    "cevap": "Uyumlu",
+    "alternatifler": [
+      "UYUMLU"
+    ]
+  },
+  {
+    "id": 764,
+    "soru": "Belli bir düzene sahip olma durumu, ahenklilik",
+    "cevap": "Uyumluluk",
+    "alternatifler": [
+      "UYUMLULUK"
+    ]
+  },
+  {
+    "id": 765,
+    "soru": "Bir topluluğa adapte olamayan, ahenksiz",
+    "cevap": "Uyumsuz",
+    "alternatifler": [
+      "UYUMSUZ"
+    ]
+  },
+  {
+    "id": 766,
+    "soru": "Yattıktan sonra bilinçsizce konuşan ve yürüyen",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 767,
+    "soru": "Geceleri farkında olmadan dolaşan insan",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 768,
+    "soru": "Geceleri farkında olmadan dolaşan insan",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 769,
+    "soru": "Rüya halinde konuşan, yürüyen kişi",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 770,
+    "soru": "Gece kalkıp bilinçsiz bir şekilde dolaşan kişi",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 771,
+    "soru": "Yattıktan sonra bilinçsizce konuşan ve yürüyen",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 772,
+    "soru": "Gece kalkıp bilinçsiz bir şekilde dolaşan kişi",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 773,
+    "soru": "Gece kalkıp bilinçsiz bir şekilde dolaşan kişi",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 774,
+    "soru": "Geceleri farkında olmadan dolaşan insan",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 775,
+    "soru": "Geceleri farkında olmadan dolaşan insan",
+    "cevap": "Uyurgezer",
+    "alternatifler": [
+      "UYURGEZER"
+    ]
+  },
+  {
+    "id": 776,
+    "soru": "Ashab-ı Kehf olarak da bilinen efsane, Yedi __",
+    "cevap": "Uyurlar",
+    "alternatifler": [
+      "UYURLAR"
+    ]
+  },
+  {
+    "id": 777,
+    "soru": "Ashab-ı Kehf olarak da bilinen efsane, Yedi __",
+    "cevap": "Uyurlar",
+    "alternatifler": [
+      "UYURLAR"
+    ]
+  },
+  {
+    "id": 778,
+    "soru": "Vücutta kısa süreli yaşanan duyu kaybı",
+    "cevap": "Uyuşma",
+    "alternatifler": [
+      "UYUŞMA",
+      "UYUSMA"
+    ]
+  },
+  {
+    "id": 779,
+    "soru": "Genelde el ayakta görülen karıncalanma, his kaybı",
+    "cevap": "Uyuşma",
+    "alternatifler": [
+      "UYUŞMA",
+      "UYUSMA"
+    ]
+  },
+  {
+    "id": 780,
+    "soru": "Vücutta kısa süreli yaşanan duyu kaybı",
+    "cevap": "Uyuşma",
+    "alternatifler": [
+      "UYUŞMA",
+      "UYUSMA"
+    ]
+  },
+  {
+    "id": 781,
+    "soru": "Kramp sırasında da yaşanan, hissizleşme işi",
+    "cevap": "Uyuşma",
+    "alternatifler": [
+      "UYUŞMA",
+      "UYUSMA"
+    ]
+  },
+  {
+    "id": 782,
+    "soru": "Kramp sırasında da yaşanan, hissizleşme işi",
+    "cevap": "Uyuşma",
+    "alternatifler": [
+      "UYUŞMA",
+      "UYUSMA"
+    ]
+  },
+  {
+    "id": 783,
+    "soru": "Yumuşak kelimesinin her harfini içerir; uzlaşmak",
+    "cevap": "Uyuşmak",
+    "alternatifler": [
+      "UYUŞMAK",
+      "UYUSMAK"
+    ]
+  },
+  {
+    "id": 784,
+    "soru": "Yumuşak kelimesinin her harfini içerir; uzlaşmak",
+    "cevap": "Uyuşmak",
+    "alternatifler": [
+      "UYUŞMAK",
+      "UYUSMAK"
+    ]
+  },
+  {
+    "id": 785,
+    "soru": "Aynı görüş üzerinde fikri mutabakat sağlamak",
+    "cevap": "Uyuşmak",
+    "alternatifler": [
+      "UYUŞMAK",
+      "UYUSMAK"
+    ]
+  },
+  {
+    "id": 786,
+    "soru": "İlaç verip bir bölgeyi hissizleştirme",
+    "cevap": "Uyuşturma",
+    "alternatifler": [
+      "UYUSTURMA",
+      "UYUŞTURMA"
+    ]
+  },
+  {
+    "id": 787,
+    "soru": "Richard Linklater'ın ismini duyuran sinema filmi",
+    "cevap": "Uyuşuk",
+    "alternatifler": [
+      "UYUŞUK",
+      "UYUSUK"
+    ]
+  },
+  {
+    "id": 788,
+    "soru": "Çaba göstermekten kaçınan, üşengeç",
+    "cevap": "Uyuşuk",
+    "alternatifler": [
+      "UYUŞUK",
+      "UYUSUK"
+    ]
+  },
+  {
+    "id": 789,
+    "soru": "Richard Linklater'ın ismini duyuran sinema filmi",
+    "cevap": "Uyuşuk",
+    "alternatifler": [
+      "UYUŞUK",
+      "UYUSUK"
+    ]
+  },
+  {
+    "id": 790,
+    "soru": "Tembellik, miskinlik yapan kişi",
+    "cevap": "Uyuşuk",
+    "alternatifler": [
+      "UYUŞUK",
+      "UYUSUK"
+    ]
+  },
+  {
+    "id": 791,
+    "soru": "Söze göre, üzerine kar yağdığı söylenen kişi",
+    "cevap": "Uyuyan",
+    "alternatifler": [
+      "UYUYAN"
+    ]
+  },
+  {
+    "id": 792,
+    "soru": "Söze göre, üzerine kar yağdığı söylenen kişi",
+    "cevap": "Uyuyan",
+    "alternatifler": [
+      "UYUYAN"
+    ]
+  },
+  {
+    "id": 793,
+    "soru": "Kaş ve Meis adalarında bulunan, efsanevi silüet",
+    "cevap": "Uyuyan dev",
+    "alternatifler": [
+      "UYUYAN DEV",
+      "Uyuyandev"
+    ]
+  },
+  {
+    "id": 794,
+    "soru": "Kaş ve Meis adalarında bulunan, efsanevi silüet",
+    "cevap": "Uyuyan dev",
+    "alternatifler": [
+      "UYUYAN DEV",
+      "Uyuyandev"
+    ]
+  },
+  {
+    "id": 795,
+    "soru": "Argoda birisini çok öfkelendirmek, sinirlendirmek",
+    "cevap": "Uyuz etmek",
+    "alternatifler": [
+      "UYUZ ETMEK",
+      "Uyuzetmek",
+      "uyuz etme",
+      "uyuzetme"
+    ]
+  },
+  {
+    "id": 796,
+    "soru": "Birine sinirlenmek; kaşıntılı hastalığa yakalanmak",
+    "cevap": "Uyuz olmak",
+    "alternatifler": [
+      "UYUZ OLMAK",
+      "Uyuzolmak"
+    ]
+  },
+  {
+    "id": 797,
+    "soru": "Japonya, Çin vb. ülkeleri kapsayan coğrafi alan",
+    "cevap": "Uzakdoğu",
+    "alternatifler": [
+      "UZAKDOGU",
+      "UZAKDOĞU"
+    ]
+  },
+  {
+    "id": 798,
+    "soru": "Japonya, Çin vb. ülkeleri kapsayan coğrafi alan",
+    "cevap": "Uzakdoğu",
+    "alternatifler": [
+      "UZAKDOGU",
+      "UZAKDOĞU"
+    ]
+  },
+  {
+    "id": 799,
+    "soru": "İki yer arasındaki mesafe",
+    "cevap": "Uzaklık",
+    "alternatifler": [
+      "UZAKLIK"
+    ]
+  },
+  {
+    "id": 800,
+    "soru": "Mesafenin yakın olmaması, ıraklık",
+    "cevap": "Uzaklık",
+    "alternatifler": [
+      "UZAKLIK"
+    ]
+  },
+  {
+    "id": 801,
+    "soru": "İki yer arasındaki mesafe",
+    "cevap": "Uzaklık",
+    "alternatifler": [
+      "UZAKLIK"
+    ]
+  },
+  {
+    "id": 802,
+    "soru": "İki yer arasındaki mesafe",
+    "cevap": "Uzaklık",
+    "alternatifler": [
+      "UZAKLIK"
+    ]
+  },
+  {
+    "id": 803,
+    "soru": "Yakınlık kelimesinin zıt anlamlısı",
+    "cevap": "Uzaklık",
+    "alternatifler": [
+      "UZAKLIK"
+    ]
+  },
+  {
+    "id": 804,
+    "soru": "Davulun sesi __ hoş gelir",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 805,
+    "soru": "İnternetten başka bilgisayara bağlanmak, __ erişim",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 806,
+    "soru": "__ kumanda; TV kanalını değiştirmeye yarayan cihaz",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 807,
+    "soru": "Bir Göksel şarkısı; online örgün eğitim türü",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 808,
+    "soru": "Davulun sesi __ hoş gelir; Bir atasözü",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 809,
+    "soru": "Bir Göksel şarkısı; online örgün eğitim türü",
+    "cevap": "Uzaktan",
+    "alternatifler": [
+      "UZAKTAN"
+    ]
+  },
+  {
+    "id": 810,
+    "soru": "Japonya, Çin gibi ülkeleri kapsayan bölge",
+    "cevap": "Uzak doğu",
+    "alternatifler": [
+      "UZAK DOĞU",
+      "UZAK DOGU",
+      "Uzakdoğu"
+    ]
+  },
+  {
+    "id": 811,
+    "soru": "Çin, Japonya ve Vietnam gibi ülkelerin genel adı",
+    "cevap": "Uzak doğu",
+    "alternatifler": [
+      "UZAK DOĞU",
+      "UZAK DOGU",
+      "Uzakdoğu"
+    ]
+  },
+  {
+    "id": 812,
+    "soru": "Birine ya da bir şeye karışmama, kaçınma",
+    "cevap": "Uzak durma",
+    "alternatifler": [
+      "UZAK DURMA",
+      "Uzakdurma"
+    ]
+  },
+  {
+    "id": 813,
+    "soru": "Yakında olmama, ırakta bulunma anlamındaki deyim",
+    "cevap": "Uzak kalma",
+    "alternatifler": [
+      "UZAK KALMA",
+      "Uzakkalma"
+    ]
+  },
+  {
+    "id": 814,
+    "soru": "Gezegenlerin Güneş'le yaptığı göreceli açı",
+    "cevap": "Uzanım",
+    "alternatifler": [
+      "UZANIM"
+    ]
+  },
+  {
+    "id": 815,
+    "soru": "Yatağa ya da koltuğa yatarak yerleşmek",
+    "cevap": "Uzanmak",
+    "alternatifler": [
+      "UZANMAK"
+    ]
+  },
+  {
+    "id": 816,
+    "soru": "Alan adı sonundaki .com .net gibi tanımlayıcı ek",
+    "cevap": "Uzantı",
+    "alternatifler": [
+      "UZANTI"
+    ]
+  },
+  {
+    "id": 817,
+    "soru": "Bazı nesnelerde dışarıya doğru yönelmiş uzun kısım",
+    "cevap": "Uzantı",
+    "alternatifler": [
+      "UZANTI"
+    ]
+  },
+  {
+    "id": 818,
+    "soru": "Berabere kalınan maçta tanınan ek süre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 819,
+    "soru": "Prize uzak olan yerlere elektrik getiren kablo",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 820,
+    "soru": "Maçlarda eşitliği bozmak için oynanan ek devre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 821,
+    "soru": "Gereksiz fazla anlatanlara söylenen söz; bir kablo",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 822,
+    "soru": "Prize uzak olan yerlere elektrik getiren kablo",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 823,
+    "soru": "Berabere kalınan maçta tanınan ek süre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 824,
+    "soru": "Bir maçın sonuna eklenen süre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 825,
+    "soru": "Maç berabere bitince verilen ek süre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 826,
+    "soru": "Bir maçın sonuna eklenen süre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 827,
+    "soru": "Maçlarda eşitliği bozmak için oynanan ek devre",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 828,
+    "soru": "Prize uzak olan yerlere elektrik getiren kablo",
+    "cevap": "Uzatma",
+    "alternatifler": [
+      "UZATMA"
+    ]
+  },
+  {
+    "id": 829,
+    "soru": "Dil __; Birine iftira atmak, kötü söz söylemek",
+    "cevap": "Uzatmak",
+    "alternatifler": [
+      "UZATMAK"
+    ]
+  },
+  {
+    "id": 830,
+    "soru": "Dil __; Birine iftira atmak, kötü söz söylemek",
+    "cevap": "Uzatmak",
+    "alternatifler": [
+      "UZATMAK"
+    ]
+  },
+  {
+    "id": 831,
+    "soru": "Konuşmayı lüzumsuzca sürdürmek, lafı bitirmemek",
+    "cevap": "Uzatmak",
+    "alternatifler": [
+      "UZATMAK"
+    ]
+  },
+  {
+    "id": 832,
+    "soru": "Bir sözü ya da konuyu kısa kesme; devam ettirmeme",
+    "cevap": "Uzatmama",
+    "alternatifler": [
+      "UZATMAMA"
+    ]
+  },
+  {
+    "id": 833,
+    "soru": "Dünya dışı varlıklara verilen genel isim",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 834,
+    "soru": "Bu gezegenden olmayan",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 835,
+    "soru": "Fezadan gelen; dünyaya ait olmayan",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 836,
+    "soru": "Dünya dışı canlılara verilen ad",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 837,
+    "soru": "Ünlü Hırvat basketbolcu Toni Kukoc'un lakabı",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 838,
+    "soru": "Bu gezegenden olmayan",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 839,
+    "soru": "GORA'da Arif'in görüntülediğini iddia ettiği canlı",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 840,
+    "soru": "Fantastik komedi bir Türk TV dizisi, __ Zekiye",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 841,
+    "soru": "Mustafa Topaloğlu'nun lakabı, dünya dışı canlı",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 842,
+    "soru": "Dünya dışı yaratık",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 843,
+    "soru": "Bu gezegenden olmayan",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 844,
+    "soru": "Mustafa Topaloğlu'nun lakabı, dünya dışı canlı",
+    "cevap": "Uzaylı",
+    "alternatifler": [
+      "UZAYLI"
+    ]
+  },
+  {
+    "id": 845,
+    "soru": "Dünya dışı varlıklar",
+    "cevap": "Uzaylılar",
+    "alternatifler": [
+      "UZAYLILAR"
+    ]
+  },
+  {
+    "id": 846,
+    "soru": "Dünya dışı varlıklar",
+    "cevap": "Uzaylılar",
+    "alternatifler": [
+      "UZAYLILAR"
+    ]
+  },
+  {
+    "id": 847,
+    "soru": "UFO denen dünya dışı nesneler bunlara aittir",
+    "cevap": "Uzaylılar",
+    "alternatifler": [
+      "UZAYLILAR"
+    ]
+  },
+  {
+    "id": 848,
+    "soru": "Dünya atmosferinin dışında yolculuk eden taşıt",
+    "cevap": "Uzay aracı",
+    "alternatifler": [
+      "UZAY ARACI",
+      "Uzayaracı"
+    ]
+  },
+  {
+    "id": 849,
+    "soru": "Araştırma için Dünya dışına fırlatılan taşıt",
+    "cevap": "Uzay aracı",
+    "alternatifler": [
+      "UZAY ARACI",
+      "Uzayaracı"
+    ]
+  },
+  {
+    "id": 850,
+    "soru": "Araştırma için Dünya dışına fırlatılan taşıt",
+    "cevap": "Uzay aracı",
+    "alternatifler": [
+      "UZAY ARACI",
+      "Uzayaracı"
+    ]
+  },
+  {
+    "id": 851,
+    "soru": "Cismin fezadaki sürati",
+    "cevap": "Uzay hızı",
+    "alternatifler": [
+      "UZAY HIZI",
+      "Uzayhızı"
+    ]
+  },
+  {
+    "id": 852,
+    "soru": "Cismin fezadaki sürati",
+    "cevap": "Uzay hızı",
+    "alternatifler": [
+      "UZAY HIZI",
+      "Uzayhızı"
+    ]
+  },
+  {
+    "id": 853,
+    "soru": "Ünlü animasyon Kuzular Firarda'nın devam filmi",
+    "cevap": "Uzay parkı",
+    "alternatifler": [
+      "UZAY PARKI",
+      "Uzayparkı"
+    ]
+  },
+  {
+    "id": 854,
+    "soru": "Ünlü animasyon Kuzular Firarda'nın devam filmi",
+    "cevap": "Uzay parkı",
+    "alternatifler": [
+      "UZAY PARKI",
+      "Uzayparkı"
+    ]
+  },
+  {
+    "id": 855,
+    "soru": "Dünya dışından gelen katı cisim, meteor",
+    "cevap": "Uzay taşı",
+    "alternatifler": [
+      "UZAY TASI",
+      "UZAY TAŞI",
+      "Uzaytaşı"
+    ]
+  },
+  {
+    "id": 856,
+    "soru": "Dünya dışından gelen katı cisim, meteor",
+    "cevap": "Uzay taşı",
+    "alternatifler": [
+      "UZAY TASI",
+      "UZAY TAŞI",
+      "Uzaytaşı"
+    ]
+  },
+  {
+    "id": 857,
+    "soru": "Dünya atmosferi dışında kurulan istasyon",
+    "cevap": "Uzay üssü",
+    "alternatifler": [
+      "UZAY USSU",
+      "UZAY ÜSSÜ",
+      "Uzayüssü"
+    ]
+  },
+  {
+    "id": 858,
+    "soru": "Dünya dışına yapılan istasyon",
+    "cevap": "Uzay üssü",
+    "alternatifler": [
+      "UZAY USSU",
+      "UZAY ÜSSÜ",
+      "Uzayüssü"
+    ]
+  },
+  {
+    "id": 859,
+    "soru": "Dünya atmosferi dışında kurulan istasyon",
+    "cevap": "Uzay üssü",
+    "alternatifler": [
+      "UZAY USSU",
+      "UZAY ÜSSÜ",
+      "Uzayüssü"
+    ]
+  },
+  {
+    "id": 860,
+    "soru": "Dünya dışına yapılan istasyon",
+    "cevap": "Uzay üssü",
+    "alternatifler": [
+      "UZAY USSU",
+      "UZAY ÜSSÜ",
+      "Uzayüssü"
+    ]
+  },
+  {
+    "id": 861,
+    "soru": "Atılgan adlı yıldız gemisinin olduğu dizi ve film",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 862,
+    "soru": "Mr. Spock karakterinin yer aldığı dizi ve film",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 863,
+    "soru": "Kaptan Kirk ile Mister Spock bu seride hayat buldu",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 864,
+    "soru": "Ana karakteri Kaptan Kirk olan bilimkurgu dizisi",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 865,
+    "soru": "Turist Ömer filmlerinden biri bu seriden uyarlanma",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 866,
+    "soru": "Mr. Spock karakterinin yer aldığı dizi ve film",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 867,
+    "soru": "Atılgan gemisi ve Kaptan Kirk'ün bulunduğu dizi",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 868,
+    "soru": "Mr. Spock karakterinin yer aldığı dizi ve film",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 869,
+    "soru": "James Kirk, Spock gibi karakterlerin olduğu dizi",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 870,
+    "soru": "James Kirk, Spock gibi karakterlerin olduğu dizi",
+    "cevap": "Uzay yolu",
+    "alternatifler": [
+      "UZAY YOLU",
+      "Uzayyolu"
+    ]
+  },
+  {
+    "id": 871,
+    "soru": "Telepati kelimesi için önerilen Türkçe karşılık",
+    "cevap": "Uza duyum",
+    "alternatifler": [
+      "UZA DUYUM",
+      "Uzaduyum"
+    ]
+  },
+  {
+    "id": 872,
+    "soru": "Meryem __, Hürrem krakteriyle ünlenen oyuncu",
+    "cevap": "Uzerli",
+    "alternatifler": [
+      "UZERLI"
+    ]
+  },
+  {
+    "id": 873,
+    "soru": "Hürrem Sultan'ı canlandıran aktrisin soyadı",
+    "cevap": "Uzerli",
+    "alternatifler": [
+      "UZERLI"
+    ]
+  },
+  {
+    "id": 874,
+    "soru": "Hürrem Sultan'ı canlandıran oyuncu, Meryem __",
+    "cevap": "Uzerli",
+    "alternatifler": [
+      "UZERLI"
+    ]
+  },
+  {
+    "id": 875,
+    "soru": "Hürrem Sultan'ı canlandıran aktrisin soyadı",
+    "cevap": "Uzerli",
+    "alternatifler": [
+      "UZERLI"
+    ]
+  },
+  {
+    "id": 876,
+    "soru": "Sorun yaşanan konuda tarafların anlaşmaya varması",
+    "cevap": "Uzlaşma",
+    "alternatifler": [
+      "UZLAŞMA",
+      "UZLASMA"
+    ]
+  },
+  {
+    "id": 877,
+    "soru": "Abdi İpekçi cinayetini anlatan film",
+    "cevap": "Uzlaşma",
+    "alternatifler": [
+      "UZLAŞMA",
+      "UZLASMA"
+    ]
+  },
+  {
+    "id": 878,
+    "soru": "Hukukta, iki taraf arasında varılan anlaşma",
+    "cevap": "Uzlaşma",
+    "alternatifler": [
+      "UZLAŞMA",
+      "UZLASMA"
+    ]
+  },
+  {
+    "id": 879,
+    "soru": "Hukukta, iki taraf arasında varılan anlaşma",
+    "cevap": "Uzlaşma",
+    "alternatifler": [
+      "UZLAŞMA",
+      "UZLASMA"
+    ]
+  },
+  {
+    "id": 880,
+    "soru": "Arabulucu olabilecek, ödün verebilen kişi özelliği",
+    "cevap": "Uzlaşmacı",
+    "alternatifler": [
+      "UZLAŞMACI",
+      "UZLASMACI"
+    ]
+  },
+  {
+    "id": 881,
+    "soru": "Mutabık kalmak, orta yolda bir araya gelmek",
+    "cevap": "Uzlaşmak",
+    "alternatifler": [
+      "UZLASMAK",
+      "UZLAŞMAK"
+    ]
+  },
+  {
+    "id": 882,
+    "soru": "Yatırım __, birikimlere yön veren banka görevlisi",
+    "cevap": "Uzmanı",
+    "alternatifler": [
+      "UZMANI"
+    ]
+  },
+  {
+    "id": 883,
+    "soru": "Tıp mezunlarının girdiği TUS'un U'su",
+    "cevap": "Uzmanlık",
+    "alternatifler": [
+      "UZMANLIK"
+    ]
+  },
+  {
+    "id": 884,
+    "soru": "Tıp mezunlarının girdiği TUS'un U'su",
+    "cevap": "Uzmanlık",
+    "alternatifler": [
+      "UZMANLIK"
+    ]
+  },
+  {
+    "id": 885,
+    "soru": "33 devirli büyük plak",
+    "cevap": "Uzunçalar",
+    "alternatifler": [
+      "UZUNÇALAR",
+      "UZUNCALAR"
+    ]
+  },
+  {
+    "id": 886,
+    "soru": "33 devirli büyük plak",
+    "cevap": "Uzunçalar",
+    "alternatifler": [
+      "UZUNÇALAR",
+      "UZUNCALAR"
+    ]
+  },
+  {
+    "id": 887,
+    "soru": "33 devirli büyük plak",
+    "cevap": "Uzunçalar",
+    "alternatifler": [
+      "UZUNÇALAR",
+      "UZUNCALAR"
+    ]
+  },
+  {
+    "id": 888,
+    "soru": "Eski adı Azhort olan Erzurum ilçesi",
+    "cevap": "Uzundere",
+    "alternatifler": [
+      "UZUNDERE"
+    ]
+  },
+  {
+    "id": 889,
+    "soru": "Buket __, Kumral Ada Mavi Tuna'nın yazarı",
+    "cevap": "Uzuner",
+    "alternatifler": [
+      "UZUNER"
+    ]
+  },
+  {
+    "id": 890,
+    "soru": "Çattı pattı kaç attı diye sorulan sokak oyunu",
+    "cevap": "Uzuneşek",
+    "alternatifler": [
+      "UZUNESEK",
+      "UZUNEŞEK"
+    ]
+  },
+  {
+    "id": 891,
+    "soru": "\"Çattı da pattı kaç attı\" tekerlemesi bu oyundadır",
+    "cevap": "Uzuneşek",
+    "alternatifler": [
+      "UZUNESEK",
+      "UZUNEŞEK"
+    ]
+  },
+  {
+    "id": 892,
+    "soru": "Arabalarda, karanlıkta uzağı gösteren lamba",
+    "cevap": "Uzunfar",
+    "alternatifler": [
+      "UZUNFAR"
+    ]
+  },
+  {
+    "id": 893,
+    "soru": "Trabzon'un Çaykara ilçesindeki tabiat parkı",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 894,
+    "soru": "Trabzon'un Çaykara ilçesindeki turistik mahalle",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 895,
+    "soru": "Trabzon'da aynı adlı yayladaki göl",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 896,
+    "soru": "Trabzon, Çaykara'daki turistik yayla",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 897,
+    "soru": "Trabzon'un Çaykara ilçesindeki tabiat parkı",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 898,
+    "soru": "Trabzon ilinin gölüyle meşhur turistik mahallesi",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 899,
+    "soru": "Trabzon ilinin gölüyle meşhur turistik mahallesi",
+    "cevap": "Uzungöl",
+    "alternatifler": [
+      "UZUNGÖL",
+      "UZUNGOL"
+    ]
+  },
+  {
+    "id": 900,
+    "soru": "Bu yayla, Samsun'un Yakakent ilçesindedir",
+    "cevap": "Uzunkız",
+    "alternatifler": [
+      "UZUNKIZ"
+    ]
+  },
+  {
+    "id": 901,
+    "soru": "Rafet El Roman'ın doğum yeri olan Edirne ilçesi",
+    "cevap": "Uzunköprü",
+    "alternatifler": [
+      "UZUNKOPRU",
+      "UZUNKÖPRÜ"
+    ]
+  },
+  {
+    "id": 902,
+    "soru": "Kocaeli'nin Kandıra ilçesinde bulunan tabiat parkı",
+    "cevap": "Uzunkum",
+    "alternatifler": [
+      "UZUNKUM"
+    ]
+  },
+  {
+    "id": 903,
+    "soru": "Ölçü birimi metredir",
+    "cevap": "Uzunluk",
+    "alternatifler": [
+      "UZUNLUK"
+    ]
+  },
+  {
+    "id": 904,
+    "soru": "Ölçü birimi metredir",
+    "cevap": "Uzunluk",
+    "alternatifler": [
+      "UZUNLUK"
+    ]
+  },
+  {
+    "id": 905,
+    "soru": "Kocaeli'nin Kartepe ilçesinde bulunan tabiat parkı",
+    "cevap": "Uzuntarla",
+    "alternatifler": [
+      "UZUNTARLA"
+    ]
+  },
+  {
+    "id": 906,
+    "soru": "Kastamonu ilindeki havaalanının adı",
+    "cevap": "Uzunyazı",
+    "alternatifler": [
+      "UZUNYAZI"
+    ]
+  },
+  {
+    "id": 907,
+    "soru": "Tır gibi büyük taşıtların arkasındaki sarı yazı",
+    "cevap": "Uzun araç",
+    "alternatifler": [
+      "UZUN ARAC",
+      "UZUN ARAÇ",
+      "Uzunaraç"
+    ]
+  },
+  {
+    "id": 908,
+    "soru": "Basketbolda, pivotları farklı kılan vücut özelliği",
+    "cevap": "Uzun boy",
+    "alternatifler": [
+      "UZUN BOY",
+      "Uzunboy"
+    ]
+  },
+  {
+    "id": 909,
+    "soru": "Basketbolda, pivotları farklı kılan vücut özelliği",
+    "cevap": "Uzun boy",
+    "alternatifler": [
+      "UZUN BOY",
+      "Uzunboy"
+    ]
+  },
+  {
+    "id": 910,
+    "soru": "Konuyu derinlemesine düşünmeyi tarif eden sıfat",
+    "cevap": "Uzun boylu",
+    "alternatifler": [
+      "UZUN BOYLU",
+      "Uzunboylu"
+    ]
+  },
+  {
+    "id": 911,
+    "soru": "O kadar __ değil, had bildirici bir söz",
+    "cevap": "Uzun boylu",
+    "alternatifler": [
+      "UZUN BOYLU",
+      "Uzunboylu"
+    ]
+  },
+  {
+    "id": 912,
+    "soru": "Mecaz anlamda ayrıntılı bir şekilde yapılan edim",
+    "cevap": "Uzun boylu",
+    "alternatifler": [
+      "UZUN BOYLU",
+      "Uzunboylu"
+    ]
+  },
+  {
+    "id": 913,
+    "soru": "Metinde konuşmaları belirten noktalama işareti",
+    "cevap": "Uzun çizgi",
+    "alternatifler": [
+      "UZUN ÇIZGI",
+      "UZUN CIZGI",
+      "Uzunçizgi"
+    ]
+  },
+  {
+    "id": 914,
+    "soru": "Sembolü LW olan radyo menzili",
+    "cevap": "Uzun dalga",
+    "alternatifler": [
+      "UZUN DALGA",
+      "Uzundalga"
+    ]
+  },
+  {
+    "id": 915,
+    "soru": "En az 12 aydan başlayan araç kiralama modeli",
+    "cevap": "Uzun dönem",
+    "alternatifler": [
+      "UZUN DÖNEM",
+      "UZUN DONEM",
+      "Uzundönem"
+    ]
+  },
+  {
+    "id": 916,
+    "soru": "En az 12 aydan başlayan araç kiralama modeli",
+    "cevap": "Uzun dönem",
+    "alternatifler": [
+      "UZUN DÖNEM",
+      "UZUN DONEM",
+      "Uzundönem"
+    ]
+  },
+  {
+    "id": 917,
+    "soru": "Bir kişinin yastık olduğu çocuk oyunu",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 918,
+    "soru": "Bir kişinin yastık olduğu çocuk oyunu",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 919,
+    "soru": "Eğilmiş olan oyuncuların üzerine atlanan oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 920,
+    "soru": "Birden çok kişinin üzerinden atlanan çocuk oyunu",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 921,
+    "soru": "Eğilen oyuncuların üzerine atlanılan çocuk oyunu",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 922,
+    "soru": "Birdirbir olarak da bilinen atlamalı oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 923,
+    "soru": "Sıra sıra dizili kişilerin sırtına atlanılan oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 924,
+    "soru": "Eğilmiş kişilerin üzerine atlanarak oynanan oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 925,
+    "soru": "Eğilmiş kişilerin üzerine atlanarak oynanan oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 926,
+    "soru": "Sıra sıra dizili kişilerin sırtına atlanılan oyun",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 927,
+    "soru": "Bir kişinin yastık olduğu çocuk oyunu",
+    "cevap": "Uzun eşek",
+    "alternatifler": [
+      "UZUN EŞEK",
+      "UZUN ESEK",
+      "Uzuneşek"
+    ]
+  },
+  {
+    "id": 928,
+    "soru": "Kavgayı bitirmemek, dalaşmayı sürdürmek",
+    "cevap": "Uzun etmek",
+    "alternatifler": [
+      "UZUN ETMEK",
+      "Uzunetmek"
+    ]
+  },
+  {
+    "id": 929,
+    "soru": "Arabanın, ileriyi aydınlatan lambası",
+    "cevap": "Uzun far",
+    "alternatifler": [
+      "UZUN FAR",
+      "Uzunfar"
+    ]
+  },
+  {
+    "id": 930,
+    "soru": "Aracın yakın olmayan mesafeyi aydınlatan parçası",
+    "cevap": "Uzun far",
+    "alternatifler": [
+      "UZUN FAR",
+      "Uzunfar"
+    ]
+  },
+  {
+    "id": 931,
+    "soru": "Akkoyunlular'ın ünlü hükümdarı",
+    "cevap": "Uzun hasan",
+    "alternatifler": [
+      "UZUN HASAN",
+      "Uzunhasan"
+    ]
+  },
+  {
+    "id": 932,
+    "soru": "Daha yavaş ve yanık bir sesle söylenen türkü",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 933,
+    "soru": "Türkülerin daha yavaş ve yanık söylenen bölümü",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 934,
+    "soru": "Türkülerin daha yavaş ve yanık söylenen bölümü",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 935,
+    "soru": "Halk müziğinde, serbestçe söylenen türkü çeşidi",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 936,
+    "soru": "Halk müziğinde, serbestçe söylenen türkü çeşidi",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 937,
+    "soru": "Türk halk müziğinde yanık şekilde okunan türkü",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 938,
+    "soru": "Türk halk müziğinde yanık şekilde okunan türkü",
+    "cevap": "Uzun hava",
+    "alternatifler": [
+      "UZUN HAVA",
+      "Uzunhava"
+    ]
+  },
+  {
+    "id": 939,
+    "soru": "Kantemir Balagov'un çektiği 2. Dünya Savaşı filmi",
+    "cevap": "Uzun kız",
+    "alternatifler": [
+      "UZUN KIZ",
+      "Uzunkız"
+    ]
+  },
+  {
+    "id": 940,
+    "soru": "Tavşan için kullanılan bir yakıştırma",
+    "cevap": "Uzun kulak",
+    "alternatifler": [
+      "UZUN KULAK",
+      "Uzunkulak"
+    ]
+  },
+  {
+    "id": 941,
+    "soru": "Tavşan için kullanılan bir yakıştırma",
+    "cevap": "Uzun kulak",
+    "alternatifler": [
+      "UZUN KULAK",
+      "Uzunkulak"
+    ]
+  },
+  {
+    "id": 942,
+    "soru": "Özet içeren bir deyim, __ kısası",
+    "cevap": "Uzun lafın",
+    "alternatifler": [
+      "UZUN LAFIN",
+      "Uzunlafın"
+    ]
+  },
+  {
+    "id": 943,
+    "soru": "Topu defanstan forvet hattına aktarmaya yarar",
+    "cevap": "Uzun pas",
+    "alternatifler": [
+      "UZUN PAS",
+      "Uzunpas"
+    ]
+  },
+  {
+    "id": 944,
+    "soru": "Boylu boyunca, detaylı biçimde",
+    "cevap": "Uzun uzun",
+    "alternatifler": [
+      "UZUN UZUN",
+      "Uzunuzun"
+    ]
+  },
+  {
+    "id": 945,
+    "soru": "Robert Altman'ın Raymond Chandler uyarlaması",
+    "cevap": "Uzun veda",
+    "alternatifler": [
+      "UZUN VEDA",
+      "Uzunveda"
+    ]
+  },
+  {
+    "id": 946,
+    "soru": "Mecazen saatler veya günler sürecek seyahat",
+    "cevap": "Uzun yol",
+    "alternatifler": [
+      "UZUN YOL",
+      "Uzunyol"
+    ]
+  },
+  {
+    "id": 947,
+    "soru": "Vücutta belirli bir görevi üstlenen organlar",
+    "cevap": "Uzuvlar",
+    "alternatifler": [
+      "UZUVLAR"
+    ]
+  },
+  {
+    "id": 948,
+    "soru": "Vücutta belirli bir görevi üstlenen organlar",
+    "cevap": "Uzuvlar",
+    "alternatifler": [
+      "UZUVLAR"
+    ]
+  },
+  {
+    "id": 949,
+    "soru": "Trafikte, gittiğin yönü 180 derece değiştirmek",
+    "cevap": "U dönüşü",
+    "alternatifler": [
+      "U DÖNÜŞÜ",
+      "U DONUSU",
+      "Udönüşü"
+    ]
+  },
+  {
+    "id": 950,
+    "soru": "Trafikte, bir sesli harfe benzeyen geri gidiş",
+    "cevap": "U dönüşü",
+    "alternatifler": [
+      "U DÖNÜŞÜ",
+      "U DONUSU",
+      "Udönüşü"
+    ]
+  },
+  {
+    "id": 951,
+    "soru": "Bu trafik terimi, fikir değiştirme manasına gelir",
+    "cevap": "U dönüşü",
+    "alternatifler": [
+      "U DÖNÜŞÜ",
+      "U DONUSU",
+      "Udönüşü"
+    ]
+  },
+  {
+    "id": 952,
+    "soru": "Trafikte, bir sesli harfe benzeyen geri gidiş",
+    "cevap": "U dönüşü",
+    "alternatifler": [
+      "U DÖNÜŞÜ",
+      "U DONUSU",
+      "Udönüşü"
+    ]
+  }
+]

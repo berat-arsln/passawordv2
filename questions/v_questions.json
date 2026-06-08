@@ -1,0 +1,8433 @@
+[
+  {
+    "id": 1,
+    "soru": "Belirlenen süreden önce para çekilemeyen hesap",
+    "cevap": "Vadeli",
+    "alternatifler": [
+      "VADELI"
+    ]
+  },
+  {
+    "id": 2,
+    "soru": "Zamana yayılmış, mühleti olan",
+    "cevap": "Vadeli",
+    "alternatifler": [
+      "VADELI"
+    ]
+  },
+  {
+    "id": 3,
+    "soru": "Anında nakit çekilemeyen mevduat hesabı",
+    "cevap": "Vadeli",
+    "alternatifler": [
+      "VADELI"
+    ]
+  },
+  {
+    "id": 4,
+    "soru": "Anında nakit çekilemeyen mevduat hesabı",
+    "cevap": "Vadeli",
+    "alternatifler": [
+      "VADELI"
+    ]
+  },
+  {
+    "id": 5,
+    "soru": "İstenildiği zaman para çekilebilen hesap türü",
+    "cevap": "Vadesiz",
+    "alternatifler": [
+      "VADESIZ"
+    ]
+  },
+  {
+    "id": 6,
+    "soru": "Belirli süresi olmadan para yatırıp çekilen hesap",
+    "cevap": "Vadesiz",
+    "alternatifler": [
+      "VADESIZ"
+    ]
+  },
+  {
+    "id": 7,
+    "soru": "Süresi belli olmayan, faiz getirmeyen hesap türü",
+    "cevap": "Vadesiz",
+    "alternatifler": [
+      "VADESIZ"
+    ]
+  },
+  {
+    "id": 8,
+    "soru": "Süresi belli olmayan, faiz getirmeyen hesap türü",
+    "cevap": "Vadesiz",
+    "alternatifler": [
+      "VADESIZ"
+    ]
+  },
+  {
+    "id": 9,
+    "soru": "Süreli banka hesabında işlem yapılabilen nihai gün",
+    "cevap": "Vade sonu",
+    "alternatifler": [
+      "VADE SONU",
+      "Vadesonu"
+    ]
+  },
+  {
+    "id": 10,
+    "soru": "Süreli banka hesabında işlem yapılabilen nihai gün",
+    "cevap": "Vade sonu",
+    "alternatifler": [
+      "VADE SONU",
+      "Vadesonu"
+    ]
+  },
+  {
+    "id": 11,
+    "soru": "Honore de Balzac'ın eseri, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 12,
+    "soru": "Honore de Balzac, __ Zambak!",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 13,
+    "soru": "Balzac’ın 1835'te yayımlanan romanı, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 14,
+    "soru": "Balzac’ın 1835'te yayımlanan romanı, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 15,
+    "soru": "Honore de Balzac'ın eseri, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 16,
+    "soru": "Balzac’ın 1835'te yayımlanan romanı, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 17,
+    "soru": "Balzac kitabı, __ Zambak",
+    "cevap": "Vadideki",
+    "alternatifler": [
+      "VADIDEKI"
+    ]
+  },
+  {
+    "id": 18,
+    "soru": "Memati karakterinin olduğu dizi, Kurtlar __",
+    "cevap": "Vadisi",
+    "alternatifler": [
+      "VADISI"
+    ]
+  },
+  {
+    "id": 19,
+    "soru": "Kelebekler __, Ölüdeniz'de olan bir koyak",
+    "cevap": "Vadisi",
+    "alternatifler": [
+      "VADISI"
+    ]
+  },
+  {
+    "id": 20,
+    "soru": "Kurtlar __, Necati Şaşmaz'ın oynadığı dizidir",
+    "cevap": "Vadisi",
+    "alternatifler": [
+      "VADISI"
+    ]
+  },
+  {
+    "id": 21,
+    "soru": "Kelebekler __, Ölüdeniz'de olan bir koyak",
+    "cevap": "Vadisi",
+    "alternatifler": [
+      "VADISI"
+    ]
+  },
+  {
+    "id": 22,
+    "soru": "Sinir sisteminde dengesizlikten oluşan hastalık",
+    "cevap": "Vagotoni",
+    "alternatifler": [
+      "VAGOTONI"
+    ]
+  },
+  {
+    "id": 23,
+    "soru": "Zorluk ve tehlike içeren durum",
+    "cevap": "Vahamet",
+    "alternatifler": [
+      "VAHAMET"
+    ]
+  },
+  {
+    "id": 24,
+    "soru": "Endişe verici, güç durum",
+    "cevap": "Vahamet",
+    "alternatifler": [
+      "VAHAMET"
+    ]
+  },
+  {
+    "id": 25,
+    "soru": "Eski dilde bir araya gelme durumu, bütünlük",
+    "cevap": "Vahdet",
+    "alternatifler": [
+      "VAHDET"
+    ]
+  },
+  {
+    "id": 26,
+    "soru": "Osmanlı'nın son padişahının adı",
+    "cevap": "Vahdettin",
+    "alternatifler": [
+      "VAHDETTIN"
+    ]
+  },
+  {
+    "id": 27,
+    "soru": "Yeşilçam'ın Horoz Nuri'si",
+    "cevap": "Vahi öz",
+    "alternatifler": [
+      "VAHI OZ",
+      "VAHI ÖZ",
+      "Vahiöz"
+    ]
+  },
+  {
+    "id": 28,
+    "soru": "Yeşilçam'ın Horoz Nuri'si",
+    "cevap": "Vahi öz",
+    "alternatifler": [
+      "VAHI OZ",
+      "VAHI ÖZ",
+      "Vahiöz"
+    ]
+  },
+  {
+    "id": 29,
+    "soru": "Turist Ömer filmlerinin saçsız, yardımcı aktörü",
+    "cevap": "Vahi öz",
+    "alternatifler": [
+      "VAHI OZ",
+      "VAHI ÖZ",
+      "Vahiöz"
+    ]
+  },
+  {
+    "id": 30,
+    "soru": "Horoz Nuri tiplemesiyle tanınan ünlü aktör",
+    "cevap": "Vahi öz",
+    "alternatifler": [
+      "VAHI OZ",
+      "VAHI ÖZ",
+      "Vahiöz"
+    ]
+  },
+  {
+    "id": 31,
+    "soru": "Antonin Artaud'nun temellerini attığı tiyatro türü",
+    "cevap": "Vahşet",
+    "alternatifler": [
+      "VAHSET",
+      "VAHŞET"
+    ]
+  },
+  {
+    "id": 32,
+    "soru": "Kovboylar diyarı",
+    "cevap": "Vahşi batı",
+    "alternatifler": [
+      "VAHŞI BATI",
+      "VAHSI BATI",
+      "Vahşibatı"
+    ]
+  },
+  {
+    "id": 33,
+    "soru": "Kovboylar diyarı",
+    "cevap": "Vahşi batı",
+    "alternatifler": [
+      "VAHŞI BATI",
+      "VAHSI BATI",
+      "Vahşibatı"
+    ]
+  },
+  {
+    "id": 34,
+    "soru": "Grup Vitamin şarkısında, kovboyların geldiği yer",
+    "cevap": "Vahşi batı",
+    "alternatifler": [
+      "VAHŞI BATI",
+      "VAHSI BATI",
+      "Vahşibatı"
+    ]
+  },
+  {
+    "id": 35,
+    "soru": "Kovboylar diyarı",
+    "cevap": "Vahşi batı",
+    "alternatifler": [
+      "VAHŞI BATI",
+      "VAHSI BATI",
+      "Vahşibatı"
+    ]
+  },
+  {
+    "id": 36,
+    "soru": "İnsanlar tarafından çok değiştirilmemiş tabiat",
+    "cevap": "Vahşi doğa",
+    "alternatifler": [
+      "VAHSI DOGA",
+      "VAHŞI DOĞA",
+      "Vahşidoğa"
+    ]
+  },
+  {
+    "id": 37,
+    "soru": "Dustin Hoffman'ın oynadığı John Schlesinger filmi",
+    "cevap": "Vahşi koşu",
+    "alternatifler": [
+      "VAHSI KOSU",
+      "VAHŞI KOŞU",
+      "Vahşikoşu"
+    ]
+  },
+  {
+    "id": 38,
+    "soru": "Dustin Hoffman'ın oynadığı John Schlesinger filmi",
+    "cevap": "Vahşi koşu",
+    "alternatifler": [
+      "VAHSI KOSU",
+      "VAHŞI KOŞU",
+      "Vahşikoşu"
+    ]
+  },
+  {
+    "id": 39,
+    "soru": "Ne yazık anlamına gelen ikileme",
+    "cevap": "Vah vah",
+    "alternatifler": [
+      "VAH VAH",
+      "Vahvah"
+    ]
+  },
+  {
+    "id": 40,
+    "soru": "Osmanlı Devleti'nde devlet tarihçisi",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 41,
+    "soru": "Osmanlı Devleti'nde devlet tarihçisi",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 42,
+    "soru": "Osmanlı'da, devlet tarihçilerine verilen ad",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 43,
+    "soru": "Osmanlı'da devlet tarihçisi olarak çalışan görevli",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 44,
+    "soru": "Osmanlı'da dönem tarihçisi",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 45,
+    "soru": "Osmanlı'da dönem tarihçisi",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 46,
+    "soru": "Osmanlı'da, bir nevi günlük tutan devlet tarihçisi",
+    "cevap": "Vakanüvis",
+    "alternatifler": [
+      "VAKANÜVIS",
+      "VAKANUVIS"
+    ]
+  },
+  {
+    "id": 47,
+    "soru": "Guinness rekorlar kitabındaki Türk voleybol takımı",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 48,
+    "soru": "Kadın voleybol takımıyla ünlü olan banka",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 49,
+    "soru": "1954 yılında kurulan kamu ekonomi kuruluşu",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 50,
+    "soru": "Üst üste 73 maç kazanan kadın voleybol takımımız",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 51,
+    "soru": "1954 yılında kurulan kamu ekonomi kuruluşu",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 52,
+    "soru": "Ebrar Karakurt'un kariyerine başladığı takım",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 53,
+    "soru": "Ebrar Karakurt'un kariyerine başladığı takım",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 54,
+    "soru": "2023'te Avrupa şampiyonu olan Türk voleybol takımı",
+    "cevap": "Vakıfbank",
+    "alternatifler": [
+      "VAKIFBANK"
+    ]
+  },
+  {
+    "id": 55,
+    "soru": "__ açan gül çabuk solar",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 56,
+    "soru": "Böyle öten horozun başı derde girer",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 57,
+    "soru": "__ öten horozun başını keserler",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 58,
+    "soru": "Uygun bir zamanda gerçekleştirilmeyen, zamansız",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 59,
+    "soru": "Böyle öten horozun başı derde girer",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 60,
+    "soru": "Zamansız, uygun olmayan zamanda gerçekleşen",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 61,
+    "soru": "__ açan gül çabuk solar",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 62,
+    "soru": "Kötü sonlu bir atasözüne konu olan horoz, __ öten",
+    "cevap": "Vakitsiz",
+    "alternatifler": [
+      "VAKITSIZ"
+    ]
+  },
+  {
+    "id": 63,
+    "soru": "Katanaya benzeyen kısa Japon kılıcı",
+    "cevap": "Vakizaşi",
+    "alternatifler": [
+      "VAKIZAŞI",
+      "VAKIZASI"
+    ]
+  },
+  {
+    "id": 64,
+    "soru": "Vitali Hakko'nun Şen Şapka adıyla kurduğu marka",
+    "cevap": "Vakkorama",
+    "alternatifler": [
+      "VAKKORAMA"
+    ]
+  },
+  {
+    "id": 65,
+    "soru": "Bir torbanın içindeki havayı alma",
+    "cevap": "Vakumlama",
+    "alternatifler": [
+      "VAKUMLAMA"
+    ]
+  },
+  {
+    "id": 66,
+    "soru": "Tüm havası alınmış",
+    "cevap": "Vakumlu",
+    "alternatifler": [
+      "VAKUMLU"
+    ]
+  },
+  {
+    "id": 67,
+    "soru": "Çocuk dilinde ördek",
+    "cevap": "Vakvak",
+    "alternatifler": [
+      "VAKVAK"
+    ]
+  },
+  {
+    "id": 68,
+    "soru": "Ördeklerin çıkardığı ses",
+    "cevap": "Vakvak",
+    "alternatifler": [
+      "VAKVAK"
+    ]
+  },
+  {
+    "id": 69,
+    "soru": "Ördek sesi",
+    "cevap": "Vak vak",
+    "alternatifler": [
+      "VAK VAK",
+      "Vakvak"
+    ]
+  },
+  {
+    "id": 70,
+    "soru": "Portakalıyla ünlü, İspanya'nın üçüncü büyük kenti",
+    "cevap": "Valencıa",
+    "alternatifler": [
+      "VALENCIA"
+    ]
+  },
+  {
+    "id": 71,
+    "soru": "İstanbul'daki Bozdoğan Su Kemeri'nin diğer adıdır",
+    "cevap": "Valens",
+    "alternatifler": [
+      "VALENS"
+    ]
+  },
+  {
+    "id": 72,
+    "soru": "ABD kökenli, şeker tadında olan bir portakal türü",
+    "cevap": "Valensiya",
+    "alternatifler": [
+      "VALENSIYA"
+    ]
+  },
+  {
+    "id": 73,
+    "soru": "Domates fırlatma festivali yapılan İspanya bölgesi",
+    "cevap": "Valensiya",
+    "alternatifler": [
+      "VALENSIYA"
+    ]
+  },
+  {
+    "id": 74,
+    "soru": "ABD kökenli, şeker tadında olan bir portakal türü",
+    "cevap": "Valensiya",
+    "alternatifler": [
+      "VALENSIYA"
+    ]
+  },
+  {
+    "id": 75,
+    "soru": "Garavani soyadlı modacı ve marka kurucusunun adı",
+    "cevap": "Valentıno",
+    "alternatifler": [
+      "VALENTINO"
+    ]
+  },
+  {
+    "id": 76,
+    "soru": "1960 yılında kurulan İtalya merkezli moda şirketi",
+    "cevap": "Valentıno",
+    "alternatifler": [
+      "VALENTINO"
+    ]
+  },
+  {
+    "id": 77,
+    "soru": "Malta'nın başkenti",
+    "cevap": "Valetta",
+    "alternatifler": [
+      "VALETTA"
+    ]
+  },
+  {
+    "id": 78,
+    "soru": "Avrupa arkeolojik mirasının korunması sözleşmesi",
+    "cevap": "Valetta",
+    "alternatifler": [
+      "VALETTA"
+    ]
+  },
+  {
+    "id": 79,
+    "soru": "İskandinav mitolojisinde savaşta ölenlerin salonu",
+    "cevap": "Valhalla",
+    "alternatifler": [
+      "VALHALLA"
+    ]
+  },
+  {
+    "id": 80,
+    "soru": "İskandinav mitolojisine göre Viking cenneti",
+    "cevap": "Valhalla",
+    "alternatifler": [
+      "VALHALLA"
+    ]
+  },
+  {
+    "id": 81,
+    "soru": "Anne yerine kullanılan bir kelime",
+    "cevap": "Valide",
+    "alternatifler": [
+      "VALIDE"
+    ]
+  },
+  {
+    "id": 82,
+    "soru": "Vadeli kelimesinin anagramı",
+    "cevap": "Valide",
+    "alternatifler": [
+      "VALIDE"
+    ]
+  },
+  {
+    "id": 83,
+    "soru": "Osmanlı'da padişah annelerine denirdi",
+    "cevap": "Valide",
+    "alternatifler": [
+      "VALIDE"
+    ]
+  },
+  {
+    "id": 84,
+    "soru": "Şehrin mülki idare amirliği",
+    "cevap": "Valilik",
+    "alternatifler": [
+      "VALILIK"
+    ]
+  },
+  {
+    "id": 85,
+    "soru": "Arnold Schwarzenegger'in 8 yıl yaptığı kamu görevi",
+    "cevap": "Valilik",
+    "alternatifler": [
+      "VALILIK"
+    ]
+  },
+  {
+    "id": 86,
+    "soru": "Tanrı'yı tanık göstermek için söylenen bir yemin",
+    "cevap": "Vallahi",
+    "alternatifler": [
+      "VALLAHI"
+    ]
+  },
+  {
+    "id": 87,
+    "soru": "Amber __, 1974'te doğan Amerikalı model",
+    "cevap": "Valletta",
+    "alternatifler": [
+      "VALLETTA"
+    ]
+  },
+  {
+    "id": 88,
+    "soru": "Bu kent, Güney Avrupa ülkesi Malta'nın başkentidir",
+    "cevap": "Valletta",
+    "alternatifler": [
+      "VALLETTA"
+    ]
+  },
+  {
+    "id": 89,
+    "soru": "Hıçkırığın geçmesini sağlayan yöntem, __ manevrası",
+    "cevap": "Valsalva",
+    "alternatifler": [
+      "VALSALVA"
+    ]
+  },
+  {
+    "id": 90,
+    "soru": "Kan emerek beslenen hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 91,
+    "soru": "Güneş ışığında kalamayan, insan kanı emen hortlak",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 92,
+    "soru": "Kanla beslenen, karanlıkta yaşayan hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 93,
+    "soru": "Yaşamayanlar dizisinde Kerem Bursin bu türdeydi",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 94,
+    "soru": "En ünlüsü Drakula olan hikaye kahramanı",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 95,
+    "soru": "En ünlüsü Kont Dracula olan kan seven varlık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 96,
+    "soru": "Drakula ilk örneğidir",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 97,
+    "soru": "Kan emerek beslenen hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 98,
+    "soru": "Gün ışığında dolaşamadığına inanılan hayali canlı",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 99,
+    "soru": "Drakula ilk örneğidir",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 100,
+    "soru": "En ünlüsünün adı Drakula olan hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 101,
+    "soru": "Kan emici olarak bilinen hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 102,
+    "soru": "Gün ışığında dolaşamadığına inanılan hayali canlı",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 103,
+    "soru": "En ünlüsünün adı Drakula olan hayali yaratık",
+    "cevap": "Vampir",
+    "alternatifler": [
+      "VAMPIR"
+    ]
+  },
+  {
+    "id": 104,
+    "soru": "Bu elementin atom numarası 23, sembolü V'dir",
+    "cevap": "Vanadyum",
+    "alternatifler": [
+      "VANADYUM"
+    ]
+  },
+  {
+    "id": 105,
+    "soru": "Simgesi V, atom numarası 23 olan kimyasal element",
+    "cevap": "Vanadyum",
+    "alternatifler": [
+      "VANADYUM"
+    ]
+  },
+  {
+    "id": 106,
+    "soru": "Simgesi V olan kimyasal bir element",
+    "cevap": "Vanadyum",
+    "alternatifler": [
+      "VANADYUM"
+    ]
+  },
+  {
+    "id": 107,
+    "soru": "Simgesi V olan, bir ilin adıyla başlayan element",
+    "cevap": "Vanadyum",
+    "alternatifler": [
+      "VANADYUM"
+    ]
+  },
+  {
+    "id": 108,
+    "soru": "Bu Kanada şehrinin, geçmişte NBA'de takımı vardı",
+    "cevap": "Vancouver",
+    "alternatifler": [
+      "VANCOUVER"
+    ]
+  },
+  {
+    "id": 109,
+    "soru": "Kültür ve sanat yapıtlarına zarar veren kişi",
+    "cevap": "Vandal",
+    "alternatifler": [
+      "VANDAL"
+    ]
+  },
+  {
+    "id": 110,
+    "soru": "5. yüzyılda Roma'yı yağmalamasıyla tanınan kavim",
+    "cevap": "Vandal",
+    "alternatifler": [
+      "VANDAL"
+    ]
+  },
+  {
+    "id": 111,
+    "soru": "Kavimler Göçü döneminde Roma'ya giren Cermen kavmi",
+    "cevap": "Vandallar",
+    "alternatifler": [
+      "VANDALLAR"
+    ]
+  },
+  {
+    "id": 112,
+    "soru": "5. yüzyılda Afrika'ya kadar ilerleyen Alman halkı",
+    "cevap": "Vandallar",
+    "alternatifler": [
+      "VANDALLAR"
+    ]
+  },
+  {
+    "id": 113,
+    "soru": "Sanat eserlerine zarar verme, yıkıp dökme hareketi",
+    "cevap": "Vandallık",
+    "alternatifler": [
+      "VANDALLIK"
+    ]
+  },
+  {
+    "id": 114,
+    "soru": "Rize'nin Kalkandere ilçesinde yer alan bir şelale",
+    "cevap": "Vandri",
+    "alternatifler": [
+      "VANDRI"
+    ]
+  },
+  {
+    "id": 115,
+    "soru": "Kek ve pastalara tat vermekte kullanılan bitki özü",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 116,
+    "soru": "Tatlılarda kullanılan aromatik bir baharat",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 117,
+    "soru": "Bir orkide türünden elde edilen tatlandırıcı",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 118,
+    "soru": "Beyaz renkli dondurmada bulunan hoş kokulu aroma",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 119,
+    "soru": "Tatlı ve pasta yapmada kullanılan hoş kokulu meyve",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 120,
+    "soru": "Kek, kurabiye vb. gıdalara hoş koku veren aroma",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 121,
+    "soru": "İlk kez Meksikalıların kullandığı kokulu bitki",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 122,
+    "soru": "Tatlı ve pasta yapmada kullanılan hoş kokulu meyve",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 123,
+    "soru": "Kek, kurabiye vb. gıdalara hoş koku veren aroma",
+    "cevap": "Vanilya",
+    "alternatifler": [
+      "VANILYA"
+    ]
+  },
+  {
+    "id": 124,
+    "soru": "Artvin'in Borçka ilçesinde bulunan tarihi köprü",
+    "cevap": "Vaniti",
+    "alternatifler": [
+      "VANITI"
+    ]
+  },
+  {
+    "id": 125,
+    "soru": "Ağzını hareket ettirmeden konuşabilen kişi",
+    "cevap": "Vantrilok",
+    "alternatifler": [
+      "VANTRILOK"
+    ]
+  },
+  {
+    "id": 126,
+    "soru": "Karnından konuşarak gösteriler yapan kişi",
+    "cevap": "Vantrilok",
+    "alternatifler": [
+      "VANTRILOK"
+    ]
+  },
+  {
+    "id": 127,
+    "soru": "Dudaklarını oynatmadan konuşabilen kişi",
+    "cevap": "Vantrilok",
+    "alternatifler": [
+      "VANTRILOK"
+    ]
+  },
+  {
+    "id": 128,
+    "soru": "Vücuda şişe çekmek amacıyla kullanılan alet",
+    "cevap": "Vantuz",
+    "alternatifler": [
+      "VANTUZ"
+    ]
+  },
+  {
+    "id": 129,
+    "soru": "Bu ada ülkesinin başkenti Port Vila'dır",
+    "cevap": "Vanuatu",
+    "alternatifler": [
+      "VANUATU"
+    ]
+  },
+  {
+    "id": 130,
+    "soru": "Çehov bu ünlü oyunu, eski bir oyununa dayanır",
+    "cevap": "Vanya dayı",
+    "alternatifler": [
+      "VANYA DAYI",
+      "Vanyadayı"
+    ]
+  },
+  {
+    "id": 131,
+    "soru": "Çehov Orman Cini'ni geliştirip bu oyunu yazdı",
+    "cevap": "Vanya dayı",
+    "alternatifler": [
+      "VANYA DAYI",
+      "Vanyadayı"
+    ]
+  },
+  {
+    "id": 132,
+    "soru": "Döner tekmeleriyle ünlü Belçikalı aksiyon starı",
+    "cevap": "Van damme",
+    "alternatifler": [
+      "VAN DAMME",
+      "Vandamme"
+    ]
+  },
+  {
+    "id": 133,
+    "soru": "Jean Claude __; Belçikalı aksiyon film yıldızı",
+    "cevap": "Van damme",
+    "alternatifler": [
+      "VAN DAMME",
+      "Vandamme"
+    ]
+  },
+  {
+    "id": 134,
+    "soru": "Sınav adlı filmde oynayan dövüşçü, Jean Claude __",
+    "cevap": "Van damme",
+    "alternatifler": [
+      "VAN DAMME",
+      "Vandamme"
+    ]
+  },
+  {
+    "id": 135,
+    "soru": "Sınav adlı filmde oynayan dövüşçü, Jean Claude __",
+    "cevap": "Van damme",
+    "alternatifler": [
+      "VAN DAMME",
+      "Vandamme"
+    ]
+  },
+  {
+    "id": 136,
+    "soru": "Vincent __, Yıldızlı Gece tablosunun ressamı",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 137,
+    "soru": "Kendi kulağını kesen Hollandalı ressam",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 138,
+    "soru": "Yıldızlı Gece tablosunun ressamı",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 139,
+    "soru": "Yıldızlı Gece tablosunun ressamı",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 140,
+    "soru": "Yıldızlı Gece isimli ünlü tablonun sahibi ressam",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 141,
+    "soru": "İlk resmini 27 yaşında yapan, Vincent adlı ressam",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 142,
+    "soru": "Son sözü, \"Keder sonsuza dek sürecek\" olan ressam",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 143,
+    "soru": "İlk resmini 27 yaşında yapan, Vincent adlı ressam",
+    "cevap": "Van gogh",
+    "alternatifler": [
+      "VAN GOGH",
+      "Vangogh"
+    ]
+  },
+  {
+    "id": 144,
+    "soru": "İçinde canavar yaşadığı rivayet olunan göl",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 145,
+    "soru": "İçinde bir canavar yaşadığı söylenmiş su örtüsü",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 146,
+    "soru": "Nemrut Dağı'nın patlamasıyla oluşmuş dev su örtüsü",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 147,
+    "soru": "Büyük çoğunluğu Bitlis'te olan, dev su birikintisi",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 148,
+    "soru": "Damlaya damlaya oluşan şeyin ülkemizdeki en büyüğü",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 149,
+    "soru": "Büyük çoğunluğu Bitlis'te olan, dev su birikintisi",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 150,
+    "soru": "Doğu'da yaşadığına inanılan yaratık, __ Canavarı",
+    "cevap": "Van gölü",
+    "alternatifler": [
+      "VAN GOLU",
+      "VAN GÖLÜ",
+      "Vangölü"
+    ]
+  },
+  {
+    "id": 151,
+    "soru": "Bir gözü mavi, diğeri yeşil hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 152,
+    "soru": "Farklı renkte gözleri olan, miyavlayan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 153,
+    "soru": "Farklı renkte gözleri olan, miyavlayan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 154,
+    "soru": "Üç harfli bir Türk ilinin adını içeren cins hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 155,
+    "soru": "İki gözü de farklı renk olan bir ile özgü hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 156,
+    "soru": "Kökleri doğuda bir göl bölgesine dayanan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 157,
+    "soru": "Hem mavi hem yeşil gözü olan ulusal Türk hayvanı",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 158,
+    "soru": "2010 FIBA Dünya Basketbol Kupası maskotu",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 159,
+    "soru": "Bir gözü mavi diğeri yeşil olan Türkiye hayvanı",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 160,
+    "soru": "Gözleri mavi ve kehribar olan miyavlayan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 161,
+    "soru": "Hem mavi hem yeşil gözü olan ulusal Türk hayvanı",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 162,
+    "soru": "İran'a komşu ilimizle ünlü, evcil bir hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 163,
+    "soru": "İran'a komşu ilimizle ünlü, evcil bir hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 164,
+    "soru": "Kökleri doğuda bir göl bölgesine dayanan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 165,
+    "soru": "Gözleri mavi ve kehribar olan miyavlayan hayvan",
+    "cevap": "Van kedisi",
+    "alternatifler": [
+      "VAN KEDISI",
+      "Vankedisi"
+    ]
+  },
+  {
+    "id": 166,
+    "soru": "Halatın iki ucu arasında ulaşım sağlayan sistem",
+    "cevap": "Varagele",
+    "alternatifler": [
+      "VARAGELE"
+    ]
+  },
+  {
+    "id": 167,
+    "soru": "İki nokta arasına kurulan halatlı taşıma sistemi",
+    "cevap": "Varagele",
+    "alternatifler": [
+      "VARAGELE"
+    ]
+  },
+  {
+    "id": 168,
+    "soru": "İki nokta arasına kurulan halatlı taşıma sistemi",
+    "cevap": "Varagele",
+    "alternatifler": [
+      "VARAGELE"
+    ]
+  },
+  {
+    "id": 169,
+    "soru": "Eski dilde, üzerine yazı yazılmış kağıt",
+    "cevap": "Varaka",
+    "alternatifler": [
+      "VARAKA"
+    ]
+  },
+  {
+    "id": 170,
+    "soru": "Finansta, dayanak varlığı alma veya satma hakkı",
+    "cevap": "Varant",
+    "alternatifler": [
+      "VARANT"
+    ]
+  },
+  {
+    "id": 171,
+    "soru": "Balkan türküsü, __ Ovası",
+    "cevap": "Vardar",
+    "alternatifler": [
+      "VARDAR"
+    ]
+  },
+  {
+    "id": 172,
+    "soru": "Avrupa başkenti Üsküp'ün ortasından geçen nehir",
+    "cevap": "Vardar",
+    "alternatifler": [
+      "VARDAR"
+    ]
+  },
+  {
+    "id": 173,
+    "soru": "Atatürk'ün sevdiği şarkılardan biri, __ Ovası",
+    "cevap": "Vardar",
+    "alternatifler": [
+      "VARDAR"
+    ]
+  },
+  {
+    "id": 174,
+    "soru": "Atatürk'ün sevdiği şarkıda da geçen Balkan bölgesi",
+    "cevap": "Vardar",
+    "alternatifler": [
+      "VARDAR"
+    ]
+  },
+  {
+    "id": 175,
+    "soru": "İşçilerin farklı mesai dilimlerinde çalışması",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 176,
+    "soru": "Fabrikalardaki değişken saatli çalışma düzeni",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 177,
+    "soru": "Fabrikalarda dönüşümlü çalışma düzeni",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 178,
+    "soru": "Nöbetleşe çalışma sistemi",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 179,
+    "soru": "Gemilerde nöbet tutulan alan",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 180,
+    "soru": "Gemilerde nöbet tutulan alan",
+    "cevap": "Vardiya",
+    "alternatifler": [
+      "VARDIYA"
+    ]
+  },
+  {
+    "id": 181,
+    "soru": "Er bezi torbalarında toplardamarların şişmesi",
+    "cevap": "Varikosel",
+    "alternatifler": [
+      "VARIKOSEL"
+    ]
+  },
+  {
+    "id": 182,
+    "soru": "Vücudunda toplardamar genişlemesi olan kişi",
+    "cevap": "Varisli",
+    "alternatifler": [
+      "VARISLI"
+    ]
+  },
+  {
+    "id": 183,
+    "soru": "Uygulanmaya devam etme, geçerliliğini koruma",
+    "cevap": "Varit olma",
+    "alternatifler": [
+      "VARIT OLMA",
+      "Varitolma"
+    ]
+  },
+  {
+    "id": 184,
+    "soru": "Halk ağzında maddi durumun iyi olması, zenginlik",
+    "cevap": "Variyet",
+    "alternatifler": [
+      "VARIYET"
+    ]
+  },
+  {
+    "id": 185,
+    "soru": "Şirketin veya bireyin para eden her şeyi",
+    "cevap": "Varlık",
+    "alternatifler": [
+      "VARLIK"
+    ]
+  },
+  {
+    "id": 186,
+    "soru": "1942'de çok serveti olana gelen vergi",
+    "cevap": "Varlık",
+    "alternatifler": [
+      "VARLIK"
+    ]
+  },
+  {
+    "id": 187,
+    "soru": "Canlı ve cansız her şeyi inceleyen felsefi dal",
+    "cevap": "Varlık",
+    "alternatifler": [
+      "VARLIK"
+    ]
+  },
+  {
+    "id": 188,
+    "soru": "1933'ten beri yayımlanan edebiyat dergisi",
+    "cevap": "Varlık",
+    "alternatifler": [
+      "VARLIK"
+    ]
+  },
+  {
+    "id": 189,
+    "soru": "1933'ten beri yayımlanan edebiyat dergisi",
+    "cevap": "Varlık",
+    "alternatifler": [
+      "VARLIK"
+    ]
+  },
+  {
+    "id": 190,
+    "soru": "Hali vakti yerinde, zengin",
+    "cevap": "Varlıklı",
+    "alternatifler": [
+      "VARLIKLI"
+    ]
+  },
+  {
+    "id": 191,
+    "soru": "Sağlık, __ yeğdir",
+    "cevap": "Varlıktan",
+    "alternatifler": [
+      "VARLIKTAN"
+    ]
+  },
+  {
+    "id": 192,
+    "soru": "Sağlık, __ yeğdir",
+    "cevap": "Varlıktan",
+    "alternatifler": [
+      "VARLIKTAN"
+    ]
+  },
+  {
+    "id": 193,
+    "soru": "Bir video oyununu konu alan David Cronenberg filmi",
+    "cevap": "Varoluş",
+    "alternatifler": [
+      "VAROLUS",
+      "VAROLUŞ"
+    ]
+  },
+  {
+    "id": 194,
+    "soru": "Doğrulanmamış farazi düşünce",
+    "cevap": "Varsayım",
+    "alternatifler": [
+      "VARSAYIM"
+    ]
+  },
+  {
+    "id": 195,
+    "soru": "Buna dayanarak hareket etmek risklidir; hipotez",
+    "cevap": "Varsayım",
+    "alternatifler": [
+      "VARSAYIM"
+    ]
+  },
+  {
+    "id": 196,
+    "soru": "Olayı açıklamak için gerçekmiş gibi kabul etme",
+    "cevap": "Varsayım",
+    "alternatifler": [
+      "VARSAYIM"
+    ]
+  },
+  {
+    "id": 197,
+    "soru": "Gerçekliği doğrulanmamış düşünce, faraziye",
+    "cevap": "Varsayım",
+    "alternatifler": [
+      "VARSAYIM"
+    ]
+  },
+  {
+    "id": 198,
+    "soru": "Zengin anlamında, zıttı kadar kullanılmayan kelime",
+    "cevap": "Varsıl",
+    "alternatifler": [
+      "VARSIL"
+    ]
+  },
+  {
+    "id": 199,
+    "soru": "Polonya'nın başkenti",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 200,
+    "soru": "Polonya'nın başkenti",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 201,
+    "soru": "Polonya'nın başkenti",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 202,
+    "soru": "Polonya'nın başkenti ve en büyük şehri",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 203,
+    "soru": "Polonya'nın başkenti",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 204,
+    "soru": "Polonya'nın başkenti",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 205,
+    "soru": "Doğu Bloku'nu oluşturan anlaşma, __ Paktı",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 206,
+    "soru": "Doğu Bloku'nu oluşturan anlaşma, __ Paktı",
+    "cevap": "Varşova",
+    "alternatifler": [
+      "VARSOVA",
+      "VARŞOVA"
+    ]
+  },
+  {
+    "id": 207,
+    "soru": "Erkan Kolçak Köstendil'in Çukur'daki karakteri",
+    "cevap": "Vartolu",
+    "alternatifler": [
+      "VARTOLU"
+    ]
+  },
+  {
+    "id": 208,
+    "soru": "Erkan Kolçak Köstendil'in Çukur'daki karakteri",
+    "cevap": "Vartolu",
+    "alternatifler": [
+      "VARTOLU"
+    ]
+  },
+  {
+    "id": 209,
+    "soru": "Fransızca kökenli, bir biçimin farklı tezahürü",
+    "cevap": "Varyasyon",
+    "alternatifler": [
+      "VARYASYON"
+    ]
+  },
+  {
+    "id": 210,
+    "soru": "Çeşitlilik anlamındaki Fransızca kökenli kelime",
+    "cevap": "Varyasyon",
+    "alternatifler": [
+      "VARYASYON"
+    ]
+  },
+  {
+    "id": 211,
+    "soru": "__ Amca, Donald Duck'ın amcası olan pinti ördek",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 212,
+    "soru": "__ Amca, üç yeğeni olan pinti ördek",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 213,
+    "soru": "Cimri zengin",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 214,
+    "soru": "Bir çizgi karakter olan bu ördek amca çok cimridir",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 215,
+    "soru": "Zengin bir ördeği anlatan çizgi film, __ Amca",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 216,
+    "soru": "Çok zengin olup pintilik yapan kişi",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 217,
+    "soru": "__ Amca, zengin ve cimri çizgi film ördeği",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 218,
+    "soru": "Çizgi filmde, Donald Duck'ın pinti amcasının adı",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 219,
+    "soru": "Cimriliğiyle ünlü ördek karakter, __ Amca",
+    "cevap": "Varyemez",
+    "alternatifler": [
+      "VARYEMEZ"
+    ]
+  },
+  {
+    "id": 220,
+    "soru": "Farklı sanat türlerinden oluşan sahne gösterisi",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 221,
+    "soru": "Adını çeşitlilikten alan gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 222,
+    "soru": "Oyunlu şarkılı eğlenceli gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 223,
+    "soru": "Farklı sanat türlerini buluşturan gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 224,
+    "soru": "Adını çeşitlilikten alan gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 225,
+    "soru": "Farklı sanat türlerini buluşturan gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 226,
+    "soru": "Farklı sanat türlerinden oluşan sahne gösterisi",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 227,
+    "soru": "Oyunlu şarkılı eğlenceli gösteri",
+    "cevap": "Varyete",
+    "alternatifler": [
+      "VARYETE"
+    ]
+  },
+  {
+    "id": 228,
+    "soru": "Kısa saplı, büyük çekiç, balyoz",
+    "cevap": "Varyos",
+    "alternatifler": [
+      "VARYOS"
+    ]
+  },
+  {
+    "id": 229,
+    "soru": "Acun Ilıcalı'nın kutulu oyunundaki ilk soru",
+    "cevap": "Var mısın",
+    "alternatifler": [
+      "VAR MISIN",
+      "Varmısın"
+    ]
+  },
+  {
+    "id": 230,
+    "soru": "Hayatı devam ettirme, yaşama anlamındaki deyim",
+    "cevap": "Var olma",
+    "alternatifler": [
+      "VAR OLMA",
+      "Varolma"
+    ]
+  },
+  {
+    "id": 231,
+    "soru": "Japon turpu da denen, yeşil renkli Uzak Doğu sosu",
+    "cevap": "Vasabi",
+    "alternatifler": [
+      "VASABI"
+    ]
+  },
+  {
+    "id": 232,
+    "soru": "Oldukça acı olan Japon sosu",
+    "cevap": "Vasabi",
+    "alternatifler": [
+      "VASABI"
+    ]
+  },
+  {
+    "id": 233,
+    "soru": "Japonların, yoğun ve acı bir tada sahip yeşil sosu",
+    "cevap": "Vasabi",
+    "alternatifler": [
+      "VASABI"
+    ]
+  },
+  {
+    "id": 234,
+    "soru": "Japonların, yoğun ve acı bir tada sahip yeşil sosu",
+    "cevap": "Vasabi",
+    "alternatifler": [
+      "VASABI"
+    ]
+  },
+  {
+    "id": 235,
+    "soru": "Japon turpu da denen, yeşil renkli Uzak Doğu sosu",
+    "cevap": "Vasabi",
+    "alternatifler": [
+      "VASABI"
+    ]
+  },
+  {
+    "id": 236,
+    "soru": "Konya'nın Seydişehir ilçesinde bulunan antik kent",
+    "cevap": "Vasada",
+    "alternatifler": [
+      "VASADA"
+    ]
+  },
+  {
+    "id": 237,
+    "soru": "Ortalama, yaklaşık olarak anlamına gelen kelime",
+    "cevap": "Vasati",
+    "alternatifler": [
+      "VASATI"
+    ]
+  },
+  {
+    "id": 238,
+    "soru": "Eski dilde averaj, ortalama",
+    "cevap": "Vasati",
+    "alternatifler": [
+      "VASATI"
+    ]
+  },
+  {
+    "id": 239,
+    "soru": "Erkeğin kısırlaştırılması",
+    "cevap": "Vasektomi",
+    "alternatifler": [
+      "VASEKTOMI"
+    ]
+  },
+  {
+    "id": 240,
+    "soru": "Erkek canlıların üreme kabiliyetinin alınması",
+    "cevap": "Vasektomi",
+    "alternatifler": [
+      "VASEKTOMI"
+    ]
+  },
+  {
+    "id": 241,
+    "soru": "Kısırlaştırma ameliyatı",
+    "cevap": "Vasektomi",
+    "alternatifler": [
+      "VASEKTOMI"
+    ]
+  },
+  {
+    "id": 242,
+    "soru": "Üreme organlarını kısırlaştırma operasyonu",
+    "cevap": "Vasektomi",
+    "alternatifler": [
+      "VASEKTOMI"
+    ]
+  },
+  {
+    "id": 243,
+    "soru": "Kısırlaştırma ameliyatı",
+    "cevap": "Vasektomi",
+    "alternatifler": [
+      "VASEKTOMI"
+    ]
+  },
+  {
+    "id": 244,
+    "soru": "Adı __, Necati Cumalı'nın filmi yapılan eseri",
+    "cevap": "Vasfiye",
+    "alternatifler": [
+      "VASFIYE"
+    ]
+  },
+  {
+    "id": 245,
+    "soru": "Nitelikli, aranan niteliklere sahip",
+    "cevap": "Vasıflı",
+    "alternatifler": [
+      "VASIFLI"
+    ]
+  },
+  {
+    "id": 246,
+    "soru": "Herhangi bir yeteneği ya da uzmanlığı olmayan işçi",
+    "cevap": "Vasıfsız",
+    "alternatifler": [
+      "VASIFSIZ"
+    ]
+  },
+  {
+    "id": 247,
+    "soru": "Niteliksiz eleman",
+    "cevap": "Vasıfsız",
+    "alternatifler": [
+      "VASIFSIZ"
+    ]
+  },
+  {
+    "id": 248,
+    "soru": "Euroleague'de MVP olan Efes oyuncusu, __ Micic",
+    "cevap": "Vasılıje",
+    "alternatifler": [
+      "VASILIJE"
+    ]
+  },
+  {
+    "id": 249,
+    "soru": "Sırp profesyonel basketbolcu, __ Micic",
+    "cevap": "Vasılıje",
+    "alternatifler": [
+      "VASILIJE"
+    ]
+  },
+  {
+    "id": 250,
+    "soru": "Araç, taşıt",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 251,
+    "soru": "Taşıma amacıyla kullanılan araçların genel adı",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 252,
+    "soru": "Ulaşım aracı, taşıt",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 253,
+    "soru": "Uçak, otomobil gibi her türlü taşıt",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 254,
+    "soru": "Uçak, otomobil gibi her türlü taşıt",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 255,
+    "soru": "Ulaşım aracı, taşıt",
+    "cevap": "Vasıta",
+    "alternatifler": [
+      "VASITA"
+    ]
+  },
+  {
+    "id": 256,
+    "soru": "Üst kısımdan açılan havalandırma penceresi",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 257,
+    "soru": "Havalandırma amaçlı, üstten açılan pencere",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 258,
+    "soru": "Tavana yakın olan küçük havalandırma penceresi",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 259,
+    "soru": "Tuvaletlerde tercih edilen, tavana yakın pencere",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 260,
+    "soru": "Tavana yakın olan küçük havalandırma penceresi",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 261,
+    "soru": "Üst kısımdan açılan havalandırma penceresi",
+    "cevap": "Vasistas",
+    "alternatifler": [
+      "VASISTAS"
+    ]
+  },
+  {
+    "id": 262,
+    "soru": "Birinin öldükten sonra yapılmasını istediği şeyler",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 263,
+    "soru": "Ölülerin arkasında bıraktıkları mektup",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 264,
+    "soru": "Mirasın nasıl paylaşılacağını anlatan yazı",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 265,
+    "soru": "Miras bilgilerini içeren belge",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 266,
+    "soru": "Vefat eden kişinin bıraktığı son istek",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 267,
+    "soru": "15 yaşını geçen herkesin yapabileceği miras devri",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 268,
+    "soru": "Vefat eden kişinin bıraktığı son istek",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 269,
+    "soru": "15 yaşını geçen herkesin yapabileceği miras devri",
+    "cevap": "Vasiyet",
+    "alternatifler": [
+      "VASIYET"
+    ]
+  },
+  {
+    "id": 270,
+    "soru": "Derebeyi ya da hükümdara bağlı olan",
+    "cevap": "Vassal",
+    "alternatifler": [
+      "VASSAL"
+    ]
+  },
+  {
+    "id": 271,
+    "soru": "ABD'nin kuzeybatısındaki eyalet; bir portakal türü",
+    "cevap": "Vaşington",
+    "alternatifler": [
+      "VASINGTON",
+      "VAŞINGTON"
+    ]
+  },
+  {
+    "id": 272,
+    "soru": "Aynı yurtta yaşayan insan, yurttaş",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 273,
+    "soru": "Bir ülkede anayasal haklardan yararlanabilen kişi",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 274,
+    "soru": "Bir ülkede politik haklara sahip olan kişi",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 275,
+    "soru": "Bu Tahsin Yücel romanının oluşumu 40 yıl sürdü",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 276,
+    "soru": "Ülkenin resmi mensubu",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 277,
+    "soru": "Köken fark etmeksizin bir ülkeye mensup herkes",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 278,
+    "soru": "Bir ülkede politik haklara sahip olan kişi",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 279,
+    "soru": "Aynı yurtta yaşayan insan, yurttaş",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 280,
+    "soru": "Esnafın, tezgaha davet etme repliği, \"Gel __ gel!\"",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 281,
+    "soru": "Ülkenin resmi mensubu",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 282,
+    "soru": "Bir ülkede yurttaş olan kimse",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 283,
+    "soru": "Aynı yurtta yaşayan insan, yurttaş",
+    "cevap": "Vatandaş",
+    "alternatifler": [
+      "VATANDAS",
+      "VATANDAŞ"
+    ]
+  },
+  {
+    "id": 284,
+    "soru": "İnsanın __ doğduğu yer değil, doyduğu yerdir",
+    "cevap": "Vatanı",
+    "alternatifler": [
+      "VATANI"
+    ]
+  },
+  {
+    "id": 285,
+    "soru": "Avrupa'nın yüz ölçümü en küçük ülkesi",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 286,
+    "soru": "En küçük yüzölçümüne sahip ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 287,
+    "soru": "Dünyanın en küçük devleti",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 288,
+    "soru": "En küçük yüzölçümüne sahip ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 289,
+    "soru": "Dünyanın en küçük devleti",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 290,
+    "soru": "Roma şehrinde bulunan dünyanın en küçük ülkesi",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 291,
+    "soru": "2019 sayımına göre nüfusu 825 olan ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 292,
+    "soru": "1992'de Galileo'nun suçluluğunu geri çeken ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 293,
+    "soru": "1992'de Galileo'yu haklı ilan eden devlet",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 294,
+    "soru": "Papa'nın yaşadığı, Roma sınırlarında bulunan yer",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 295,
+    "soru": "Dünyanın en küçük devleti",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 296,
+    "soru": "2019 sayımına göre 825 kişinin yaşadığı devlet",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 297,
+    "soru": "Yüz ölçümü açısından dünyanın en küçük ülkesi",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 298,
+    "soru": "Alan adı uzantısı '.va' olan minik ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 299,
+    "soru": "Yüz ölçümü itibarıyla, dünyadaki en küçük ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 300,
+    "soru": "Roma'dan yürüyerek saniyeler içinde gidilen ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 301,
+    "soru": "Roma'dan yürüyerek saniyeler içinde gidilen ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 302,
+    "soru": "Dünyanın en küçük devleti",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 303,
+    "soru": "Plaka kodu \"V\" olan, Avrupa'daki bir devlet",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 304,
+    "soru": "Roma'dan yürüyerek saniyeler içinde gidilen ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 305,
+    "soru": "Yüz ölçümü itibarıyla, dünyadaki en küçük ülke",
+    "cevap": "Vatikan",
+    "alternatifler": [
+      "VATIKAN"
+    ]
+  },
+  {
+    "id": 306,
+    "soru": "Tramvay sürücüsü",
+    "cevap": "Vatman",
+    "alternatifler": [
+      "VATMAN"
+    ]
+  },
+  {
+    "id": 307,
+    "soru": "Tramvay sürücüsü",
+    "cevap": "Vatman",
+    "alternatifler": [
+      "VATMAN"
+    ]
+  },
+  {
+    "id": 308,
+    "soru": "Tramvay süren kişi",
+    "cevap": "Vatman",
+    "alternatifler": [
+      "VATMAN"
+    ]
+  },
+  {
+    "id": 309,
+    "soru": "Sıla Gençoğlu'nun çıkardığı beşinci albüm",
+    "cevap": "Vaveyla",
+    "alternatifler": [
+      "VAVEYLA"
+    ]
+  },
+  {
+    "id": 310,
+    "soru": "Sıla'nın 2012 yılında çıkan albümü",
+    "cevap": "Vaveyla",
+    "alternatifler": [
+      "VAVEYLA"
+    ]
+  },
+  {
+    "id": 311,
+    "soru": "Engin Günaydın'ın başrolde olduğu 2009 yapımı film",
+    "cevap": "Vavien",
+    "alternatifler": [
+      "VAVIEN"
+    ]
+  },
+  {
+    "id": 312,
+    "soru": "2009 yapımı Taylan Biraderler filmi",
+    "cevap": "Vavien",
+    "alternatifler": [
+      "VAVIEN"
+    ]
+  },
+  {
+    "id": 313,
+    "soru": "2009 yapımı Engin Günaydın'lı komedi filmi",
+    "cevap": "Vavien",
+    "alternatifler": [
+      "VAVIEN"
+    ]
+  },
+  {
+    "id": 314,
+    "soru": "Engin Günaydın'ın oynadığı Taylan kardeşler filmi",
+    "cevap": "Vavien",
+    "alternatifler": [
+      "VAVIEN"
+    ]
+  },
+  {
+    "id": 315,
+    "soru": "2009 yapımı Taylan Biraderler filmi",
+    "cevap": "Vavien",
+    "alternatifler": [
+      "VAVIEN"
+    ]
+  },
+  {
+    "id": 316,
+    "soru": "Şaşkınlık anlarında kullanılan bir söz öbeği",
+    "cevap": "Vay canına",
+    "alternatifler": [
+      "VAY CANINA",
+      "Vaycanına"
+    ]
+  },
+  {
+    "id": 317,
+    "soru": "Şaşkınlık anlarında kullanılan bir söz öbeği",
+    "cevap": "Vay canına",
+    "alternatifler": [
+      "VAY CANINA",
+      "Vaycanına"
+    ]
+  },
+  {
+    "id": 318,
+    "soru": "Durumuna üzülen insan sözü; Candan Erçetin şarkısı",
+    "cevap": "Vay halime",
+    "alternatifler": [
+      "VAY HALIME",
+      "Vayhalime"
+    ]
+  },
+  {
+    "id": 319,
+    "soru": "Deyimde, birinin hay hayı gidince bu kalır",
+    "cevap": "Vay vay",
+    "alternatifler": [
+      "VAY VAY",
+      "Vayvay"
+    ]
+  },
+  {
+    "id": 320,
+    "soru": "Hay hayı gitmek __ kalmak, yaşlanıp acizleşmek",
+    "cevap": "Vay vayı",
+    "alternatifler": [
+      "VAY VAYI",
+      "Vayvayı"
+    ]
+  },
+  {
+    "id": 321,
+    "soru": "Cilt kuruluğunu önleyen yağlı bir merhem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 322,
+    "soru": "Açık renkli, yoğun, mineralli merhem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 323,
+    "soru": "Ham petrol kaynaklı kozmetik krem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 324,
+    "soru": "Petrolden çıkarılıp, merhem olarak kullanılan yağ",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 325,
+    "soru": "Ham petrolden üretilen, kremlerde kullanılan yağ",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 326,
+    "soru": "Petrolden üretilen yağlı ve bal mumlu olan krem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 327,
+    "soru": "Açık renkli, yoğun, mineralli merhem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 328,
+    "soru": "Cilt kuruluğunu önleyen yağlı bir merhem",
+    "cevap": "Vazelin",
+    "alternatifler": [
+      "VAZELIN"
+    ]
+  },
+  {
+    "id": 329,
+    "soru": "Didem Arslan Yılmaz'la __, bir Show TV programı",
+    "cevap": "Vazgeçme",
+    "alternatifler": [
+      "VAZGECME",
+      "VAZGEÇME"
+    ]
+  },
+  {
+    "id": 330,
+    "soru": "Verdiği karardan geri dönmek; isteğini kaybetmek",
+    "cevap": "Vazgeçmek",
+    "alternatifler": [
+      "VAZGEÇMEK",
+      "VAZGECMEK"
+    ]
+  },
+  {
+    "id": 331,
+    "soru": "Verilen bir kararı bozmak, caymak",
+    "cevap": "Vazgeçmek",
+    "alternatifler": [
+      "VAZGEÇMEK",
+      "VAZGECMEK"
+    ]
+  },
+  {
+    "id": 332,
+    "soru": "Huylu huyundan __",
+    "cevap": "Vazgeçmez",
+    "alternatifler": [
+      "VAZGEÇMEZ",
+      "VAZGECMEZ"
+    ]
+  },
+  {
+    "id": 333,
+    "soru": "Huylu huyundan __",
+    "cevap": "Vazgeçmez",
+    "alternatifler": [
+      "VAZGEÇMEZ",
+      "VAZGECMEZ"
+    ]
+  },
+  {
+    "id": 334,
+    "soru": "Sezen Aksu'nun 1991'de yaptığı çok sevilen şarkı",
+    "cevap": "Vazgeçtim",
+    "alternatifler": [
+      "VAZGEÇTIM",
+      "VAZGECTIM"
+    ]
+  },
+  {
+    "id": 335,
+    "soru": "İnsanın yerine getirmesi gereken görev",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 336,
+    "soru": "Görev, yapılacak iş anlamındaki söz",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 337,
+    "soru": "Üstüne __ olmamak, ilgilendirmemek",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 338,
+    "soru": "Yerine getirilmesi gereken sorumluluk, vecibe",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 339,
+    "soru": "Yerine getirilmesi gereken sorumluluk, vecibe",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 340,
+    "soru": "Üstüne __ olmamak, ilgilendirmemek",
+    "cevap": "Vazife",
+    "alternatifler": [
+      "VAZIFE"
+    ]
+  },
+  {
+    "id": 341,
+    "soru": "Hal, durum",
+    "cevap": "Vaziyet",
+    "alternatifler": [
+      "VAZIYET"
+    ]
+  },
+  {
+    "id": 342,
+    "soru": "Taun hastalığına yakalanmış",
+    "cevap": "Vebalı",
+    "alternatifler": [
+      "VEBALI"
+    ]
+  },
+  {
+    "id": 343,
+    "soru": "Gülen Gözler filminde Şener Şen'in oynadığı pilot",
+    "cevap": "Vecihi",
+    "alternatifler": [
+      "VECIHI"
+    ]
+  },
+  {
+    "id": 344,
+    "soru": "__ Hürkuş, ilk Türk yerli uçağını üretti",
+    "cevap": "Vecihi",
+    "alternatifler": [
+      "VECIHI"
+    ]
+  },
+  {
+    "id": 345,
+    "soru": "Kurtuluş Savaşı'nda uçan tek pilotun adı",
+    "cevap": "Vecihi",
+    "alternatifler": [
+      "VECIHI"
+    ]
+  },
+  {
+    "id": 346,
+    "soru": "Gülen Gözler filminde Şener Şen'in oynadığı pilot",
+    "cevap": "Vecihi",
+    "alternatifler": [
+      "VECIHI"
+    ]
+  },
+  {
+    "id": 347,
+    "soru": "Kurtuluş Savaşı'nda uçan tek pilotun adı",
+    "cevap": "Vecihi",
+    "alternatifler": [
+      "VECIHI"
+    ]
+  },
+  {
+    "id": 348,
+    "soru": "Bir tespiti kısa ve etkili veren söz, aforizma",
+    "cevap": "Vecize",
+    "alternatifler": [
+      "VECIZE"
+    ]
+  },
+  {
+    "id": 349,
+    "soru": "Söyleyeni belli olan, kısa ve anlamlı söz",
+    "cevap": "Vecize",
+    "alternatifler": [
+      "VECIZE"
+    ]
+  },
+  {
+    "id": 350,
+    "soru": "Ayrılırken birbirine esenlik dileme",
+    "cevap": "Vedalaşma",
+    "alternatifler": [
+      "VEDALASMA",
+      "VEDALAŞMA"
+    ]
+  },
+  {
+    "id": 351,
+    "soru": "Karşılıklı olarak esenlik dilenen ayrılık zamanı",
+    "cevap": "Vedalaşma",
+    "alternatifler": [
+      "VEDALASMA",
+      "VEDALAŞMA"
+    ]
+  },
+  {
+    "id": 352,
+    "soru": "II. TBMM Binası'nı tasarlayan ünlü Türk mimar",
+    "cevap": "Vedat tek",
+    "alternatifler": [
+      "VEDAT TEK",
+      "Vedattek"
+    ]
+  },
+  {
+    "id": 353,
+    "soru": "Sevgisi, bağlılığı gelip geçici olmayan",
+    "cevap": "Vefakar",
+    "alternatifler": [
+      "VEFAKAR"
+    ]
+  },
+  {
+    "id": 354,
+    "soru": "Sevgisi geçici olmayan kişi",
+    "cevap": "Vefalı",
+    "alternatifler": [
+      "VEFALI"
+    ]
+  },
+  {
+    "id": 355,
+    "soru": "Sevgisi veya dostluğu kalıcı olan kişi",
+    "cevap": "Vefalı",
+    "alternatifler": [
+      "VEFALI"
+    ]
+  },
+  {
+    "id": 356,
+    "soru": "Dostluğu ve sevgisi kalıcı olan, hakikatli",
+    "cevap": "Vefalı",
+    "alternatifler": [
+      "VEFALI"
+    ]
+  },
+  {
+    "id": 357,
+    "soru": "Yeşim Salkım'ın Türk sanat müziği albümü",
+    "cevap": "Vefa borcu",
+    "alternatifler": [
+      "VEFA BORCU",
+      "Vefaborcu"
+    ]
+  },
+  {
+    "id": 358,
+    "soru": "Hayvansal gıdanın tüketilmediği beslenme biçimi",
+    "cevap": "Veganlık",
+    "alternatifler": [
+      "VEGANLIK"
+    ]
+  },
+  {
+    "id": 359,
+    "soru": "Hayvansal besinleri tüketmeyi reddetme",
+    "cevap": "Veganlık",
+    "alternatifler": [
+      "VEGANLIK"
+    ]
+  },
+  {
+    "id": 360,
+    "soru": "Türkiye'nin bu ilk vegan şenliği, Didim'dedir",
+    "cevap": "Vegfest",
+    "alternatifler": [
+      "VEGFEST"
+    ]
+  },
+  {
+    "id": 361,
+    "soru": "Arçelik firmasını kuran işadamı",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 362,
+    "soru": "Arçelik firmasını kuran işadamı",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 363,
+    "soru": "Kurduğu holdinge soyadını veren 1901'li iş insanı",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 364,
+    "soru": "Beko'nun kurucusu, 1996'da ölen iş insanı",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 365,
+    "soru": "Logosunda kırmızı boynuz olan holdingin kurucusu",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 366,
+    "soru": "Logosunda kırmızı boynuz olan holdingin kurucusu",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 367,
+    "soru": "Logosunda kırmızı boynuz olan holdingin kurucusu",
+    "cevap": "Vehbi koç",
+    "alternatifler": [
+      "VEHBI KOC",
+      "VEHBI KOÇ",
+      "Vehbikoç"
+    ]
+  },
+  {
+    "id": 368,
+    "soru": "Bazı bitkilerden çıkarılan katı bir yağ",
+    "cevap": "Vejetalin",
+    "alternatifler": [
+      "VEJETALIN"
+    ]
+  },
+  {
+    "id": 369,
+    "soru": "Belirli bitkilerden elde edilen katı yağ",
+    "cevap": "Vejetalin",
+    "alternatifler": [
+      "VEJETALIN"
+    ]
+  },
+  {
+    "id": 370,
+    "soru": "Belirli bitkilerden elde edilen katı yağ",
+    "cevap": "Vejetalin",
+    "alternatifler": [
+      "VEJETALIN"
+    ]
+  },
+  {
+    "id": 371,
+    "soru": "Birinin yerine iş yapma yetkisi",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 372,
+    "soru": "Avukata, muhasebeciye noter imzasıyla verilir",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 373,
+    "soru": "Resmi işlerde, başkasının yerine yetkili kılınma",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 374,
+    "soru": "Kişinin kendi yetkisini hukuken başkasına vermesi",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 375,
+    "soru": "Birinin yerine iş yapma yetkisi",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 376,
+    "soru": "Resmi işlerde, başkasının yerine yetkili kılınma",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 377,
+    "soru": "Avukata, muhasebeciye noter imzasıyla verilir",
+    "cevap": "Vekalet",
+    "alternatifler": [
+      "VEKALET"
+    ]
+  },
+  {
+    "id": 378,
+    "soru": "Yetkiyi veren kişi adına, temsilen",
+    "cevap": "Vekaleten",
+    "alternatifler": [
+      "VEKALETEN"
+    ]
+  },
+  {
+    "id": 379,
+    "soru": "Matematikte, oklarla gösterilen uzunluk konusu",
+    "cevap": "Vektör",
+    "alternatifler": [
+      "VEKTÖR",
+      "VEKTOR"
+    ]
+  },
+  {
+    "id": 380,
+    "soru": "Matematikte, oklarla gösterilen uzunluk konusu",
+    "cevap": "Vektör",
+    "alternatifler": [
+      "VEKTÖR",
+      "VEKTOR"
+    ]
+  },
+  {
+    "id": 381,
+    "soru": "Fizikte yönü de olan bir nicelik cinsi",
+    "cevap": "Vektörel",
+    "alternatifler": [
+      "VEKTOREL",
+      "VEKTÖREL"
+    ]
+  },
+  {
+    "id": 382,
+    "soru": "Boşanan birinin, çocuğunun sorumluluğunu alması",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 383,
+    "soru": "Çocuğu kollama ve sorumluluğunu yüklenme işi",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 384,
+    "soru": "Velilik belgesi",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 385,
+    "soru": "Hukukta çocuğa velilik yapma hakkı",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 386,
+    "soru": "Boşanan birinin, çocuğunun sorumluluğunu alması",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 387,
+    "soru": "Çocuğun hangi ebeveyniyle kalacağını belirler",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 388,
+    "soru": "Çocuğu kollama ve sorumluluğunu yüklenme işi",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 389,
+    "soru": "Hukukta çocuğa velilik yapma hakkı",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 390,
+    "soru": "Çocuğun hangi ebeveyniyle kalacağını belirler",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 391,
+    "soru": "Velilik belgesi",
+    "cevap": "Velayet",
+    "alternatifler": [
+      "VELAYET"
+    ]
+  },
+  {
+    "id": 392,
+    "soru": "Motosiklet ve bisiklet yarış pisti",
+    "cevap": "Veledrom",
+    "alternatifler": [
+      "VELEDROM"
+    ]
+  },
+  {
+    "id": 393,
+    "soru": "Pist bisikletlerinin yarışması için yapılmış arena",
+    "cevap": "Veledrom",
+    "alternatifler": [
+      "VELEDROM"
+    ]
+  },
+  {
+    "id": 394,
+    "soru": "Bisiklet yarışının stadyumdaki alanına verilen ad",
+    "cevap": "Veledrom",
+    "alternatifler": [
+      "VELEDROM"
+    ]
+  },
+  {
+    "id": 395,
+    "soru": "Bir tarafı uzun tüylü, hafif olmayan battaniye",
+    "cevap": "Velense",
+    "alternatifler": [
+      "VELENSE"
+    ]
+  },
+  {
+    "id": 396,
+    "soru": "Eskiden bisiklet için kullanılan kelime",
+    "cevap": "Velespit",
+    "alternatifler": [
+      "VELESPIT"
+    ]
+  },
+  {
+    "id": 397,
+    "soru": "Bisiklet için kullanılan eski bir kelime",
+    "cevap": "Velespit",
+    "alternatifler": [
+      "VELESPIT"
+    ]
+  },
+  {
+    "id": 398,
+    "soru": "Halk ağzında, \"Diyelim öyle oldu\" anlamındaki söz",
+    "cevap": "Velev ki",
+    "alternatifler": [
+      "VELEV KI",
+      "Velevki"
+    ]
+  },
+  {
+    "id": 399,
+    "soru": "Bir hükümdardan sonra yerine geçecek olan kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 400,
+    "soru": "Bir sanatçının yerine aday gösterilen genç kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 401,
+    "soru": "Hükümdar adayı",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 402,
+    "soru": "Bir hükümdardan sonra yerine geçecek olan kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 403,
+    "soru": "Bir hükümdarın yerini alacak ilk kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 404,
+    "soru": "Hükümdarın yerine geçecek olan aile üyesi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 405,
+    "soru": "Hükümdardan sonra tahta geleceği belli olan kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 406,
+    "soru": "Kral olması beklenen prense verilen ünvan",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 407,
+    "soru": "Bir sanatçının yerine aday gösterilen genç kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 408,
+    "soru": "Hükümdardan sonra tahta geleceği belli olan kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 409,
+    "soru": "Hükümdar adayı",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 410,
+    "soru": "Bir hükümdarın yerini alacak ilk kişi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 411,
+    "soru": "Hükümdarın yerine geçecek olan aile üyesi",
+    "cevap": "Veliaht",
+    "alternatifler": [
+      "VELIAHT"
+    ]
+  },
+  {
+    "id": 412,
+    "soru": "Birine ömürlük bir iyilik veya bağış yapan kişi",
+    "cevap": "Velinimet",
+    "alternatifler": [
+      "VELINIMET"
+    ]
+  },
+  {
+    "id": 413,
+    "soru": "80'lerden bir Barış Manço şarkısı, Ali Yazar __",
+    "cevap": "Veli bozar",
+    "alternatifler": [
+      "VELI BOZAR",
+      "Velibozar"
+    ]
+  },
+  {
+    "id": 414,
+    "soru": "Mehmet Ali Sel takma adlı yazar, Orhan __",
+    "cevap": "Veli kanık",
+    "alternatifler": [
+      "VELI KANIK",
+      "Velikanık"
+    ]
+  },
+  {
+    "id": 415,
+    "soru": "Çukura düştükten sonra hayatını kaybetti, Orhan __",
+    "cevap": "Veli kanık",
+    "alternatifler": [
+      "VELI KANIK",
+      "Velikanık"
+    ]
+  },
+  {
+    "id": 416,
+    "soru": "Çukura düştükten sonra hayatını kaybetti, Orhan __",
+    "cevap": "Veli kanık",
+    "alternatifler": [
+      "VELI KANIK",
+      "Velikanık"
+    ]
+  },
+  {
+    "id": 417,
+    "soru": "Abartılı telaş ve gürültü",
+    "cevap": "Velvele",
+    "alternatifler": [
+      "VELVELE"
+    ]
+  },
+  {
+    "id": 418,
+    "soru": "Telaş, anlamsız bir heyecana kapılma durumu",
+    "cevap": "Velvele",
+    "alternatifler": [
+      "VELVELE"
+    ]
+  },
+  {
+    "id": 419,
+    "soru": "V for __, Alan Moore'un çizgi öyküsü",
+    "cevap": "Vendetta",
+    "alternatifler": [
+      "VENDETTA"
+    ]
+  },
+  {
+    "id": 420,
+    "soru": "5 Kasım'ı özel yapan film, V for __",
+    "cevap": "Vendetta",
+    "alternatifler": [
+      "VENDETTA"
+    ]
+  },
+  {
+    "id": 421,
+    "soru": "Kanallar ve gondollar şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 422,
+    "soru": "Kanalları ve gondolları ile ünlü İtalyan şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 423,
+    "soru": "\"Yüzen şehir\" diye bilinen turistik İtalya kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 424,
+    "soru": "Su kanallarında gondolla gezilen İtalya şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 425,
+    "soru": "Turistlerin gondol sefası yaptığı İtalya şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 426,
+    "soru": "F. Sultan Mehmet'in 1479'da anlaşmaya vardığı ülke",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 427,
+    "soru": "Kanallarıyla ünlü İtalya şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 428,
+    "soru": "Altın Aslan Ödülü'nün verildiği film festivali",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 429,
+    "soru": "Kanalları ve gondolları ile ünlü İtalyan şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 430,
+    "soru": "İtalya'nın, yaklaşık 400 köprüye sahip olan şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 431,
+    "soru": "Altın Aslan Ödülü'nün verildiği film festivali",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 432,
+    "soru": "İtalya'nın romantik balayı şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 433,
+    "soru": "Dünyanın en eski film festivalinin şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 434,
+    "soru": "\"Yüzen şehir\" diye bilinen turistik İtalya kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 435,
+    "soru": "Altın Aslan Ödülü'nün verildiği film festivali",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 436,
+    "soru": "18. yüzyılda dağılan İtalya'daki denizci devlet",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 437,
+    "soru": "Altın Aslan ödüllerinin dağıtıldığı İtalya kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 438,
+    "soru": "İrili ufaklı 118 adası bulunan bir İtalyan kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 439,
+    "soru": "Romantizmin başkenti olarak bilinen İtalya şehri",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 440,
+    "soru": "Her kış, 40 gün festival düzenlenen İtalyan kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 441,
+    "soru": "Her kış İtalya'da 40 gün düzenlenir, __ Festivali",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 442,
+    "soru": "Altın Aslan ödüllerinin dağıtıldığı İtalya kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 443,
+    "soru": "İrili ufaklı 118 adası bulunan bir İtalyan kenti",
+    "cevap": "Venedik",
+    "alternatifler": [
+      "VENEDIK"
+    ]
+  },
+  {
+    "id": 444,
+    "soru": "Güney Amerika'nın petrol ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 445,
+    "soru": "Hugo Chavez bu ülkenin devlet başkanıydı",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 446,
+    "soru": "En fazla petrol yatağına sahip olan ülke",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 447,
+    "soru": "Caracas, bu Güney Amerika ülkesinin başkentidir",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 448,
+    "soru": "Petrol zengini Güney Amerika ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 449,
+    "soru": "Petrol zengini Güney Amerika ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 450,
+    "soru": "Niagara'nın 20 katı olan Angel Şelalesi'nin ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 451,
+    "soru": "2013'te Mutluluk Bakanlığı kuran Amerika ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 452,
+    "soru": "Dünyanın en yüksek şelalesinin bulunduğu ülke",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 453,
+    "soru": "Başkenti \"Caracas\" olan Güney Amerika ülkesi",
+    "cevap": "Venezuela",
+    "alternatifler": [
+      "VENEZUELA"
+    ]
+  },
+  {
+    "id": 454,
+    "soru": "Tıp terminolojisinde karın tarafına yakın bölgesi",
+    "cevap": "Ventral",
+    "alternatifler": [
+      "VENTRAL"
+    ]
+  },
+  {
+    "id": 455,
+    "soru": "Baldırıkara da denen, bir eğrelti otu türü",
+    "cevap": "Venüssaçı",
+    "alternatifler": [
+      "VENÜSSAÇI",
+      "VENUSSACI"
+    ]
+  },
+  {
+    "id": 456,
+    "soru": "Yapısal olarak dünya benzeri 3 gezegen, Merkür, __",
+    "cevap": "Venüs mars",
+    "alternatifler": [
+      "VENUS MARS",
+      "VENÜS MARS",
+      "Venüsmars"
+    ]
+  },
+  {
+    "id": 457,
+    "soru": "Yapısal olarak dünya benzeri 3 gezegen, Merkür, __",
+    "cevap": "Venüs mars",
+    "alternatifler": [
+      "VENUS MARS",
+      "VENÜS MARS",
+      "Venüsmars"
+    ]
+  },
+  {
+    "id": 458,
+    "soru": "Bahçe katında bulunan üstü kapalı balkon",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 459,
+    "soru": "Bahçeli evlerde girişin önündeki açık alan",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 460,
+    "soru": "Binanın giriş kapısının bulunduğu balkon",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 461,
+    "soru": "Çevresi camlı balkon",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 462,
+    "soru": "Teoman'ın rüzgar gülüne rastladığı kır evi bölümü",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 463,
+    "soru": "Bahçe katında bulunan üstü kapalı balkon",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 464,
+    "soru": "Bahçeli evlerde girişin önündeki açık alan",
+    "cevap": "Veranda",
+    "alternatifler": [
+      "VERANDA"
+    ]
+  },
+  {
+    "id": 465,
+    "soru": "Bir mirasta hak sahibi olma",
+    "cevap": "Veraset",
+    "alternatifler": [
+      "VERASET"
+    ]
+  },
+  {
+    "id": 466,
+    "soru": "Kalan miras üzerinde bulunan hak",
+    "cevap": "Veraset",
+    "alternatifler": [
+      "VERASET"
+    ]
+  },
+  {
+    "id": 467,
+    "soru": "__ İlamı, mahkemece düzenlenen mirasçı listesi",
+    "cevap": "Veraset",
+    "alternatifler": [
+      "VERASET"
+    ]
+  },
+  {
+    "id": 468,
+    "soru": "Bir mirasta hak sahibi olma",
+    "cevap": "Veraset",
+    "alternatifler": [
+      "VERASET"
+    ]
+  },
+  {
+    "id": 469,
+    "soru": "Diğer adı Üçdoruk olan, Doğu Karadeniz dağı",
+    "cevap": "Verçenik",
+    "alternatifler": [
+      "VERÇENIK",
+      "VERCENIK"
+    ]
+  },
+  {
+    "id": 470,
+    "soru": "Sağ elin __ sol elin görmesin",
+    "cevap": "Verdiğini",
+    "alternatifler": [
+      "VERDIĞINI",
+      "VERDIGINI"
+    ]
+  },
+  {
+    "id": 471,
+    "soru": "Sağ elin __ sol elin görmesin",
+    "cevap": "Verdiğini",
+    "alternatifler": [
+      "VERDIĞINI",
+      "VERDIGINI"
+    ]
+  },
+  {
+    "id": 472,
+    "soru": "Birisinden borç almış olan kişi",
+    "cevap": "Verecekli",
+    "alternatifler": [
+      "VERECEKLI"
+    ]
+  },
+  {
+    "id": 473,
+    "soru": "Tüberküloz hastalığına yakalanmış olan",
+    "cevap": "Veremli",
+    "alternatifler": [
+      "VEREMLI"
+    ]
+  },
+  {
+    "id": 474,
+    "soru": "Parası daha sonra ödenmek üzere alınan mal",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 475,
+    "soru": "Esnafa özgü vadeli satış yöntemi",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 476,
+    "soru": "Esnafın, alacağı ödemeyi ertelediği satış yöntemi",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 477,
+    "soru": "Peşin ödemenin karşıtı olan ödeme yöntemi",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 478,
+    "soru": "Bakkalın, ödemeyi hemen almayıp deftere yazması",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 479,
+    "soru": "__ defteri, bakkal usulü vadeli işlem defteri",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 480,
+    "soru": "Parası daha sonra ödenmek üzere alınan mal",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 481,
+    "soru": "Dükkanlardaki resme göre, böyle satan mutsuz olur",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 482,
+    "soru": "Bakkalın, ödemeyi hemen almayıp deftere yazması",
+    "cevap": "Veresiye",
+    "alternatifler": [
+      "VERESIYE"
+    ]
+  },
+  {
+    "id": 483,
+    "soru": "Bir köşeden diğer köşeye katlanmış olarak",
+    "cevap": "Verevine",
+    "alternatifler": [
+      "VEREVINE"
+    ]
+  },
+  {
+    "id": 484,
+    "soru": "VUK diye kısaltılan kanunun açılımı, __ Kanunu",
+    "cevap": "Vergi usul",
+    "alternatifler": [
+      "VERGI USUL",
+      "Vergiusul"
+    ]
+  },
+  {
+    "id": 485,
+    "soru": "Kişinin gelirlerinden kamuya aktardığı pay",
+    "cevap": "Vergi yükü",
+    "alternatifler": [
+      "VERGI YUKU",
+      "VERGI YÜKÜ",
+      "Vergiyükü"
+    ]
+  },
+  {
+    "id": 486,
+    "soru": "Kişinin gelirlerinden kamuya aktardığı pay",
+    "cevap": "Vergi yükü",
+    "alternatifler": [
+      "VERGI YUKU",
+      "VERGI YÜKÜ",
+      "Vergiyükü"
+    ]
+  },
+  {
+    "id": 487,
+    "soru": "ABD'nin çok uluslu telekomünikasyon devi",
+    "cevap": "Verızon",
+    "alternatifler": [
+      "VERIZON"
+    ]
+  },
+  {
+    "id": 488,
+    "soru": "Elektromanyetik dalga yayını yapan istasyon",
+    "cevap": "Verici",
+    "alternatifler": [
+      "VERICI"
+    ]
+  },
+  {
+    "id": 489,
+    "soru": "Alıcıya elektromanyetik sinyal gönderen aygıt",
+    "cevap": "Verici",
+    "alternatifler": [
+      "VERICI"
+    ]
+  },
+  {
+    "id": 490,
+    "soru": "Alıcılara ses ve görüntü ileten elektronik düzenek",
+    "cevap": "Verici",
+    "alternatifler": [
+      "VERICI"
+    ]
+  },
+  {
+    "id": 491,
+    "soru": "Elektromanyetik dalgayı alıcıya ileten alet",
+    "cevap": "Verici",
+    "alternatifler": [
+      "VERICI"
+    ]
+  },
+  {
+    "id": 492,
+    "soru": "KVKK'nın açılımıdır, Kişisel __ Korunması Kanunu",
+    "cevap": "Verilerin",
+    "alternatifler": [
+      "VERILERIN"
+    ]
+  },
+  {
+    "id": 493,
+    "soru": "KVKK'nın açılımıdır, Kişisel __ Korunması Kanunu",
+    "cevap": "Verilerin",
+    "alternatifler": [
+      "VERILERIN"
+    ]
+  },
+  {
+    "id": 494,
+    "soru": "Randımanlı olan, bol ürün veren",
+    "cevap": "Verimli",
+    "alternatifler": [
+      "VERIMLI"
+    ]
+  },
+  {
+    "id": 495,
+    "soru": "Aynı işi yapıp daha fazla getiri elde eden",
+    "cevap": "Verimli",
+    "alternatifler": [
+      "VERIMLI"
+    ]
+  },
+  {
+    "id": 496,
+    "soru": "Arif __, bu doktor Müge Anlı programına katılırdı",
+    "cevap": "Verimli",
+    "alternatifler": [
+      "VERIMLI"
+    ]
+  },
+  {
+    "id": 497,
+    "soru": "Arif __, bu doktor Müge Anlı programına katılırdı",
+    "cevap": "Verimli",
+    "alternatifler": [
+      "VERIMLI"
+    ]
+  },
+  {
+    "id": 498,
+    "soru": "1983'te New York'ta kurulan telekomünikasyon devi",
+    "cevap": "Verizon",
+    "alternatifler": [
+      "VERIZON"
+    ]
+  },
+  {
+    "id": 499,
+    "soru": "Futbolda duvar pası",
+    "cevap": "Verkaç",
+    "alternatifler": [
+      "VERKAÇ",
+      "VERKAC"
+    ]
+  },
+  {
+    "id": 500,
+    "soru": "Depar atan oyuncunun pas verip geri alması",
+    "cevap": "Verkaç",
+    "alternatifler": [
+      "VERKAÇ",
+      "VERKAC"
+    ]
+  },
+  {
+    "id": 501,
+    "soru": "Depar atan oyuncunun pas verip geri alması",
+    "cevap": "Verkaç",
+    "alternatifler": [
+      "VERKAÇ",
+      "VERKAC"
+    ]
+  },
+  {
+    "id": 502,
+    "soru": "İnci Küpeli Kız'ı tablosunun sahibi olan ressam",
+    "cevap": "Vermeer",
+    "alternatifler": [
+      "VERMEER"
+    ]
+  },
+  {
+    "id": 503,
+    "soru": "İnci Küpeli Kız'ı yapan ressam",
+    "cevap": "Vermeer",
+    "alternatifler": [
+      "VERMEER"
+    ]
+  },
+  {
+    "id": 504,
+    "soru": "Solucanlara karşı duyulan anormal korku",
+    "cevap": "Vermifobi",
+    "alternatifler": [
+      "VERMIFOBI"
+    ]
+  },
+  {
+    "id": 505,
+    "soru": "Ahşapların üzerine sürülen koruyucu saydam sıvı",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 506,
+    "soru": "Boya yaparken kullanılan ve parlaklık veren sıvı",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 507,
+    "soru": "Yağlı boya tabloları korumak için üzerine sürülür",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 508,
+    "soru": "Tuvalleri korumak amaçlı, bozulmayı önleyici sıvı",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 509,
+    "soru": "Yağlı boya tabloları korumak için üzerine sürülür",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 510,
+    "soru": "Yüzeyde koruma görevi yapan parlak karışım",
+    "cevap": "Vernik",
+    "alternatifler": [
+      "VERNIK"
+    ]
+  },
+  {
+    "id": 511,
+    "soru": "Romeo ve Juliet hikayesi bu şehirde geçer",
+    "cevap": "Verona",
+    "alternatifler": [
+      "VERONA"
+    ]
+  },
+  {
+    "id": 512,
+    "soru": "Romeo ve Juliet'in geçtiği İtalya şehri",
+    "cevap": "Verona",
+    "alternatifler": [
+      "VERONA"
+    ]
+  },
+  {
+    "id": 513,
+    "soru": "__ Ölmek İstiyor, yazarı Paulo Coelho'dur",
+    "cevap": "Veronika",
+    "alternatifler": [
+      "VERONIKA"
+    ]
+  },
+  {
+    "id": 514,
+    "soru": "Yavşan otu olarak bilinen bitki",
+    "cevap": "Veronika",
+    "alternatifler": [
+      "VERONIKA"
+    ]
+  },
+  {
+    "id": 515,
+    "soru": "Kurucusu Miami'de öldürülen İtalyan modaevi",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 516,
+    "soru": "Kurucusunun adı Gianni olan İtalyan modaevi",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 517,
+    "soru": "İtalyan moda tasarımcısı, Gianni __",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 518,
+    "soru": "Logosunda Medusa çizimi olan İtalyan moda markası",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 519,
+    "soru": "1978 yılında İtalya'da kurulan lüks moda mağazası",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 520,
+    "soru": "Suikastle öldürülen Gianni adlı İtalyan modacı",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 521,
+    "soru": "Suikastle öldürülen Gianni adlı İtalyan modacı",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 522,
+    "soru": "1978 yılında İtalya'da kurulan lüks moda mağazası",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 523,
+    "soru": "Suikasti bir diziye konu olan modacı, Gianni __",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 524,
+    "soru": "Gianni Maria adlı İtalyan'ın kurduğu moda markası",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 525,
+    "soru": "Suikast sonucu öldürülen İtalyan modacının soyadı",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 526,
+    "soru": "1978 yılında İtalya'da kurulan lüks moda mağazası",
+    "cevap": "Versace",
+    "alternatifler": [
+      "VERSACE"
+    ]
+  },
+  {
+    "id": 527,
+    "soru": "Almanya'nın 1919'da imzaladığı barış antlaşması",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 528,
+    "soru": "Almanya'nın 1919'da imzaladığı barış antlaşması",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 529,
+    "soru": "Fransız İhtilali buradaki ünlü sarayda başladı",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 530,
+    "soru": "İtilaf Devletleri ile Almanya'nın barış antlaşması",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 531,
+    "soru": "İlk yolcu asansörünün kullanıldığı Fransız sarayı",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 532,
+    "soru": "1. Dünya Savaşını bitiren, barış anlaşması",
+    "cevap": "Versay",
+    "alternatifler": [
+      "VERSAY"
+    ]
+  },
+  {
+    "id": 533,
+    "soru": "Bir yazılım için geliştirilen sürümlerin her biri",
+    "cevap": "Versiyon",
+    "alternatifler": [
+      "VERSIYON"
+    ]
+  },
+  {
+    "id": 534,
+    "soru": "Tiyatroda, oyununun farklı yorumla sahnelenmesi",
+    "cevap": "Versiyon",
+    "alternatifler": [
+      "VERSIYON"
+    ]
+  },
+  {
+    "id": 535,
+    "soru": "Bir şeyin başka biçimi, sürüm",
+    "cevap": "Versiyon",
+    "alternatifler": [
+      "VERSIYON"
+    ]
+  },
+  {
+    "id": 536,
+    "soru": "Bir şeyin farklı bir hali, sürüm",
+    "cevap": "Versiyon",
+    "alternatifler": [
+      "VERSIYON"
+    ]
+  },
+  {
+    "id": 537,
+    "soru": "Tıbbi terminolojide omurga",
+    "cevap": "Vertebra",
+    "alternatifler": [
+      "VERTEBRA"
+    ]
+  },
+  {
+    "id": 538,
+    "soru": "Omurgada yer alan kemiklerden her biri",
+    "cevap": "Vertebra",
+    "alternatifler": [
+      "VERTEBRA"
+    ]
+  },
+  {
+    "id": 539,
+    "soru": "Astroloji’de doğum haritasındaki sanal nokta",
+    "cevap": "Verteks",
+    "alternatifler": [
+      "VERTEKS"
+    ]
+  },
+  {
+    "id": 540,
+    "soru": "Vücudun denge sistemi kaynaklı baş dönmesi",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 541,
+    "soru": "Şiddetli baş dönmesi yaşatan hastalık",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 542,
+    "soru": "Vücudun denge sistemi kaynaklı baş dönmesi",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 543,
+    "soru": "Sorunlu bir denge sisteminde yaşanan baş dönmesi",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 544,
+    "soru": "Tıp terminolojisinde baş dönmesi",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 545,
+    "soru": "Baş dönmesi rahatsızlığı",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 546,
+    "soru": "Kulaktan kaynaklı baş dönmesinin tıptaki adı",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 547,
+    "soru": "Denge kaybı ve baş dönmesine neden olan hastalık",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 548,
+    "soru": "Denge kaybı ve baş dönmesine neden olan hastalık",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 549,
+    "soru": "Şiddetli baş dönmesi yaşatan hastalık",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 550,
+    "soru": "Sorunlu bir denge sisteminde yaşanan baş dönmesi",
+    "cevap": "Vertigo",
+    "alternatifler": [
+      "VERTIGO"
+    ]
+  },
+  {
+    "id": 551,
+    "soru": "Ercan Yazgan'ın oynadığı son film",
+    "cevap": "Ver kaç",
+    "alternatifler": [
+      "VER KAC",
+      "VER KAÇ",
+      "Verkaç"
+    ]
+  },
+  {
+    "id": 552,
+    "soru": "Eski dilde, yazılı ya da görsel belgeler",
+    "cevap": "Vesaik",
+    "alternatifler": [
+      "VESAIK"
+    ]
+  },
+  {
+    "id": 553,
+    "soru": "\"Ve buna benzer\" anlamında kullanılan geçiştirme",
+    "cevap": "Vesaire",
+    "alternatifler": [
+      "VESAIRE"
+    ]
+  },
+  {
+    "id": 554,
+    "soru": "Türkçede kullanılan “vs.” kısaltmasının açılımı",
+    "cevap": "Vesaire",
+    "alternatifler": [
+      "VESAIRE"
+    ]
+  },
+  {
+    "id": 555,
+    "soru": "Toplu taşıma araçlarının halk arasındaki adı",
+    "cevap": "Vesait",
+    "alternatifler": [
+      "VESAIT"
+    ]
+  },
+  {
+    "id": 556,
+    "soru": "Eski dilde ulaşımda kullanılan vasıtalar, taşıtlar",
+    "cevap": "Vesait",
+    "alternatifler": [
+      "VESAIT"
+    ]
+  },
+  {
+    "id": 557,
+    "soru": "Eski dilde ulaşımda kullanılan vasıtalar, taşıtlar",
+    "cevap": "Vesait",
+    "alternatifler": [
+      "VESAIT"
+    ]
+  },
+  {
+    "id": 558,
+    "soru": "Muhtaç birinin malını yönetme işi",
+    "cevap": "Vesayet",
+    "alternatifler": [
+      "VESAYET"
+    ]
+  },
+  {
+    "id": 559,
+    "soru": "Türkan Şoray bununla Altın Portakal aldı, __ Yarim",
+    "cevap": "Vesikalı",
+    "alternatifler": [
+      "VESIKALI"
+    ]
+  },
+  {
+    "id": 560,
+    "soru": "Siyah beyaz bir Lütfi Akad filmi, __ Yarim",
+    "cevap": "Vesikalı",
+    "alternatifler": [
+      "VESIKALI"
+    ]
+  },
+  {
+    "id": 561,
+    "soru": "Kimlik fotoğrafı",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 562,
+    "soru": "Omuzlardan yukarısının çekildiği küçük fotoğraf",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 563,
+    "soru": "Portre çekilmiş yüz fotoğrafı",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 564,
+    "soru": "Resmi belgeler için çekilen fotoğraf türü",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 565,
+    "soru": "Resmi belgeler için çekilen fotoğraf türü",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 566,
+    "soru": "Resmi belgelerde kullanılan fotoğraf tipi",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 567,
+    "soru": "Resmi belgelerde kullanılan fotoğraf tipi",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 568,
+    "soru": "Resmi belgelerde kullanılan şahıs fotoğrafı",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 569,
+    "soru": "Portre çekilmiş yüz fotoğrafı",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 570,
+    "soru": "Resmi belgeler için çekilen fotoğraf türü",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 571,
+    "soru": "Resmi belgeler için çekilen fotoğraf türü",
+    "cevap": "Vesikalık",
+    "alternatifler": [
+      "VESIKALIK"
+    ]
+  },
+  {
+    "id": 572,
+    "soru": "Şartların faydalı biçimde fırsata dönüşmesi",
+    "cevap": "Vesile",
+    "alternatifler": [
+      "VESILE"
+    ]
+  },
+  {
+    "id": 573,
+    "soru": "Amerigo __, ABD'nin bulunduğu kıtaya adını verdi",
+    "cevap": "Vespuccı",
+    "alternatifler": [
+      "VESPUCCI"
+    ]
+  },
+  {
+    "id": 574,
+    "soru": "Zorlu Holding'in sahibi olduğu teknoloji firması",
+    "cevap": "Vestel",
+    "alternatifler": [
+      "VESTEL"
+    ]
+  },
+  {
+    "id": 575,
+    "soru": "Yerli bir beyaz eşya ve akıllı telefon markası",
+    "cevap": "Vestel",
+    "alternatifler": [
+      "VESTEL"
+    ]
+  },
+  {
+    "id": 576,
+    "soru": "1994'te Zorlu Holding'in aldığı beyaz eşya markası",
+    "cevap": "Vestel",
+    "alternatifler": [
+      "VESTEL"
+    ]
+  },
+  {
+    "id": 577,
+    "soru": "Zorlu Holding'in kurduğu elektronik ürün markası",
+    "cevap": "Vestel",
+    "alternatifler": [
+      "VESTEL"
+    ]
+  },
+  {
+    "id": 578,
+    "soru": "Restoran girişinde mont, palto bırakılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 579,
+    "soru": "Palto bekçisi",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 580,
+    "soru": "Dış giyim ve aksesuar için kullanılan askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 581,
+    "soru": "Lokanta girişinde şapka ve palto bırakılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 582,
+    "soru": "İçeri girince mont ve manto gibi giysi asılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 583,
+    "soru": "Portmantonun diğer adı, askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 584,
+    "soru": "Restoranda ceket, mont asılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 585,
+    "soru": "Ceket bırakılan yer, askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 586,
+    "soru": "Tiyatroda şapka ve palto bırakılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 587,
+    "soru": "Dış giyim ve aksesuar için kullanılan askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 588,
+    "soru": "Ceket bırakılan yer, askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 589,
+    "soru": "Portmantonun diğer adı, askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 590,
+    "soru": "İçeri girince mont ve manto gibi giysi asılan yer",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 591,
+    "soru": "Ceket bırakılan yer, askılık",
+    "cevap": "Vestiyer",
+    "alternatifler": [
+      "VESTIYER"
+    ]
+  },
+  {
+    "id": 592,
+    "soru": "Erkek ceketi anlamına gelen Fransızca sözcük",
+    "cevap": "Veston",
+    "alternatifler": [
+      "VESTON"
+    ]
+  },
+  {
+    "id": 593,
+    "soru": "Boş yere endişe etme, kuruntu",
+    "cevap": "Vesvese",
+    "alternatifler": [
+      "VESVESE"
+    ]
+  },
+  {
+    "id": 594,
+    "soru": "Yersiz düşüncelerin etkisinde olan, kuruntulu",
+    "cevap": "Vesveseli",
+    "alternatifler": [
+      "VESVESELI"
+    ]
+  },
+  {
+    "id": 595,
+    "soru": "Hayvanları tedavi eden doktor; baytar",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 596,
+    "soru": "Hayvan hastalıkları hekimi",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 597,
+    "soru": "Hayvanların hastalıklarını teşhis ve tedavi eder",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 598,
+    "soru": "Hayvanların tedavisinden sorumlu doktor",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 599,
+    "soru": "Hayvan doktoru olan kişi",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 600,
+    "soru": "Hayvan doktoru olan kişi",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 601,
+    "soru": "Hayvanları tedavi eden hekim",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 602,
+    "soru": "Hayvan doktoru, baytar",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 603,
+    "soru": "Ömer Seyfettin'in, diplomasıyla aldığı unvan",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 604,
+    "soru": "Hayvanları tedavi eden hekim",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 605,
+    "soru": "Hayvanları tedavi eden hekim",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 606,
+    "soru": "Hayvanları tedavi eden hekim",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 607,
+    "soru": "Hayvanları tedavi eden hekim",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 608,
+    "soru": "Evcil hayvanların dertlerini o çözer",
+    "cevap": "Veteriner",
+    "alternatifler": [
+      "VETERINER"
+    ]
+  },
+  {
+    "id": 609,
+    "soru": "Geri çevirmek; siyasette sıkça kullanılır",
+    "cevap": "Veto etmek",
+    "alternatifler": [
+      "VETO ETMEK",
+      "Vetoetmek"
+    ]
+  },
+  {
+    "id": 610,
+    "soru": "Geri çevirmek; siyasette sıkça kullanılır",
+    "cevap": "Veto etmek",
+    "alternatifler": [
+      "VETO ETMEK",
+      "Vetoetmek"
+    ]
+  },
+  {
+    "id": 611,
+    "soru": "Geri çevrilmek, reddedilmek anlamındaki deyim",
+    "cevap": "Veto yemek",
+    "alternatifler": [
+      "VETO YEMEK",
+      "Vetoyemek"
+    ]
+  },
+  {
+    "id": 612,
+    "soru": "Benzer başka bir hususu dile getiren bağlaç, ya da",
+    "cevap": "Veyahut",
+    "alternatifler": [
+      "VEYAHUT"
+    ]
+  },
+  {
+    "id": 613,
+    "soru": "Doğum yeri Sivas olan kör ozan, Aşık __",
+    "cevap": "Veysel",
+    "alternatifler": [
+      "VEYSEL"
+    ]
+  },
+  {
+    "id": 614,
+    "soru": "Hababam Sınıfı'nın, erkek hademesinin adı",
+    "cevap": "Veysel",
+    "alternatifler": [
+      "VEYSEL"
+    ]
+  },
+  {
+    "id": 615,
+    "soru": "Sadık yarinin kara toprak olduğunu söyleyen aşık",
+    "cevap": "Veysel",
+    "alternatifler": [
+      "VEYSEL"
+    ]
+  },
+  {
+    "id": 616,
+    "soru": "Ahmet Kutsi Tecer'in keşfettiği ozan, Aşık __",
+    "cevap": "Veysel",
+    "alternatifler": [
+      "VEYSEL"
+    ]
+  },
+  {
+    "id": 617,
+    "soru": "Çiçek hastalığı yüzünden gözlerini kaybeden aşık",
+    "cevap": "Veysel",
+    "alternatifler": [
+      "VEYSEL"
+    ]
+  },
+  {
+    "id": 618,
+    "soru": "Belirli bir ölçü kalıbıyla yazılmış şiir",
+    "cevap": "Vezinli",
+    "alternatifler": [
+      "VEZINLI"
+    ]
+  },
+  {
+    "id": 619,
+    "soru": "Samsun Altınkaya Barajı'na yakın olan tabiat parkı",
+    "cevap": "Vezirsuyu",
+    "alternatifler": [
+      "VEZIRSUYU"
+    ]
+  },
+  {
+    "id": 620,
+    "soru": "Bankada, para alıp veren kasa görevlisi",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 621,
+    "soru": "Para işleri ile uğraşan gişe görevlisi",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 622,
+    "soru": "Bankalarda nakit paradan sorumlu görevli",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 623,
+    "soru": "Para alınıp verilen yerlerde görevlendirilen kişi",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 624,
+    "soru": "Bankada para alıp vermekten mesul kişi",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 625,
+    "soru": "Banka gişesinde çalışan görevli",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 626,
+    "soru": "Bankalarda nakit paradan sorumlu görevli",
+    "cevap": "Veznedar",
+    "alternatifler": [
+      "VEZNEDAR"
+    ]
+  },
+  {
+    "id": 627,
+    "soru": "Bıçkın __, Mirgün Cabas'ın yazdığı söyleşi kitabı",
+    "cevap": "Ve ağlak",
+    "alternatifler": [
+      "VE AĞLAK",
+      "VE AGLAK",
+      "Veağlak"
+    ]
+  },
+  {
+    "id": 628,
+    "soru": "Aşk __, filmi de olan bir Jane Austen romanı",
+    "cevap": "Ve gurur",
+    "alternatifler": [
+      "VE GURUR",
+      "Vegurur"
+    ]
+  },
+  {
+    "id": 629,
+    "soru": "Aşk __, filmi de olan bir Jane Austen romanı",
+    "cevap": "Ve gurur",
+    "alternatifler": [
+      "VE GURUR",
+      "Vegurur"
+    ]
+  },
+  {
+    "id": 630,
+    "soru": "Aşk __, filmi de olan bir Jane Austen romanı",
+    "cevap": "Ve gurur",
+    "alternatifler": [
+      "VE GURUR",
+      "Vegurur"
+    ]
+  },
+  {
+    "id": 631,
+    "soru": "Cesur __, Forrester ailesini konu edinen dizi",
+    "cevap": "Ve güzel",
+    "alternatifler": [
+      "VE GUZEL",
+      "VE GÜZEL",
+      "Vegüzel"
+    ]
+  },
+  {
+    "id": 632,
+    "soru": "2021'de sinemaya aktarılan çizgi film, Tom __",
+    "cevap": "Ve jerry",
+    "alternatifler": [
+      "VE JERRY",
+      "Vejerry"
+    ]
+  },
+  {
+    "id": 633,
+    "soru": "Şarkıcı Teoman'ın yazıp yönettiği film, Balans __",
+    "cevap": "Ve manevra",
+    "alternatifler": [
+      "VE MANEVRA",
+      "Vemanevra"
+    ]
+  },
+  {
+    "id": 634,
+    "soru": "Şarkıcı Teoman'ın yazıp yönettiği film, Balans __",
+    "cevap": "Ve manevra",
+    "alternatifler": [
+      "VE MANEVRA",
+      "Vemanevra"
+    ]
+  },
+  {
+    "id": 635,
+    "soru": "24 saatte 500 bin satan 2002 tarihli GTA oyunu",
+    "cevap": "Vıce cıty",
+    "alternatifler": [
+      "VICE CITY",
+      "Vıcecıty"
+    ]
+  },
+  {
+    "id": 636,
+    "soru": "__ Hugo, Sefiller romanının yazarı",
+    "cevap": "Vıctor",
+    "alternatifler": [
+      "VICTOR"
+    ]
+  },
+  {
+    "id": 637,
+    "soru": "Yaşadığı devre adını veren Britanya kraliçesi",
+    "cevap": "Vıctorıa",
+    "alternatifler": [
+      "VICTORIA"
+    ]
+  },
+  {
+    "id": 638,
+    "soru": "Spice Girls'ün bir futbolcuyla evli üyesinin adı",
+    "cevap": "Vıctorıa",
+    "alternatifler": [
+      "VICTORIA"
+    ]
+  },
+  {
+    "id": 639,
+    "soru": "Hem yersiz hem çok konuşanları ifade eden ikileme",
+    "cevap": "Vıdı vıdı",
+    "alternatifler": [
+      "VIDI VIDI",
+      "Vıdıvıdı"
+    ]
+  },
+  {
+    "id": 640,
+    "soru": "Sarı yer silme paspasıyla özdeşleşen marka",
+    "cevap": "Vıleda",
+    "alternatifler": [
+      "VILEDA"
+    ]
+  },
+  {
+    "id": 641,
+    "soru": "Sarı yer silme paspasıyla özdeşleşen marka",
+    "cevap": "Vıleda",
+    "alternatifler": [
+      "VILEDA"
+    ]
+  },
+  {
+    "id": 642,
+    "soru": "Ünlü ressam Van Gogh'un ön adı",
+    "cevap": "Vıncent",
+    "alternatifler": [
+      "VINCENT"
+    ]
+  },
+  {
+    "id": 643,
+    "soru": "Kendi kulağını kesen ressam Van Gogh'un ilk adı",
+    "cevap": "Vıncent",
+    "alternatifler": [
+      "VINCENT"
+    ]
+  },
+  {
+    "id": 644,
+    "soru": "Ünlü ressam Van Gogh'un ön adı",
+    "cevap": "Vıncent",
+    "alternatifler": [
+      "VINCENT"
+    ]
+  },
+  {
+    "id": 645,
+    "soru": "Günümüzde giyilen eski tarz giysiler (İng.)",
+    "cevap": "Vıntage",
+    "alternatifler": [
+      "VINTAGE"
+    ]
+  },
+  {
+    "id": 646,
+    "soru": "Hızlı ve Öfkeli filminin başrol oyuncusu",
+    "cevap": "Vın dıesel",
+    "alternatifler": [
+      "VIN DIESEL",
+      "Vındıesel"
+    ]
+  },
+  {
+    "id": 647,
+    "soru": "Hızlı ve Öfkeli serisinin Dominic Toretto'su",
+    "cevap": "Vın dıesel",
+    "alternatifler": [
+      "VIN DIESEL",
+      "Vındıesel"
+    ]
+  },
+  {
+    "id": 648,
+    "soru": "Hızlı ve Öfkeli serisinin Dominic Toretto'su",
+    "cevap": "Vın dıesel",
+    "alternatifler": [
+      "VIN DIESEL",
+      "Vındıesel"
+    ]
+  },
+  {
+    "id": 649,
+    "soru": "Klasik müzik eseri Dört Mevsim'in bestekarı",
+    "cevap": "Vıvaldı",
+    "alternatifler": [
+      "VIVALDI"
+    ]
+  },
+  {
+    "id": 650,
+    "soru": "Bajazet operasını besteleyen İtalyan virtüöz",
+    "cevap": "Vıvaldı",
+    "alternatifler": [
+      "VIVALDI"
+    ]
+  },
+  {
+    "id": 651,
+    "soru": "Perfetti'nin 1991'de Türkiye'ye giren sakızı",
+    "cevap": "Vıvıdent",
+    "alternatifler": [
+      "VIVIDENT"
+    ]
+  },
+  {
+    "id": 652,
+    "soru": "Perfetti'nin 1991'de Türkiye'ye giren sakızı",
+    "cevap": "Vıvıdent",
+    "alternatifler": [
+      "VIVIDENT"
+    ]
+  },
+  {
+    "id": 653,
+    "soru": "Perfetti'nin 1991'de Türkiye'ye giren sakızı",
+    "cevap": "Vıvıdent",
+    "alternatifler": [
+      "VIVIDENT"
+    ]
+  },
+  {
+    "id": 654,
+    "soru": "Sivrisineğin çıkardığı gürültü",
+    "cevap": "Vızıltı",
+    "alternatifler": [
+      "VIZILTI"
+    ]
+  },
+  {
+    "id": 655,
+    "soru": "Arı sesinden adını alan, grup tartışma tekniği",
+    "cevap": "Vızıltı",
+    "alternatifler": [
+      "VIZILTI"
+    ]
+  },
+  {
+    "id": 656,
+    "soru": "Hiç umrunda olmamak, etkilememek, __ tırıs gitmek",
+    "cevap": "Vız gelip",
+    "alternatifler": [
+      "VIZ GELIP",
+      "Vızgelip"
+    ]
+  },
+  {
+    "id": 657,
+    "soru": "Hiç umrunda olmamak, etkilememek, __ tırıs gitmek",
+    "cevap": "Vız gelip",
+    "alternatifler": [
+      "VIZ GELIP",
+      "Vızgelip"
+    ]
+  },
+  {
+    "id": 658,
+    "soru": "__ tırıs gider, korkmaz, umursamaz kişi sözü",
+    "cevap": "Vız gelir",
+    "alternatifler": [
+      "VIZ GELIR",
+      "Vızgelir"
+    ]
+  },
+  {
+    "id": 659,
+    "soru": "Müzikte sesin titremesi",
+    "cevap": "Vibrato",
+    "alternatifler": [
+      "VIBRATO"
+    ]
+  },
+  {
+    "id": 660,
+    "soru": "Kolera hastalığına sebep olan bakteri",
+    "cevap": "Vibriyo",
+    "alternatifler": [
+      "VIBRIYO"
+    ]
+  },
+  {
+    "id": 661,
+    "soru": "Koleraya sebep olan bakteri",
+    "cevap": "Vibriyo",
+    "alternatifler": [
+      "VIBRIYO"
+    ]
+  },
+  {
+    "id": 662,
+    "soru": "Virgül işaretine benzerliğiyle öne çıkan bakteri",
+    "cevap": "Vibriyo",
+    "alternatifler": [
+      "VIBRIYO"
+    ]
+  },
+  {
+    "id": 663,
+    "soru": "Koleraya sebep olan bakteri",
+    "cevap": "Vibriyo",
+    "alternatifler": [
+      "VIBRIYO"
+    ]
+  },
+  {
+    "id": 664,
+    "soru": "Eski dilde karşılıklı olarak yapılan, yüz yüze",
+    "cevap": "Vicahen",
+    "alternatifler": [
+      "VICAHEN"
+    ]
+  },
+  {
+    "id": 665,
+    "soru": "Empati ile doğru orantılı iç adalet sistemi",
+    "cevap": "Vicdan",
+    "alternatifler": [
+      "VICDAN"
+    ]
+  },
+  {
+    "id": 666,
+    "soru": "Nurgül Yeşilçay'ın Altın Portakal kazandığı film",
+    "cevap": "Vicdan",
+    "alternatifler": [
+      "VICDAN"
+    ]
+  },
+  {
+    "id": 667,
+    "soru": "Kişinin ahlaki açıdan kendini yargılama gücü",
+    "cevap": "Vicdan",
+    "alternatifler": [
+      "VICDAN"
+    ]
+  },
+  {
+    "id": 668,
+    "soru": "Pişmanlıkla yaşanan azaba adını veren hayali güç",
+    "cevap": "Vicdan",
+    "alternatifler": [
+      "VICDAN"
+    ]
+  },
+  {
+    "id": 669,
+    "soru": "Bireyin içindeki adalet ölçüsü",
+    "cevap": "Vicdan",
+    "alternatifler": [
+      "VICDAN"
+    ]
+  },
+  {
+    "id": 670,
+    "soru": "İçindeki ahlaki ve adaletli sese kulak veren kişi",
+    "cevap": "Vicdanlı",
+    "alternatifler": [
+      "VICDANLI"
+    ]
+  },
+  {
+    "id": 671,
+    "soru": "Merhameti olmayan, empati kurmayan kişi",
+    "cevap": "Vicdansız",
+    "alternatifler": [
+      "VICDANSIZ"
+    ]
+  },
+  {
+    "id": 672,
+    "soru": "Afrika kıtasındaki en büyük göl",
+    "cevap": "Victoria",
+    "alternatifler": [
+      "VICTORIA"
+    ]
+  },
+  {
+    "id": 673,
+    "soru": "Ayakkabı yapımında kullanılan tabaklanmış deri",
+    "cevap": "Vidala",
+    "alternatifler": [
+      "VIDALA"
+    ]
+  },
+  {
+    "id": 674,
+    "soru": "Tıkanmış olan kanalizasyondaki suyu çeken makine",
+    "cevap": "Vidanjör",
+    "alternatifler": [
+      "VIDANJÖR",
+      "VIDANJOR"
+    ]
+  },
+  {
+    "id": 675,
+    "soru": "Lağım boşaltma aracı",
+    "cevap": "Vidanjör",
+    "alternatifler": [
+      "VIDANJÖR",
+      "VIDANJOR"
+    ]
+  },
+  {
+    "id": 676,
+    "soru": "Kuyulardaki tıkanıklığı açmada kullanılan alet",
+    "cevap": "Vidanjör",
+    "alternatifler": [
+      "VIDANJÖR",
+      "VIDANJOR"
+    ]
+  },
+  {
+    "id": 677,
+    "soru": "Foseptik çekmekte kullanılan araç",
+    "cevap": "Vidanjör",
+    "alternatifler": [
+      "VIDANJÖR",
+      "VIDANJOR"
+    ]
+  },
+  {
+    "id": 678,
+    "soru": "Foseptikte biriken kirli suları çeken araç",
+    "cevap": "Vidanjör",
+    "alternatifler": [
+      "VIDANJÖR",
+      "VIDANJOR"
+    ]
+  },
+  {
+    "id": 679,
+    "soru": "Tv yayınlarının kaydedildiği kaset",
+    "cevap": "Videobant",
+    "alternatifler": [
+      "VIDEOBANT"
+    ]
+  },
+  {
+    "id": 680,
+    "soru": "Tv yayınlarının kaydedildiği kaset",
+    "cevap": "Videobant",
+    "alternatifler": [
+      "VIDEOBANT"
+    ]
+  },
+  {
+    "id": 681,
+    "soru": "TV kanalının, arşiv odasında saklanan kaset",
+    "cevap": "Videobant",
+    "alternatifler": [
+      "VIDEOBANT"
+    ]
+  },
+  {
+    "id": 682,
+    "soru": "Kasete görüntü kaydeden ve oynatan cihaz",
+    "cevap": "Videoteyp",
+    "alternatifler": [
+      "VIDEOTEYP"
+    ]
+  },
+  {
+    "id": 683,
+    "soru": "Kasede kaydedilen ses ve görüntüyü ekrana yansıtır",
+    "cevap": "Videoteyp",
+    "alternatifler": [
+      "VIDEOTEYP"
+    ]
+  },
+  {
+    "id": 684,
+    "soru": "VHS ya da Betamax kasetlerini oynatabilen cihaz",
+    "cevap": "Videoteyp",
+    "alternatifler": [
+      "VIDEOTEYP"
+    ]
+  },
+  {
+    "id": 685,
+    "soru": "Kasete görüntü kaydeden ve oynatan cihaz",
+    "cevap": "Videoteyp",
+    "alternatifler": [
+      "VIDEOTEYP"
+    ]
+  },
+  {
+    "id": 686,
+    "soru": "Kasede kaydedilen ses ve görüntüyü ekrana yansıtır",
+    "cevap": "Videoteyp",
+    "alternatifler": [
+      "VIDEOTEYP"
+    ]
+  },
+  {
+    "id": 687,
+    "soru": "Baton şeklindeki, pastaya benzer Algida dondurması",
+    "cevap": "Viennetta",
+    "alternatifler": [
+      "VIENNETTA"
+    ]
+  },
+  {
+    "id": 688,
+    "soru": "Rambo serisinin ikinci filminin geçtiği ülke",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 689,
+    "soru": "1965'te ABD'nin savaş başlattığı Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 690,
+    "soru": "Başkenti Hanoi olan Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 691,
+    "soru": "Başkenti Hanoi olan Güneydoğu Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 692,
+    "soru": "ABD'nin 60'lı yıllarda savaştığı Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 693,
+    "soru": "İkinci Çinhindi Savaşı'nın yaygın bilinen adı",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 694,
+    "soru": "Amerika'nın portakal gazı kullandığı savaş",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 695,
+    "soru": "İkinci Rambo filminin geçtiği Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 696,
+    "soru": "Yeni yılı Tet adlı bayramla kutlayan Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 697,
+    "soru": "Ucuz iş gücü ve savaşıyla bilinen bir Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 698,
+    "soru": "ABD'nin 60'lı yıllarda savaştığı Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 699,
+    "soru": "Muhammed Ali, bu savaşa katılmadığı için ceza aldı",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 700,
+    "soru": "1965'te ABD'nin savaş başlattığı Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 701,
+    "soru": "Rambo serisinin ikinci filminin geçtiği ülke",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 702,
+    "soru": "Başkenti Hanoi olan, tek partiyle yönetilen devlet",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 703,
+    "soru": "Ucuz iş gücü ve savaşıyla bilinen bir Asya ülkesi",
+    "cevap": "Vietnam",
+    "alternatifler": [
+      "VIETNAM"
+    ]
+  },
+  {
+    "id": 704,
+    "soru": "Güneydoğu Asya kenti Hanoi'de konuşulan resmi dil",
+    "cevap": "Vietnamca",
+    "alternatifler": [
+      "VIETNAMCA"
+    ]
+  },
+  {
+    "id": 705,
+    "soru": "Hukuk dilinde koruma, esirgeme",
+    "cevap": "Vikaye",
+    "alternatifler": [
+      "VIKAYE"
+    ]
+  },
+  {
+    "id": 706,
+    "soru": "Eski dilde birini tehlikeden uzak tutma, koruma",
+    "cevap": "Vikaye",
+    "alternatifler": [
+      "VIKAYE"
+    ]
+  },
+  {
+    "id": 707,
+    "soru": "Tim Severin'in 3 kitaplık İskandinavya romanı",
+    "cevap": "Viking",
+    "alternatifler": [
+      "VIKING"
+    ]
+  },
+  {
+    "id": 708,
+    "soru": "NASA'nın 1969'da başlattığı Mars programı",
+    "cevap": "Viking",
+    "alternatifler": [
+      "VIKING"
+    ]
+  },
+  {
+    "id": 709,
+    "soru": "İskandinavyalı korsan ve tüccar kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 710,
+    "soru": "İskandinavya’da yaşamış denizci topluluk",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 711,
+    "soru": "Orta Çağ'da yaşamış, İskandinav korsan kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 712,
+    "soru": "Avrupa'yı fetheden İskandinavyalı korsan kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 713,
+    "soru": "Eskiden İskandinavya'da yaşamış savaşçı halk",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 714,
+    "soru": "Çizgi filmi de bulunan denizci orta çağ halkı",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 715,
+    "soru": "Kanada topraklarına ilk giden Avrupa halkı",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 716,
+    "soru": "İskandinavların atası olan kavimlerin genel adı",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 717,
+    "soru": "Savaşçı nitelikli eski bir Danimarka halkı",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 718,
+    "soru": "İskandinavya’da yaşamış denizci topluluk",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 719,
+    "soru": "Avrupa'yı fetheden İskandinavyalı korsan kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 720,
+    "soru": "Savaşçı nitelikli eski bir Danimarka halkı",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 721,
+    "soru": "İskandinavyalı korsan ve tüccar kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 722,
+    "soru": "Eskiden İskandinavya'da yaşamış savaşçı halk",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 723,
+    "soru": "İskandinav korsanları konu alan bir çizgi film",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 724,
+    "soru": "Orta Çağ'da yaşamış, İskandinav korsan kavim",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 725,
+    "soru": "İskandinav korsanları konu alan bir çizgi film",
+    "cevap": "Vikingler",
+    "alternatifler": [
+      "VIKINGLER"
+    ]
+  },
+  {
+    "id": 726,
+    "soru": "Özgür ansiklopedi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 727,
+    "soru": "Özgür Ansiklopedi'nin Türkçe versiyonu",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 728,
+    "soru": "Özgür Ansiklopedi'nin Türkçe versiyonu",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 729,
+    "soru": "Özgür internet ansiklopedisinin Türkçe kolu",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 730,
+    "soru": "2001'de kurulan internete özgü ansiklopedi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 731,
+    "soru": "Özgür internet ansiklopedisinin Türkçe kolu",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 732,
+    "soru": "Sloganı, \"Özgür Ansiklopedi\" olan web sitesi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 733,
+    "soru": "Özgür Ansiklopedi'nin Türkçe versiyonu",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 734,
+    "soru": "Bir dönem erişime kapatılan sanal kütüphane",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 735,
+    "soru": "Gönüllü yazarlık yapılan internet ansiklopedisi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 736,
+    "soru": "Bir dönem erişime kapatılan sanal kütüphane",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 737,
+    "soru": "Özgür ansiklopedi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 738,
+    "soru": "2001'de kurulan internete özgü ansiklopedi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 739,
+    "soru": "Gönüllü yazarlık yapılan internet ansiklopedisi",
+    "cevap": "Vikipedi",
+    "alternatifler": [
+      "VIKIPEDI"
+    ]
+  },
+  {
+    "id": 740,
+    "soru": "Afrika'nın en büyük tatlı su gölü",
+    "cevap": "Viktorya",
+    "alternatifler": [
+      "VIKTORYA"
+    ]
+  },
+  {
+    "id": 741,
+    "soru": "Afrika'nın yüz ölçümü en büyük gölünün adı",
+    "cevap": "Viktorya",
+    "alternatifler": [
+      "VIKTORYA"
+    ]
+  },
+  {
+    "id": 742,
+    "soru": "Adını İngiltere kraliçesinden alan Afrika şelalesi",
+    "cevap": "Viktorya",
+    "alternatifler": [
+      "VIKTORYA"
+    ]
+  },
+  {
+    "id": 743,
+    "soru": "Avustralya'daki en büyük çöl",
+    "cevap": "Viktorya",
+    "alternatifler": [
+      "VIKTORYA"
+    ]
+  },
+  {
+    "id": 744,
+    "soru": "19. yüzyıl İngiltere'sini ifade eden dönem adı",
+    "cevap": "Viktoryen",
+    "alternatifler": [
+      "VIKTORYEN"
+    ]
+  },
+  {
+    "id": 745,
+    "soru": "Valiler tarafından yönetilen mülki birim, il",
+    "cevap": "Vilayet",
+    "alternatifler": [
+      "VILAYET"
+    ]
+  },
+  {
+    "id": 746,
+    "soru": "Valiler tarafından yönetilen mülki birim, il",
+    "cevap": "Vilayet",
+    "alternatifler": [
+      "VILAYET"
+    ]
+  },
+  {
+    "id": 747,
+    "soru": "İl kelimesinin eş anlamlısı",
+    "cevap": "Vilayet",
+    "alternatifler": [
+      "VILAYET"
+    ]
+  },
+  {
+    "id": 748,
+    "soru": "Vali tarafından yönetilen, ülkenin idari bölümü",
+    "cevap": "Vilayet",
+    "alternatifler": [
+      "VILAYET"
+    ]
+  },
+  {
+    "id": 749,
+    "soru": "Yöneticisi vali olan yerleşim yeri",
+    "cevap": "Vilayet",
+    "alternatifler": [
+      "VILAYET"
+    ]
+  },
+  {
+    "id": 750,
+    "soru": "Kader adlı filmde başroldü, __ Atasever",
+    "cevap": "Vildan",
+    "alternatifler": [
+      "VILDAN"
+    ]
+  },
+  {
+    "id": 751,
+    "soru": "Yer paspasıyla özdeşleşen Alman markası",
+    "cevap": "Vileda",
+    "alternatifler": [
+      "VILEDA"
+    ]
+  },
+  {
+    "id": 752,
+    "soru": "Tasarımcısı şirketin adıyla bütünleşen yer paspası",
+    "cevap": "Vileda",
+    "alternatifler": [
+      "VILEDA"
+    ]
+  },
+  {
+    "id": 753,
+    "soru": "Litvanya'nın başkenti",
+    "cevap": "Vilnius",
+    "alternatifler": [
+      "VILNIUS"
+    ]
+  },
+  {
+    "id": 754,
+    "soru": "Litvanya'nın başkenti ve en büyük şehri",
+    "cevap": "Vilnius",
+    "alternatifler": [
+      "VILNIUS"
+    ]
+  },
+  {
+    "id": 755,
+    "soru": "Litvanya'nın başkenti",
+    "cevap": "Vilnius",
+    "alternatifler": [
+      "VILNIUS"
+    ]
+  },
+  {
+    "id": 756,
+    "soru": "Litvanya'nın başkenti",
+    "cevap": "Vilnius",
+    "alternatifler": [
+      "VILNIUS"
+    ]
+  },
+  {
+    "id": 757,
+    "soru": "Bir yolun kıvrılarak yön değiştirdiği yerler",
+    "cevap": "Virajlar",
+    "alternatifler": [
+      "VIRAJLAR"
+    ]
+  },
+  {
+    "id": 758,
+    "soru": "Bir yolun kıvrılarak yön değiştirdiği yerler",
+    "cevap": "Virajlar",
+    "alternatifler": [
+      "VIRAJLAR"
+    ]
+  },
+  {
+    "id": 759,
+    "soru": "Girintili çıkıntılı, dolambaçlı yol",
+    "cevap": "Virajlı",
+    "alternatifler": [
+      "VIRAJLI"
+    ]
+  },
+  {
+    "id": 760,
+    "soru": "Harap olmuş yapı",
+    "cevap": "Virane",
+    "alternatifler": [
+      "VIRANE"
+    ]
+  },
+  {
+    "id": 761,
+    "soru": "Yıkık yer, harabe",
+    "cevap": "Virane",
+    "alternatifler": [
+      "VIRANE"
+    ]
+  },
+  {
+    "id": 762,
+    "soru": "Bu noktalama işareti cümlede kısa bir durmadır",
+    "cevap": "Virgül",
+    "alternatifler": [
+      "VIRGÜL",
+      "VIRGUL"
+    ]
+  },
+  {
+    "id": 763,
+    "soru": "Uzun cümlelere yazılı mola veren çengelli işaret",
+    "cevap": "Virgül",
+    "alternatifler": [
+      "VIRGÜL",
+      "VIRGUL"
+    ]
+  },
+  {
+    "id": 764,
+    "soru": "Cümlede, aralarda kullanılan noktalama işareti",
+    "cevap": "Virgül",
+    "alternatifler": [
+      "VIRGÜL",
+      "VIRGUL"
+    ]
+  },
+  {
+    "id": 765,
+    "soru": "Cümlenin sonuna konulmayan noktalama işareti",
+    "cevap": "Virgül",
+    "alternatifler": [
+      "VIRGÜL",
+      "VIRGUL"
+    ]
+  },
+  {
+    "id": 766,
+    "soru": "Seyfi Dursunoğlu'nun efsane karakteri Huysuz ___",
+    "cevap": "Virjin",
+    "alternatifler": [
+      "VIRJIN"
+    ]
+  },
+  {
+    "id": 767,
+    "soru": "Aynı kişiye ait iki hesap arasında para transferi",
+    "cevap": "Virman",
+    "alternatifler": [
+      "VIRMAN"
+    ]
+  },
+  {
+    "id": 768,
+    "soru": "Aynı banka şubesinde hesaplar arası aktarım",
+    "cevap": "Virman",
+    "alternatifler": [
+      "VIRMAN"
+    ]
+  },
+  {
+    "id": 769,
+    "soru": "Bireysel hesaplar arası para transferi",
+    "cevap": "Virman",
+    "alternatifler": [
+      "VIRMAN"
+    ]
+  },
+  {
+    "id": 770,
+    "soru": "Virüsler konusunda uzman bilim insanı",
+    "cevap": "Virolog",
+    "alternatifler": [
+      "VIROLOG"
+    ]
+  },
+  {
+    "id": 771,
+    "soru": "Virüsleri inceleyen bilim dalı",
+    "cevap": "Viroloji",
+    "alternatifler": [
+      "VIROLOJI"
+    ]
+  },
+  {
+    "id": 772,
+    "soru": "Virüslerin yapısını inceleyen bilim",
+    "cevap": "Viroloji",
+    "alternatifler": [
+      "VIROLOJI"
+    ]
+  },
+  {
+    "id": 773,
+    "soru": "Enstrümanına fiziksel ve teknik anlamda hakim kişi",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 774,
+    "soru": "Bir müzik aletini büyük ustalıkla çalabilen kişi",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 775,
+    "soru": "Çaldığı müzik aletini ustalıkla kullanan kişi",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 776,
+    "soru": "Enstrümanına fiziksel ve teknik anlamda hakim kişi",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 777,
+    "soru": "Müzikte siyah kuşak sahibi; enstrümanın ustası",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 778,
+    "soru": "Enstrümanına fiziksel ve teknik anlamda hakim kişi",
+    "cevap": "Virtüöz",
+    "alternatifler": [
+      "VIRTUOZ",
+      "VIRTÜÖZ"
+    ]
+  },
+  {
+    "id": 779,
+    "soru": "Kayın ağacından üretilen tekstil hammaddesi",
+    "cevap": "Viskon",
+    "alternatifler": [
+      "VISKON"
+    ]
+  },
+  {
+    "id": 780,
+    "soru": "Kayın ağacından üretilen tekstil kumaşı",
+    "cevap": "Viskon",
+    "alternatifler": [
+      "VISKON"
+    ]
+  },
+  {
+    "id": 781,
+    "soru": "İpliklerden örülmüş kumaşların genel adı",
+    "cevap": "Viskoz",
+    "alternatifler": [
+      "VISKOZ"
+    ]
+  },
+  {
+    "id": 782,
+    "soru": "İpliklerden örülmüş kumaşların genel adı",
+    "cevap": "Viskoz",
+    "alternatifler": [
+      "VISKOZ"
+    ]
+  },
+  {
+    "id": 783,
+    "soru": "Fizikte maddenin akma direncini ifade eden terim",
+    "cevap": "Viskozite",
+    "alternatifler": [
+      "VISKOZITE"
+    ]
+  },
+  {
+    "id": 784,
+    "soru": "Sıvının akışkanlığı ifade eden fizik terimi",
+    "cevap": "Viskozite",
+    "alternatifler": [
+      "VISKOZITE"
+    ]
+  },
+  {
+    "id": 785,
+    "soru": "Çin, Japon ve Amerikan türleri olan çiçekli bitki",
+    "cevap": "Visterya",
+    "alternatifler": [
+      "VISTERYA"
+    ]
+  },
+  {
+    "id": 786,
+    "soru": "Polonya'nın en uzun nehri",
+    "cevap": "Vistül",
+    "alternatifler": [
+      "VISTUL",
+      "VISTÜL"
+    ]
+  },
+  {
+    "id": 787,
+    "soru": "Mimar Sinan'ın Drina Köprüsü'nün bulunduğu kasaba",
+    "cevap": "Vişegrad",
+    "alternatifler": [
+      "VIŞEGRAD",
+      "VISEGRAD"
+    ]
+  },
+  {
+    "id": 788,
+    "soru": "Adını, içinde yetişen meyveden alan Beşiktaş semti",
+    "cevap": "Vişnezade",
+    "alternatifler": [
+      "VISNEZADE",
+      "VIŞNEZADE"
+    ]
+  },
+  {
+    "id": 789,
+    "soru": "Adını, içinde yetişen meyveden alan Beşiktaş semti",
+    "cevap": "Vişnezade",
+    "alternatifler": [
+      "VISNEZADE",
+      "VIŞNEZADE"
+    ]
+  },
+  {
+    "id": 790,
+    "soru": "A, B, B12 gibi türleri olan organik bileşik",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 791,
+    "soru": "90'larda kurulan, komik şarkılarıyla ünlü grup",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 792,
+    "soru": "Bunun C tipinden portakalda bolca bulunur",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 793,
+    "soru": "Suda veya yağda çözünen, vücuda gerekli maddeler",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 794,
+    "soru": "Grup __, 90'ların absürt komedi müzik grubu",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 795,
+    "soru": "Grup __, vücuda yararlı maddeden isim alan grup",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 796,
+    "soru": "A, B, B12 gibi türleri olan organik bileşik",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 797,
+    "soru": "Güneşlenerek bir türü alınan organik madde",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 798,
+    "soru": "Grup __, vücuda yararlı maddeden isim alan grup",
+    "cevap": "Vitamin",
+    "alternatifler": [
+      "VITAMIN"
+    ]
+  },
+  {
+    "id": 799,
+    "soru": "Şoför şanzımanı bu çubukla yönetir",
+    "cevap": "Vites kolu",
+    "alternatifler": [
+      "VITES KOLU",
+      "Viteskolu"
+    ]
+  },
+  {
+    "id": 800,
+    "soru": "Şoför şanzımanı bu çubukla yönetir",
+    "cevap": "Vites kolu",
+    "alternatifler": [
+      "VITES KOLU",
+      "Viteskolu"
+    ]
+  },
+  {
+    "id": 801,
+    "soru": "Deri üzerinde beyaz lekelerin olduğu cilt problemi",
+    "cevap": "Vitiligo",
+    "alternatifler": [
+      "VITILIGO"
+    ]
+  },
+  {
+    "id": 802,
+    "soru": "Vücutta renk kaybına yol açan cilt hastalığı",
+    "cevap": "Vitiligo",
+    "alternatifler": [
+      "VITILIGO"
+    ]
+  },
+  {
+    "id": 803,
+    "soru": "Derinin renk kaybederek beyazlaşması hastalığı",
+    "cevap": "Vitiligo",
+    "alternatifler": [
+      "VITILIGO"
+    ]
+  },
+  {
+    "id": 804,
+    "soru": "Michael Jackson'ın sahip olduğu deri hastalığı",
+    "cevap": "Vitiligo",
+    "alternatifler": [
+      "VITILIGO"
+    ]
+  },
+  {
+    "id": 805,
+    "soru": "Boyanmış cam parçaları ile yapılan süsleme",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 806,
+    "soru": "Renkli cam parçalarından oluşan pencere süsü",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 807,
+    "soru": "Renkli camlarla yapılan süsleme işlemi",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 808,
+    "soru": "Cam ve pencere süslemesi",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 809,
+    "soru": "Renkli camlardan meydana gelen pencere süslemesi",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 810,
+    "soru": "Renkli camlarla yapılan cam süslemesi",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 811,
+    "soru": "Renkli camlardan meydana gelen pencere süslemesi",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 812,
+    "soru": "Boyanmış cam parçaları ile yapılan süsleme",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 813,
+    "soru": "Renkli cam parçalarından oluşan pencere süsü",
+    "cevap": "Vitray",
+    "alternatifler": [
+      "VITRAY"
+    ]
+  },
+  {
+    "id": 814,
+    "soru": "Lavabo, küvet gibi banyo eşyalarının genel adı",
+    "cevap": "Vitrifiye",
+    "alternatifler": [
+      "VITRIFIYE"
+    ]
+  },
+  {
+    "id": 815,
+    "soru": "Banyodaki seramik malzemelerin mimarideki adı",
+    "cevap": "Vitrifiye",
+    "alternatifler": [
+      "VITRIFIYE"
+    ]
+  },
+  {
+    "id": 816,
+    "soru": "Lavabo, küvet gibi banyo eşyalarının genel adı",
+    "cevap": "Vitrifiye",
+    "alternatifler": [
+      "VITRIFIYE"
+    ]
+  },
+  {
+    "id": 817,
+    "soru": "Süs koyma amaçlı camlı dolap",
+    "cevap": "Vitrin",
+    "alternatifler": [
+      "VITRIN"
+    ]
+  },
+  {
+    "id": 818,
+    "soru": "Mağazanın ürün sergilenen camlı bölümü",
+    "cevap": "Vitrin",
+    "alternatifler": [
+      "VITRIN"
+    ]
+  },
+  {
+    "id": 819,
+    "soru": "Mağazanın ürün sergilenen yeri",
+    "cevap": "Vitrin",
+    "alternatifler": [
+      "VITRIN"
+    ]
+  },
+  {
+    "id": 820,
+    "soru": "Ürünlerin sergilendiği camlı yer, camekan",
+    "cevap": "Vitrin",
+    "alternatifler": [
+      "VITRIN"
+    ]
+  },
+  {
+    "id": 821,
+    "soru": "Mağazanın ürün sergilenen camlı bölümü",
+    "cevap": "Vitrin",
+    "alternatifler": [
+      "VITRIN"
+    ]
+  },
+  {
+    "id": 822,
+    "soru": "Mağazanın camlı teşhir bölümünü düzenleyen kimse",
+    "cevap": "Vitrinci",
+    "alternatifler": [
+      "VITRINCI"
+    ]
+  },
+  {
+    "id": 823,
+    "soru": "Dört Mevsim adlı eserin bestecisi",
+    "cevap": "Vivaldi",
+    "alternatifler": [
+      "VIVALDI"
+    ]
+  },
+  {
+    "id": 824,
+    "soru": "Vadiye yapılan köprü yol",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 825,
+    "soru": "Vadi üzerinde, taşıtlar için yapılan uzun köprü",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 826,
+    "soru": "Nehir veya vadi üstünden geçen otoban, köprüyol",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 827,
+    "soru": "Vadiye kurulan karayolu köprüsü",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 828,
+    "soru": "Vadiye yapılan köprü yol",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 829,
+    "soru": "Vadiye yapılan köprü yol",
+    "cevap": "Viyadük",
+    "alternatifler": [
+      "VIYADÜK",
+      "VIYADUK"
+    ]
+  },
+  {
+    "id": 830,
+    "soru": "Osmanlı Devleti'nin kuşattığı Avusturya şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 831,
+    "soru": "Osmanlı'nın bir türlü alamadığı Avusturya şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 832,
+    "soru": "Klasik müziğin başkenti",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 833,
+    "soru": "Avusturya'nın başkenti",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 834,
+    "soru": "Osmanlı'nın iki kez kuşatıp alamadığı Avrupa kenti",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 835,
+    "soru": "Tavuk yerine dana etinden yapılan şnitzelin şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 836,
+    "soru": "Osmanlı'nın iki kez kuşattığı Avusturya şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 837,
+    "soru": "Her yılbaşında konser veren filarmoni orkestrası",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 838,
+    "soru": "Osmanlı tarafından en çok kuşatılan Avrupa şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 839,
+    "soru": "Avusturya'nın başkenti",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 840,
+    "soru": "Ankara Kuğulu Park'ta ilk beyaz kuğunun memleketi",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 841,
+    "soru": "Osmanlı'nın kapısına 2 kez dayandığı Avrupa şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 842,
+    "soru": "Osmanlı Devleti'nin kuşattığı Avusturya şehri",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 843,
+    "soru": "Kanuni ile IV. Mehmed'in fethedemediği başkent",
+    "cevap": "Viyana",
+    "alternatifler": [
+      "VIYANA"
+    ]
+  },
+  {
+    "id": 844,
+    "soru": "Kemandan sonra en küçük yaylı çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 845,
+    "soru": "Kemanın bir büyüğü",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 846,
+    "soru": "Keman benzeri büyük bir çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 847,
+    "soru": "Alto adıyla da bilinen, kemana benzeyen çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 848,
+    "soru": "Bir diğer ismi alto olan müzik aleti",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 849,
+    "soru": "Kemana benzeyen fakat biraz daha büyük olan çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 850,
+    "soru": "Kemandan sonra en küçük yaylı çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 851,
+    "soru": "Kemana benzeyen fakat biraz daha büyük olan çalgı",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 852,
+    "soru": "Kemanın bir büyüğü",
+    "cevap": "Viyola",
+    "alternatifler": [
+      "VIYOLA"
+    ]
+  },
+  {
+    "id": 853,
+    "soru": "Konsolosluğa uğramadan gidilebilen ülkelere denir",
+    "cevap": "Vizesiz",
+    "alternatifler": [
+      "VIZESIZ"
+    ]
+  },
+  {
+    "id": 854,
+    "soru": "Doktor muayene ücreti",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 855,
+    "soru": "Doktorun hastane içinde yaptığı hasta turu",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 856,
+    "soru": "Doktorun hastanede yatan hastaları tek tek gezmesi",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 857,
+    "soru": "Doktorun kontrol için hastaları bir bir dolaşması",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 858,
+    "soru": "Doktorun kontrol için hastaları bir bir dolaşması",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 859,
+    "soru": "Doktorun hastane içinde yaptığı hasta turu",
+    "cevap": "Vizite",
+    "alternatifler": [
+      "VIZITE"
+    ]
+  },
+  {
+    "id": 860,
+    "soru": "Kürkleri için yetiştirilen gelincikler",
+    "cevap": "Vizonlar",
+    "alternatifler": [
+      "VIZONLAR"
+    ]
+  },
+  {
+    "id": 861,
+    "soru": "Yılmaz Erdoğan'ın yazıp oynadığı ilk sinema filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 862,
+    "soru": "Bir köye televizyonun gelişini anlatan Türk filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 863,
+    "soru": "Cem Yılmaz'ın Fikri rolünde olduğu komedi film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 864,
+    "soru": "Deli Emin karakterine sahip film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 865,
+    "soru": "Köye gelen ilk televizyon konulu Türk filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 866,
+    "soru": "Yılmaz Erdoğan'ın sinemada adını duyuran filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 867,
+    "soru": "Zeki Müren de bizi görecek mi? sözü bu filmdedir",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 868,
+    "soru": "Bir köye televizyonun gelişini anlatan Türk filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 869,
+    "soru": "Yılmaz Erdoğan'ın oynadığı 2001 yapımı komedi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 870,
+    "soru": "Hakkari'nin ilçesinde geçen Yılmaz Erdoğan filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 871,
+    "soru": "Yılmaz Erdoğan'ın \"Deli Emin\" rolünde olduğu film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 872,
+    "soru": "Bir köye televizyonun gelişini anlatan Türk filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 873,
+    "soru": "Siti Ana, Deli Emin gibi karakterlerin olduğu film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 874,
+    "soru": "Yılmaz Erdoğan'ın 2001 yapımı komedi-drama filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 875,
+    "soru": "Yılmaz Erdoğan'ın ilk filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 876,
+    "soru": "Van'ın bir ilçesinde çekilen Yılmaz Erdoğan filmi",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 877,
+    "soru": "Televizyon üzerine Hakkari'de çekilen film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 878,
+    "soru": "Yılmaz Erdoğan'ın \"Deli Emin\" rolünde olduğu film",
+    "cevap": "Vizontele",
+    "alternatifler": [
+      "VIZONTELE"
+    ]
+  },
+  {
+    "id": 879,
+    "soru": "Uzun vadeli stratejik hedef",
+    "cevap": "Vizyon",
+    "alternatifler": [
+      "VIZYON"
+    ]
+  },
+  {
+    "id": 880,
+    "soru": "Liderlerin şirket için belirlediği ülkü",
+    "cevap": "Vizyon",
+    "alternatifler": [
+      "VIZYON"
+    ]
+  },
+  {
+    "id": 881,
+    "soru": "Kişi ya da şirketin varmak istediği nokta, yol",
+    "cevap": "Vizyon",
+    "alternatifler": [
+      "VIZYON"
+    ]
+  },
+  {
+    "id": 882,
+    "soru": "Rus lider Lenin'in ilk adı",
+    "cevap": "Vladımır",
+    "alternatifler": [
+      "VLADIMIR"
+    ]
+  },
+  {
+    "id": 883,
+    "soru": "Rusya Devlet Başkanı Putin'in adı",
+    "cevap": "Vladımır",
+    "alternatifler": [
+      "VLADIMIR"
+    ]
+  },
+  {
+    "id": 884,
+    "soru": "2013'ten bu yana İstanbul Maratonu'nun sponsorudur",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 885,
+    "soru": "Kırmızı rengi çok kullanan İngiliz GSM operatörü",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 886,
+    "soru": "İngiltere merkezli, Türkiye'de de olan GSM şirketi",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 887,
+    "soru": "Eski adı İnönü olan stadın, yeni adı olan sponsoru",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 888,
+    "soru": "Telsim'i satın alan GSM operatörü",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 889,
+    "soru": "Eski adı İnönü olan stadın, yeni adı olan sponsoru",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 890,
+    "soru": "Eski adı İnönü olan stadın, yeni adı olan sponsoru",
+    "cevap": "Vodafone",
+    "alternatifler": [
+      "VODAFONE"
+    ]
+  },
+  {
+    "id": 891,
+    "soru": "Tiyatroda hareketli, eğlenceli, hafif güldürü türü",
+    "cevap": "Vodvil",
+    "alternatifler": [
+      "VODVIL"
+    ]
+  },
+  {
+    "id": 892,
+    "soru": "Bir müzik grubundaki şarkıcıya verilen ad",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 893,
+    "soru": "Müzik grubunda, şarkı söyleyen kişiye verilen ad",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 894,
+    "soru": "Müzikte solisti arka planda destekleyen şarkıcı",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 895,
+    "soru": "Belirli kısımlarda soliste eşlik eden şarkıcı",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 896,
+    "soru": "Bir müzik grubunda şarkıları seslendiren kişi",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 897,
+    "soru": "Belirli kısımlarda soliste eşlik eden şarkıcı",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 898,
+    "soru": "Bir müzik grubunda şarkıları seslendiren kişi",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 899,
+    "soru": "Müzik grubunun şarkı söyleyen üyesi, solisti",
+    "cevap": "Vokalist",
+    "alternatifler": [
+      "VOKALIST"
+    ]
+  },
+  {
+    "id": 900,
+    "soru": "Harry Potter'ın anne ve babasını öldüren büyücü",
+    "cevap": "Voldemort",
+    "alternatifler": [
+      "VOLDEMORT"
+    ]
+  },
+  {
+    "id": 901,
+    "soru": "Harry Potter'ın anne ve babasını öldüren karakter",
+    "cevap": "Voldemort",
+    "alternatifler": [
+      "VOLDEMORT"
+    ]
+  },
+  {
+    "id": 902,
+    "soru": "Harry Potter serisinde ismi anılmayan büyücü lord",
+    "cevap": "Voldemort",
+    "alternatifler": [
+      "VOLDEMORT"
+    ]
+  },
+  {
+    "id": 903,
+    "soru": "File ile ikiye bölünmüş alanda oynanan spor oyunu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 904,
+    "soru": "File ile ikiye bölünmüş alanda yapılan bir spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 905,
+    "soru": "Altışarlık takımlarla file üzerinden oynanan oyun",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 906,
+    "soru": "Altışar kişilik iki takımla yapılan salon sporu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 907,
+    "soru": "William Morgan tarafından icat edilen top oyunu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 908,
+    "soru": "Elle oynanan ve file kullanılan oyun, uçan top",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 909,
+    "soru": "Neslihan Darnel’in oynadığı spor dalı",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 910,
+    "soru": "Filede altışar kişilik takımlarla oynanan spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 911,
+    "soru": "Manşet adlı bir vuruş biçimi olan spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 912,
+    "soru": "Fileyle bölünen sahada oynanan top oyunu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 913,
+    "soru": "Filenin Efeleri lakaplı milli takımın spor dalı",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 914,
+    "soru": "Elle oynanan ve file kullanılan oyun, uçan top",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 915,
+    "soru": "A milli takım oyuncusu Naz Aydemir'in spor dalı",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 916,
+    "soru": "Basketbol dışında smaçör oyuncusu olan spor dalı",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 917,
+    "soru": "Giovanni Guidetti'nin milli takım koçu olduğu spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 918,
+    "soru": "CEV, bu sporun Avrupa'daki konfederasyonudur",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 919,
+    "soru": "Altışar kişilik 2 takımın elle oynadığı top oyunu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 920,
+    "soru": "1885 yılında Amerika'da icat edilen spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 921,
+    "soru": "Sinan Erdem, bu branşın milli sporcusuydu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 922,
+    "soru": "Filenin Sultanları lakaplı takımın yaptığı spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 923,
+    "soru": "Giovanni Guidetti, bu sporda milli antrenördür",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 924,
+    "soru": "Uluslararası federasyonu FIVB olan salon sporu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 925,
+    "soru": "Elle oynanan ve file kullanılan oyun, uçan top",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 926,
+    "soru": "Uluslararası federasyonu FIVB olan salon sporu",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 927,
+    "soru": "1885 yılında Amerika'da icat edilen spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 928,
+    "soru": "Filenin Sultanları lakaplı takımın yaptığı spor",
+    "cevap": "Voleybol",
+    "alternatifler": [
+      "VOLEYBOL"
+    ]
+  },
+  {
+    "id": 929,
+    "soru": "Tungsten elementinin diğer adı",
+    "cevap": "Volfram",
+    "alternatifler": [
+      "VOLFRAM"
+    ]
+  },
+  {
+    "id": 930,
+    "soru": "Sembolü W olan, ampul yapımında kullanılan element",
+    "cevap": "Volfram",
+    "alternatifler": [
+      "VOLFRAM"
+    ]
+  },
+  {
+    "id": 931,
+    "soru": "Argoda, sahtekarlıkla çok büyük paralar kazanma",
+    "cevap": "Voli vurma",
+    "alternatifler": [
+      "VOLI VURMA",
+      "Volivurma"
+    ]
+  },
+  {
+    "id": 932,
+    "soru": "Argoda, sahtekarlıkla çok büyük paralar kazanma",
+    "cevap": "Voli vurma",
+    "alternatifler": [
+      "VOLI VURMA",
+      "Volivurma"
+    ]
+  },
+  {
+    "id": 933,
+    "soru": "Magmanın yeryüzüne çıktığı yer şekli",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 934,
+    "soru": "Avrupa Yakası'nda Ata Demirer'in karakteri",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 935,
+    "soru": "Kuzey'in Oğlu lakabıyla bilinen sanatçının ismi",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 936,
+    "soru": "Yanardağın eş anlamlısı olan kelime",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 937,
+    "soru": "Jeolojide yanardağ",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 938,
+    "soru": "Avrupa Yakası'nda Aslı'nın erkek kardeşi",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 939,
+    "soru": "Ata Demirer'in Avrupa Yakası'ndaki ismi",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 940,
+    "soru": "Türk oyuncu ve seslendirme sanatçısı, __ Severcan",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 941,
+    "soru": "Karadeniz kökenli, Konak soyadlı müzisyenin adı",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 942,
+    "soru": "Ata Demirer'in Avrupa Yakası'ndaki ismi",
+    "cevap": "Volkan",
+    "alternatifler": [
+      "VOLKAN"
+    ]
+  },
+  {
+    "id": 943,
+    "soru": "Püsküren lavların oluşturduğu dağların sıfatı",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 944,
+    "soru": "Yanardağ püskürmesi sonucu oluşan kaya türü",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 945,
+    "soru": "Yanardağ niteliğinde olan",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 946,
+    "soru": "Yanardağ patlaması sonucu oluşan arazinin türü",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 947,
+    "soru": "Yanardağ püskürmesi sonucu oluşan kaya türü",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 948,
+    "soru": "Yanardağ faaliyetleri gösteren dağ cinsi",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 949,
+    "soru": "Püsküren lavların oluşturduğu dağların sıfatı",
+    "cevap": "Volkanik",
+    "alternatifler": [
+      "VOLKANIK"
+    ]
+  },
+  {
+    "id": 950,
+    "soru": "Şantajla kafiyeli elektrik terimi",
+    "cevap": "Voltaj",
+    "alternatifler": [
+      "VOLTAJ"
+    ]
+  },
+  {
+    "id": 951,
+    "soru": "Bağlı iki nokta arasındaki elektrik gerilimi",
+    "cevap": "Voltaj",
+    "alternatifler": [
+      "VOLTAJ"
+    ]
+  },
+  {
+    "id": 952,
+    "soru": "Fizikte gerilim",
+    "cevap": "Voltaj",
+    "alternatifler": [
+      "VOLTAJ"
+    ]
+  },
+  {
+    "id": 953,
+    "soru": "Elektrik potansiyeli farkı",
+    "cevap": "Voltaj",
+    "alternatifler": [
+      "VOLTAJ"
+    ]
+  },
+  {
+    "id": 954,
+    "soru": "Kısaltması VA olan güç birimi",
+    "cevap": "Voltamper",
+    "alternatifler": [
+      "VOLTAMPER"
+    ]
+  },
+  {
+    "id": 955,
+    "soru": "Kısaltması VA olan güç birimi",
+    "cevap": "Voltamper",
+    "alternatifler": [
+      "VOLTAMPER"
+    ]
+  },
+  {
+    "id": 956,
+    "soru": "Kısaltması VA olan güç birimi",
+    "cevap": "Voltamper",
+    "alternatifler": [
+      "VOLTAMPER"
+    ]
+  },
+  {
+    "id": 957,
+    "soru": "Kısaltması VA olan güç birimi",
+    "cevap": "Voltamper",
+    "alternatifler": [
+      "VOLTAMPER"
+    ]
+  },
+  {
+    "id": 958,
+    "soru": "Sürekli olarak bir aşağı bir yukarı yürüme",
+    "cevap": "Volta atma",
+    "alternatifler": [
+      "VOLTA ATMA",
+      "Voltaatma"
+    ]
+  },
+  {
+    "id": 959,
+    "soru": "İki nokta arasındaki gerilim farkını ölçen alet",
+    "cevap": "Voltmetre",
+    "alternatifler": [
+      "VOLTMETRE"
+    ]
+  },
+  {
+    "id": 960,
+    "soru": "Elektrik devresinde gerilimi ölçen alet",
+    "cevap": "Voltmetre",
+    "alternatifler": [
+      "VOLTMETRE"
+    ]
+  },
+  {
+    "id": 961,
+    "soru": "İki nokta arasındaki gerilim farkını ölçen alet",
+    "cevap": "Voltmetre",
+    "alternatifler": [
+      "VOLTMETRE"
+    ]
+  },
+  {
+    "id": 962,
+    "soru": "Elektrik devresinde gerilimi ölçen alet",
+    "cevap": "Voltmetre",
+    "alternatifler": [
+      "VOLTMETRE"
+    ]
+  },
+  {
+    "id": 963,
+    "soru": "Beş robotun birleşmesiyle oluşan efsane kahraman",
+    "cevap": "Voltron",
+    "alternatifler": [
+      "VOLTRON"
+    ]
+  },
+  {
+    "id": 964,
+    "soru": "Beş robotun birleşmesiyle oluşan efsane kahraman",
+    "cevap": "Voltron",
+    "alternatifler": [
+      "VOLTRON"
+    ]
+  },
+  {
+    "id": 965,
+    "soru": "Şebnem Ferah'ın eskiden üyesi olduğu müzik grubu",
+    "cevap": "Volvox",
+    "alternatifler": [
+      "VOLVOX"
+    ]
+  },
+  {
+    "id": 966,
+    "soru": "Şebnem Ferah'ın kurduğu müzik grubu",
+    "cevap": "Volvox",
+    "alternatifler": [
+      "VOLVOX"
+    ]
+  },
+  {
+    "id": 967,
+    "soru": "Avustralya'ya özgü, dışkısı küp şeklindeki hayvan",
+    "cevap": "Vombat",
+    "alternatifler": [
+      "VOMBAT"
+    ]
+  },
+  {
+    "id": 968,
+    "soru": "Avustralya'ya özgü, kısa bacaklı ve keseli hayvan",
+    "cevap": "Vombat",
+    "alternatifler": [
+      "VOMBAT"
+    ]
+  },
+  {
+    "id": 969,
+    "soru": "Bu hayvanın dışkısı küp şeklindedir",
+    "cevap": "Vombat",
+    "alternatifler": [
+      "VOMBAT"
+    ]
+  },
+  {
+    "id": 970,
+    "soru": "Oyun başlamadan önce çalınan orkestra parçası",
+    "cevap": "Vorspıel",
+    "alternatifler": [
+      "VORSPIEL"
+    ]
+  },
+  {
+    "id": 971,
+    "soru": "Oyun başlamadan önce çalınan orkestra parçası",
+    "cevap": "Vorspıel",
+    "alternatifler": [
+      "VORSPIEL"
+    ]
+  },
+  {
+    "id": 972,
+    "soru": "Yuri Gagarin'i uzaya çıkaran mekik",
+    "cevap": "Vostok",
+    "alternatifler": [
+      "VOSTOK"
+    ]
+  },
+  {
+    "id": 973,
+    "soru": "Uzaya giden ilk insanı taşıyan uzay aracının adı",
+    "cevap": "Vostok",
+    "alternatifler": [
+      "VOSTOK"
+    ]
+  },
+  {
+    "id": 974,
+    "soru": "Antartika'nın en büyük buzaltı gölü",
+    "cevap": "Vostok",
+    "alternatifler": [
+      "VOSTOK"
+    ]
+  },
+  {
+    "id": 975,
+    "soru": "Volkswagen Beetle'ın halk arasındaki adı",
+    "cevap": "Vosvos",
+    "alternatifler": [
+      "VOSVOS"
+    ]
+  },
+  {
+    "id": 976,
+    "soru": "Volkswagen Beetle'ın halk arasındaki adı",
+    "cevap": "Vosvos",
+    "alternatifler": [
+      "VOSVOS"
+    ]
+  },
+  {
+    "id": 977,
+    "soru": "Volkswagen Beetle'ın halk arasındaki adı",
+    "cevap": "Vosvos",
+    "alternatifler": [
+      "VOSVOS"
+    ]
+  },
+  {
+    "id": 978,
+    "soru": "Kont Drakula olarak da bilinen kişinin unvanı",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 979,
+    "soru": "Kont Drakula olarak da bilinen ünlü prens",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 980,
+    "soru": "Osmanlı'da Eflak ve Boğdan beylerine verilen unvan",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 981,
+    "soru": "Kazıklı olanı, Kont Drakula için ilham verdi",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 982,
+    "soru": "Osmanlı'da Eflak ve Boğdan beylerine verilen unvan",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 983,
+    "soru": "Osmanlıların Eflak ve Boğdan beylerine hitabı",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 984,
+    "soru": "Romanya'nın ulusal kahramanıdır, Kazıklı __",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 985,
+    "soru": "Kont Drakula olarak da bilinen kişinin unvanı",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 986,
+    "soru": "Osmanlıların Eflak ve Boğdan beylerine hitabı",
+    "cevap": "Voyvoda",
+    "alternatifler": [
+      "VOYVODA"
+    ]
+  },
+  {
+    "id": 987,
+    "soru": "Dünya'da bilinen en büyük boyutlu krater",
+    "cevap": "Vredefort",
+    "alternatifler": [
+      "VREDEFORT"
+    ]
+  },
+  {
+    "id": 988,
+    "soru": "Kadın şapkalarında yüzü örten tül",
+    "cevap": "Vualet",
+    "alternatifler": [
+      "VUALET"
+    ]
+  },
+  {
+    "id": 989,
+    "soru": "Polisi ilgilendiren olay, suç",
+    "cevap": "Vukuat",
+    "alternatifler": [
+      "VUKUAT"
+    ]
+  },
+  {
+    "id": 990,
+    "soru": "Aileye dair bilgileri de içeren nüfus kaydı",
+    "cevap": "Vukuatlı",
+    "alternatifler": [
+      "VUKUATLI"
+    ]
+  },
+  {
+    "id": 991,
+    "soru": "Orhan Kemal imzalı Hanımın Çiftliği serisinin ilki",
+    "cevap": "Vukuat var",
+    "alternatifler": [
+      "VUKUAT VAR",
+      "Vukuatvar"
+    ]
+  },
+  {
+    "id": 992,
+    "soru": "Ünlü roman serisi Hanımın Çiftliği'nin ilk kitabı",
+    "cevap": "Vukuat var",
+    "alternatifler": [
+      "VUKUAT VAR",
+      "Vukuatvar"
+    ]
+  },
+  {
+    "id": 993,
+    "soru": "Ünlü roman serisi Hanımın Çiftliği'nin ilk kitabı",
+    "cevap": "Vukuat var",
+    "alternatifler": [
+      "VUKUAT VAR",
+      "Vukuatvar"
+    ]
+  },
+  {
+    "id": 994,
+    "soru": "Orhan Kemal imzalı Hanımın Çiftliği serisinin ilki",
+    "cevap": "Vukuat var",
+    "alternatifler": [
+      "VUKUAT VAR",
+      "Vukuatvar"
+    ]
+  },
+  {
+    "id": 995,
+    "soru": "Eski dilde, yeterli bilgiye sahip olmayan, cahil",
+    "cevap": "Vukufsuz",
+    "alternatifler": [
+      "VUKUFSUZ"
+    ]
+  },
+  {
+    "id": 996,
+    "soru": "Eski dilde, yeterli bilgiye sahip olmayan, cahil",
+    "cevap": "Vukufsuz",
+    "alternatifler": [
+      "VUKUFSUZ"
+    ]
+  },
+  {
+    "id": 997,
+    "soru": "Gerçekleşme, varlık kazanma",
+    "cevap": "Vuku bulma",
+    "alternatifler": [
+      "VUKU BULMA",
+      "Vukubulma"
+    ]
+  },
+  {
+    "id": 998,
+    "soru": "Ortaya çıkma, gerçekleşme",
+    "cevap": "Vuku bulma",
+    "alternatifler": [
+      "VUKU BULMA",
+      "Vukubulma"
+    ]
+  },
+  {
+    "id": 999,
+    "soru": "Gerçekleşme, varlık kazanma",
+    "cevap": "Vuku bulma",
+    "alternatifler": [
+      "VUKU BULMA",
+      "Vukubulma"
+    ]
+  },
+  {
+    "id": 1000,
+    "soru": "Uzay Yolu'nda Spock'ın ait olduğu insansı tür",
+    "cevap": "Vulkan",
+    "alternatifler": [
+      "VULKAN"
+    ]
+  },
+  {
+    "id": 1001,
+    "soru": "Uzay Yolu dizisindeki Spock bu ırka mensuptur",
+    "cevap": "Vulkanlar",
+    "alternatifler": [
+      "VULKANLAR"
+    ]
+  },
+  {
+    "id": 1002,
+    "soru": "Uzay Yolu dizisindeki Spock bu ırka mensuptur",
+    "cevap": "Vulkanlar",
+    "alternatifler": [
+      "VULKANLAR"
+    ]
+  },
+  {
+    "id": 1003,
+    "soru": "Merve Özbey'in yorumladığı Yıldız Tilbe şarkısı",
+    "cevap": "Vuracak",
+    "alternatifler": [
+      "VURACAK"
+    ]
+  },
+  {
+    "id": 1004,
+    "soru": "Mecazen, belirli bir hususa özellikle önem vererek",
+    "cevap": "Vurgulu",
+    "alternatifler": [
+      "VURGULU"
+    ]
+  },
+  {
+    "id": 1005,
+    "soru": "Yasadışı olarak elde edilen büyük kazanç",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1006,
+    "soru": "Derin sularda basınç sebebiyle görülen hastalık",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1007,
+    "soru": "Dalgıçların korkulu rüyası olan vücut hasarı",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1008,
+    "soru": "Dalgıçların yukarı hızlı çıkınca yaşadıkları sorun",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1009,
+    "soru": "Tedavisi basınç odasında gerçekleşir",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1010,
+    "soru": "Dalgıçlarda basınç değişimi ile oluşan rahatsızlık",
+    "cevap": "Vurgun",
+    "alternatifler": [
+      "VURGUN"
+    ]
+  },
+  {
+    "id": 1011,
+    "soru": "Davul, darbuka, bateri vb. genel adı, __ çalgılar",
+    "cevap": "Vurmalı",
+    "alternatifler": [
+      "VURMALI"
+    ]
+  },
+  {
+    "id": 1012,
+    "soru": "Silahların kullanıldığı kavga ya da karışıklık",
+    "cevap": "Vurtut",
+    "alternatifler": [
+      "VURTUT"
+    ]
+  },
+  {
+    "id": 1013,
+    "soru": "Akılda kalıcı, etkileyici",
+    "cevap": "Vurucu",
+    "alternatifler": [
+      "VURUCU"
+    ]
+  },
+  {
+    "id": 1014,
+    "soru": "Mecazen birine sevdalanmak, aşık olmak",
+    "cevap": "Vurulmak",
+    "alternatifler": [
+      "VURULMAK"
+    ]
+  },
+  {
+    "id": 1015,
+    "soru": "Mecazen birisini çok sevmek, gönlünü kaptırmak",
+    "cevap": "Vurulmak",
+    "alternatifler": [
+      "VURULMAK"
+    ]
+  },
+  {
+    "id": 1016,
+    "soru": "Bir atasözü, dam üstünde saksağan, __ kazmayı",
+    "cevap": "Vur beline",
+    "alternatifler": [
+      "VUR BELINE",
+      "Vurbeline"
+    ]
+  },
+  {
+    "id": 1017,
+    "soru": "Sevgiliye kavuşma",
+    "cevap": "Vuslat",
+    "alternatifler": [
+      "VUSLAT"
+    ]
+  },
+  {
+    "id": 1018,
+    "soru": "Eski dilde sevilen kişiyi yeniden görme, kavuşma",
+    "cevap": "Vuslat",
+    "alternatifler": [
+      "VUSLAT"
+    ]
+  },
+  {
+    "id": 1019,
+    "soru": "Uzun bekleyişten sonra sevilene kavuşma",
+    "cevap": "Vuslat",
+    "alternatifler": [
+      "VUSLAT"
+    ]
+  },
+  {
+    "id": 1020,
+    "soru": "Devrim Özkan, bu dizide Feride'yi oynuyor",
+    "cevap": "Vuslat",
+    "alternatifler": [
+      "VUSLAT"
+    ]
+  },
+  {
+    "id": 1021,
+    "soru": "2010 Dünya Kupası'na damga vuran Afrika çalgısı",
+    "cevap": "Vuvuzela",
+    "alternatifler": [
+      "VUVUZELA"
+    ]
+  },
+  {
+    "id": 1022,
+    "soru": "Afrika'daki Dünya Kupası'nda ünlenen müzik aleti",
+    "cevap": "Vuvuzela",
+    "alternatifler": [
+      "VUVUZELA"
+    ]
+  },
+  {
+    "id": 1023,
+    "soru": "Body building sporcularının halk arasındaki adı",
+    "cevap": "Vücutçu",
+    "alternatifler": [
+      "VÜCUTÇU",
+      "VUCUTCU"
+    ]
+  },
+  {
+    "id": 1024,
+    "soru": "Yüz ifadesiyle, beden hareketiyle yapılan iletişim",
+    "cevap": "Vücut dili",
+    "alternatifler": [
+      "VÜCUT DILI",
+      "VUCUT DILI",
+      "Vücutdili"
+    ]
+  },
+  {
+    "id": 1025,
+    "soru": "Osmanlı'da hükümet işlerini yürüten bakanlar",
+    "cevap": "Vükela",
+    "alternatifler": [
+      "VUKELA",
+      "VÜKELA"
+    ]
+  },
+  {
+    "id": 1026,
+    "soru": "Göçmen kuşların enerji korumaya yarayan uçuş şekli",
+    "cevap": "V düzeni",
+    "alternatifler": [
+      "V DÜZENI",
+      "V DUZENI",
+      "Vdüzeni"
+    ]
+  }
+]
