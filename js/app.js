@@ -3,7 +3,8 @@ import { getDatabase, ref, push, onValue, query, orderByChild, limitToLast, set,
 import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-auth.js";
 import { HARFLER, HARF_DOSYA_ESLEME, EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, EMAILJS_PUBLIC_KEY, OYUN_SURESI } from './core/constants.js';
 import { oyunDurumu, resetState } from './core/state.js';
-import { yatayModKontrol, bilgisayarModunuAyarla, ekraniGoster, canliIstatistikGuncelle } from './ui/screens.js';
+import { yatayModKontrol, bilgisayarModunuAyarla, ekraniGoster } from './ui/screens.js';
+import { canliIstatistikGuncelle } from './game/score-manager.js';
 import { cevapVer, pasCek, daireOlustur, harfiAktifYap, sonrakiSoruya } from './game/game-engine.js';
 import { sorulariYukle, sorulariSec } from './game/question-manager.js';
 import { skorkaydet, oyunuBitir } from './game/score-manager.js';
