@@ -782,7 +782,15 @@ color:#fff;font-size:15px;font-weight:700;
     <!-- ========================================================================= -->
     <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BAŞLANGIÇ)                         -->
     <!-- ========================================================================= -->
-    <script type="module" src="js/app.js"></script>
+    <script type="module">
+  window.addEventListener('error', e => {
+    document.getElementById('yuklemeMesaj').textContent = e.message + ' — ' + e.filename;
+  });
+  window.addEventListener('unhandledrejection', e => {
+    document.getElementById('yuklemeMesaj').textContent = String(e.reason);
+  });
+  import('./js/app.js');
+    </script>
     <!-- ========================================================================= -->
     <!-- JAVASCRIPT OYUN MANTIĞI VE FİREBASE (BİTİŞ)                               -->
     <!-- ========================================================================= -->
