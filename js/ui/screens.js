@@ -24,6 +24,7 @@ export function bilgisayarModunuAyarla() {
   }
 }
 
-export function canliIstatistikGuncelle() {
-  // will be implemented in score-manager
+// Satır 6'yı değiştir:
+import { canliIstatistikGuncelle } from './game/score-manager.js';
+// screens.js importuna canliIstatistikGuncelle'yi kaldır
 }
