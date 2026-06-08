@@ -1,3 +1,9 @@
+// maxEkranBoyutu is globally defined in app.js, we need to access it. We'll export a setter.
+let maxEkranBoyutu = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+
+export function getMaxEkranBoyutu() { return maxEkranBoyutu; }
+export function setMaxEkranBoyutu(val) { maxEkranBoyutu = val; }
+
 export function klavyeDurumunuGuncelle() {
   const oyunEkrani = document.getElementById('oyunEkrani');
   if (window.visualViewport) {
@@ -14,8 +20,3 @@ export function klavyeDurumunuGuncelle() {
     }
   }
 }
-
-// maxEkranBoyutu is globally defined in app.js, we need to access it. We'll export a setter.
-let maxEkranBoyutu = window.visualViewport ? window.visualViewport.height : window.innerHeight;
-export function getMaxEkranBoyutu() { return maxEkranBoyutu; }
-export function setMaxEkranBoyutu(val) { maxEkranBoyutu = val; }
