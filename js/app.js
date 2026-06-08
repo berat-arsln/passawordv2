@@ -9,7 +9,7 @@ import { canliIstatistikGuncelle } from './game/score-manager.js';
 import { cevapVer, pasCek, sonrakiSoruya } from './game/game-engine.js';
 import { daireOlustur, harfiAktifYap } from './game/question-manager.js';
 import { sorulariYukle, sorulariSec } from './game/question-manager.js';
-import { skorkaydet, oyunuBitir } from './game/score-manager.js';
+import { oyunuBitir } from './game/score-manager.js';
 import { zamanlayiciBaslat } from './game/timer-manager.js';
 import { modalAc, modalKapat, disaTiklaKapat, onayGoster, onayKapat } from './ui/modal.js';
 import { toastGoster } from './ui/toast.js';
