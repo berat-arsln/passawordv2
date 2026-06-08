@@ -22,7 +22,7 @@ const veritabani = getDatabase(app);
 const kimlikDogrulama = getAuth(app);
 signInAnonymously(kimlikDogrulama).catch(console.error);
 
-window.addEventListener('DOMContentLoaded', () => {
+(() => {
   document.getElementById('yuklemeMesaj').textContent = 'DOMContentLoaded çalıştı';
   const aktifProfilSatir = document.getElementById('aktifProfilSatir');
   let uzunBasmaZamanlayi;
@@ -302,7 +302,7 @@ window.adminOneriReddet = async function(key) {
     toastGoster('Silindi');
     window.adminSoruYukle();
   } catch(e) { toastGoster('Hata!'); }
-};
+})();
 
 // Tüm window atamaları
 window.profilOlustur = profilOlustur;
